@@ -1,0 +1,2975 @@
+Dataset,Comment,Alternative1,Alternative2,Label
+208,98,Bates College,Hamilton College,0
+208,99,Bates College,Hamilton College,1
+208,100,Bates College,Hamilton College,3
+208,101,Bates College,Hamilton College,0
+208,103,Bates College,Hamilton College,0
+208,104,Bates College,Hamilton College,1
+208,105,Bates College,Hamilton College,0
+208,106,Bates College,Hamilton College,2
+208,107,Bates College,Hamilton College,0
+208,108,Bates College,Hamilton College,2
+210,25,Dartmouth College,Cornell University,2
+210,25,Dartmouth College,Johns Hopkins University,0
+210,25,Cornell University,Johns Hopkins University,0
+210,26,Dartmouth College,Cornell University,0
+210,26,Dartmouth College,Johns Hopkins University,0
+210,26,Cornell University,Johns Hopkins University,0
+210,27,Dartmouth College,Cornell University,1
+210,27,Dartmouth College,Johns Hopkins University,1
+210,27,Cornell University,Johns Hopkins University,0
+210,28,Dartmouth College,Cornell University,0
+210,28,Dartmouth College,Johns Hopkins University,0
+210,28,Cornell University,Johns Hopkins University,0
+210,29,Dartmouth College,Cornell University,0
+210,29,Dartmouth College,Johns Hopkins University,0
+210,29,Cornell University,Johns Hopkins University,2
+210,30,Dartmouth College,Cornell University,0
+210,30,Dartmouth College,Johns Hopkins University,0
+210,30,Cornell University,Johns Hopkins University,0
+210,31,Dartmouth College,Cornell University,0
+210,31,Dartmouth College,Johns Hopkins University,0
+210,31,Cornell University,Johns Hopkins University,0
+210,32,Dartmouth College,Cornell University,0
+210,32,Dartmouth College,Johns Hopkins University,0
+210,32,Cornell University,Johns Hopkins University,0
+210,33,Dartmouth College,Cornell University,0
+210,33,Dartmouth College,Johns Hopkins University,0
+210,33,Cornell University,Johns Hopkins University,0
+210,34,Dartmouth College,Cornell University,0
+210,34,Dartmouth College,Johns Hopkins University,0
+210,34,Cornell University,Johns Hopkins University,0
+210,35,Dartmouth College,Cornell University,2
+210,35,Dartmouth College,Johns Hopkins University,0
+210,35,Cornell University,Johns Hopkins University,1
+210,36,Dartmouth College,Cornell University,0
+210,36,Dartmouth College,Johns Hopkins University,0
+210,36,Cornell University,Johns Hopkins University,0
+210,37,Dartmouth College,Cornell University,0
+210,37,Dartmouth College,Johns Hopkins University,0
+210,37,Cornell University,Johns Hopkins University,0
+210,38,Dartmouth College,Cornell University,0
+210,38,Dartmouth College,Johns Hopkins University,0
+210,38,Cornell University,Johns Hopkins University,0
+210,39,Dartmouth College,Cornell University,0
+210,39,Dartmouth College,Johns Hopkins University,3
+210,39,Cornell University,Johns Hopkins University,0
+210,40,Dartmouth College,Cornell University,0
+210,40,Dartmouth College,Johns Hopkins University,0
+210,40,Cornell University,Johns Hopkins University,3
+210,41,Dartmouth College,Cornell University,0
+210,41,Dartmouth College,Johns Hopkins University,1
+210,41,Cornell University,Johns Hopkins University,0
+210,42,Dartmouth College,Cornell University,0
+210,42,Dartmouth College,Johns Hopkins University,0
+210,42,Cornell University,Johns Hopkins University,0
+210,43,Dartmouth College,Cornell University,0
+210,43,Dartmouth College,Johns Hopkins University,0
+210,43,Cornell University,Johns Hopkins University,0
+210,44,Dartmouth College,Cornell University,0
+210,44,Dartmouth College,Johns Hopkins University,0
+210,44,Cornell University,Johns Hopkins University,0
+211,1,Wesleyan University,College of William & Mary,2
+211,2,Wesleyan University,College of William & Mary,0
+211,3,Wesleyan University,College of William & Mary,0
+211,4,Wesleyan University,College of William & Mary,1
+211,5,Wesleyan University,College of William & Mary,1
+211,6,Wesleyan University,College of William & Mary,0
+211,7,Wesleyan University,College of William & Mary,3
+211,10,Wesleyan University,College of William & Mary,2
+211,11,Wesleyan University,College of William & Mary,0
+211,12,Wesleyan University,College of William & Mary,0
+208,87,Bates College,Hamilton College,0
+208,88,Bates College,Hamilton College,0
+208,89,Bates College,Hamilton College,0
+208,90,Bates College,Hamilton College,0
+208,91,Bates College,Hamilton College,0
+208,92,Bates College,Hamilton College,0
+208,93,Bates College,Hamilton College,0
+208,94,Bates College,Hamilton College,0
+208,95,Bates College,Hamilton College,0
+208,96,Bates College,Hamilton College,0
+210,15,Dartmouth College,Cornell University,2
+210,15,Dartmouth College,Johns Hopkins University,2
+210,15,Cornell University,Johns Hopkins University,3
+210,16,Dartmouth College,Cornell University,1
+210,16,Dartmouth College,Johns Hopkins University,1
+210,16,Cornell University,Johns Hopkins University,1
+210,17,Dartmouth College,Cornell University,3
+210,17,Dartmouth College,Johns Hopkins University,3
+210,17,Cornell University,Johns Hopkins University,3
+210,18,Dartmouth College,Cornell University,3
+210,18,Dartmouth College,Johns Hopkins University,2
+210,18,Cornell University,Johns Hopkins University,2
+210,19,Dartmouth College,Cornell University,3
+210,19,Dartmouth College,Johns Hopkins University,3
+210,19,Cornell University,Johns Hopkins University,3
+210,20,Dartmouth College,Cornell University,3
+210,20,Dartmouth College,Johns Hopkins University,3
+210,20,Cornell University,Johns Hopkins University,1
+210,21,Dartmouth College,Cornell University,3
+210,21,Dartmouth College,Johns Hopkins University,3
+210,21,Cornell University,Johns Hopkins University,3
+210,22,Dartmouth College,Cornell University,3
+210,22,Dartmouth College,Johns Hopkins University,3
+210,22,Cornell University,Johns Hopkins University,3
+210,23,Dartmouth College,Cornell University,3
+210,23,Dartmouth College,Johns Hopkins University,2
+210,23,Cornell University,Johns Hopkins University,2
+210,24,Dartmouth College,Cornell University,3
+210,24,Dartmouth College,Johns Hopkins University,3
+210,24,Cornell University,Johns Hopkins University,3
+208,50,Bates College,Hamilton College,0
+208,51,Bates College,Hamilton College,0
+208,52,Bates College,Hamilton College,3
+208,53,Bates College,Hamilton College,0
+208,54,Bates College,Hamilton College,0
+208,55,Bates College,Hamilton College,0
+208,56,Bates College,Hamilton College,0
+208,57,Bates College,Hamilton College,2
+208,58,Bates College,Hamilton College,0
+208,59,Bates College,Hamilton College,0
+209,13,University of Michigan,University of Virginia,3
+209,14,University of Michigan,University of Virginia,2
+209,15,University of Michigan,University of Virginia,3
+209,16,University of Michigan,University of Virginia,0
+209,18,University of Michigan,University of Virginia,0
+209,22,University of Michigan,University of Virginia,0
+209,24,University of Michigan,University of Virginia,0
+209,26,University of Michigan,University of Virginia,0
+209,28,University of Michigan,University of Virginia,0
+209,30,University of Michigan,University of Virginia,0
+208,60,Bates College,Hamilton College,0
+208,62,Bates College,Hamilton College,0
+208,63,Bates College,Hamilton College,1
+208,64,Bates College,Hamilton College,0
+208,66,Bates College,Hamilton College,0
+208,67,Bates College,Hamilton College,0
+208,69,Bates College,Hamilton College,1
+208,70,Bates College,Hamilton College,0
+208,73,Bates College,Hamilton College,0
+208,75,Bates College,Hamilton College,0
+209,31,University of Michigan,University of Virginia,0
+209,32,University of Michigan,University of Virginia,0
+209,34,University of Michigan,University of Virginia,0
+209,35,University of Michigan,University of Virginia,0
+209,37,University of Michigan,University of Virginia,0
+209,39,University of Michigan,University of Virginia,0
+209,40,University of Michigan,University of Virginia,1
+209,41,University of Michigan,University of Virginia,1
+209,43,University of Michigan,University of Virginia,0
+209,44,University of Michigan,University of Virginia,3
+208,39,Bates College,Hamilton College,3
+208,41,Bates College,Hamilton College,3
+208,42,Bates College,Hamilton College,3
+208,43,Bates College,Hamilton College,3
+208,44,Bates College,Hamilton College,0
+208,45,Bates College,Hamilton College,0
+208,46,Bates College,Hamilton College,0
+208,47,Bates College,Hamilton College,0
+208,48,Bates College,Hamilton College,0
+208,49,Bates College,Hamilton College,0
+209,1,University of Michigan,University of Virginia,3
+209,2,University of Michigan,University of Virginia,3
+209,3,University of Michigan,University of Virginia,3
+209,4,University of Michigan,University of Virginia,3
+209,5,University of Michigan,University of Virginia,3
+209,6,University of Michigan,University of Virginia,3
+209,7,University of Michigan,University of Virginia,3
+209,10,University of Michigan,University of Virginia,1
+209,11,University of Michigan,University of Virginia,1
+209,12,University of Michigan,University of Virginia,1
+207,36,Cornell University,University of Michigan,1
+207,37,Cornell University,University of Michigan,1
+207,38,Cornell University,University of Michigan,1
+207,39,Cornell University,University of Michigan,0
+207,41,Cornell University,University of Michigan,2
+207,42,Cornell University,University of Michigan,1
+207,43,Cornell University,University of Michigan,1
+207,44,Cornell University,University of Michigan,1
+207,45,Cornell University,University of Michigan,1
+207,46,Cornell University,University of Michigan,0
+208,27,Bates College,Hamilton College,1
+208,28,Bates College,Hamilton College,2
+208,29,Bates College,Hamilton College,1
+208,30,Bates College,Hamilton College,1
+208,32,Bates College,Hamilton College,0
+208,33,Bates College,Hamilton College,1
+208,34,Bates College,Hamilton College,3
+208,35,Bates College,Hamilton College,3
+208,36,Bates College,Hamilton College,1
+208,38,Bates College,Hamilton College,2
+207,25,Cornell University,University of Michigan,2
+207,26,Cornell University,University of Michigan,1
+207,27,Cornell University,University of Michigan,1
+207,28,Cornell University,University of Michigan,1
+207,29,Cornell University,University of Michigan,1
+207,30,Cornell University,University of Michigan,1
+207,31,Cornell University,University of Michigan,2
+207,32,Cornell University,University of Michigan,1
+207,33,Cornell University,University of Michigan,1
+207,34,Cornell University,University of Michigan,3
+208,11,Bates College,Hamilton College,3
+208,13,Bates College,Hamilton College,2
+208,14,Bates College,Hamilton College,1
+208,15,Bates College,Hamilton College,0
+208,17,Bates College,Hamilton College,3
+208,21,Bates College,Hamilton College,3
+208,22,Bates College,Hamilton College,1
+208,23,Bates College,Hamilton College,2
+208,24,Bates College,Hamilton College,1
+208,25,Bates College,Hamilton College,3
+207,15,Cornell University,University of Michigan,1
+207,16,Cornell University,University of Michigan,1
+207,17,Cornell University,University of Michigan,2
+207,18,Cornell University,University of Michigan,1
+207,19,Cornell University,University of Michigan,1
+207,20,Cornell University,University of Michigan,3
+207,21,Cornell University,University of Michigan,1
+207,22,Cornell University,University of Michigan,2
+207,23,Cornell University,University of Michigan,1
+207,24,Cornell University,University of Michigan,1
+208,1,Bates College,Hamilton College,2
+208,2,Bates College,Hamilton College,2
+208,3,Bates College,Hamilton College,3
+208,4,Bates College,Hamilton College,3
+208,5,Bates College,Hamilton College,2
+208,6,Bates College,Hamilton College,2
+208,7,Bates College,Hamilton College,2
+208,8,Bates College,Hamilton College,2
+208,9,Bates College,Hamilton College,1
+208,10,Bates College,Hamilton College,2
+205,66,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,67,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,68,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,69,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,70,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,71,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,72,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,73,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,76,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,77,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+206,33,University of Pittsburgh,Yale University,0
+206,34,University of Pittsburgh,Yale University,0
+206,35,University of Pittsburgh,Yale University,0
+206,36,University of Pittsburgh,Yale University,0
+206,37,University of Pittsburgh,Yale University,0
+206,38,University of Pittsburgh,Yale University,0
+206,39,University of Pittsburgh,Yale University,0
+206,40,University of Pittsburgh,Yale University,0
+206,41,University of Pittsburgh,Yale University,0
+206,42,University of Pittsburgh,Yale University,0
+205,50,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,53,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,54,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,55,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,59,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,60,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,61,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,62,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,64,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,65,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+206,23,University of Pittsburgh,Yale University,0
+206,24,University of Pittsburgh,Yale University,1
+206,25,University of Pittsburgh,Yale University,0
+206,26,University of Pittsburgh,Yale University,2
+206,27,University of Pittsburgh,Yale University,2
+206,28,University of Pittsburgh,Yale University,2
+206,29,University of Pittsburgh,Yale University,0
+206,30,University of Pittsburgh,Yale University,0
+206,31,University of Pittsburgh,Yale University,0
+206,32,University of Pittsburgh,Yale University,0
+205,14,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,15,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,16,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,19,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,20,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,21,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,22,Franklin W. Olin College of Engineering,Georgia Institute of Technology,3
+205,23,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,24,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,25,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+206,1,University of Pittsburgh,Yale University,2
+206,2,University of Pittsburgh,Yale University,2
+206,3,University of Pittsburgh,Yale University,1
+206,4,University of Pittsburgh,Yale University,3
+206,5,University of Pittsburgh,Yale University,1
+206,6,University of Pittsburgh,Yale University,0
+206,7,University of Pittsburgh,Yale University,0
+206,9,University of Pittsburgh,Yale University,1
+206,10,University of Pittsburgh,Yale University,1
+206,12,University of Pittsburgh,Yale University,2
+201,49,University of Pennsylvania,Yale University,0
+201,50,University of Pennsylvania,Yale University,0
+201,51,University of Pennsylvania,Yale University,0
+201,52,University of Pennsylvania,Yale University,0
+201,53,University of Pennsylvania,Yale University,0
+201,54,University of Pennsylvania,Yale University,0
+201,55,University of Pennsylvania,Yale University,0
+201,56,University of Pennsylvania,Yale University,0
+201,57,University of Pennsylvania,Yale University,0
+201,58,University of Pennsylvania,Yale University,0
+205,1,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,2,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,3,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,4,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,5,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,8,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,9,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,10,Franklin W. Olin College of Engineering,Georgia Institute of Technology,3
+205,12,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,13,Franklin W. Olin College of Engineering,Georgia Institute of Technology,0
+205,26,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,33,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,34,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,35,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,36,Franklin W. Olin College of Engineering,Georgia Institute of Technology,3
+205,37,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,42,Franklin W. Olin College of Engineering,Georgia Institute of Technology,2
+205,43,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,47,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+205,49,Franklin W. Olin College of Engineering,Georgia Institute of Technology,1
+206,13,University of Pittsburgh,Yale University,2
+206,14,University of Pittsburgh,Yale University,2
+206,15,University of Pittsburgh,Yale University,1
+206,16,University of Pittsburgh,Yale University,2
+206,17,University of Pittsburgh,Yale University,1
+206,18,University of Pittsburgh,Yale University,2
+206,19,University of Pittsburgh,Yale University,1
+206,20,University of Pittsburgh,Yale University,2
+206,21,University of Pittsburgh,Yale University,2
+206,22,University of Pittsburgh,Yale University,2
+200,32,Carleton College,Amherst College,1
+200,33,Carleton College,Amherst College,0
+200,34,Carleton College,Amherst College,3
+200,35,Carleton College,Amherst College,1
+200,36,Carleton College,Amherst College,0
+200,37,Carleton College,Amherst College,3
+200,38,Carleton College,Amherst College,2
+200,39,Carleton College,Amherst College,1
+200,40,Carleton College,Amherst College,1
+200,41,Carleton College,Amherst College,1
+201,28,University of Pennsylvania,Yale University,3
+201,29,University of Pennsylvania,Yale University,3
+201,30,University of Pennsylvania,Yale University,1
+201,31,University of Pennsylvania,Yale University,3
+201,32,University of Pennsylvania,Yale University,2
+201,33,University of Pennsylvania,Yale University,0
+201,34,University of Pennsylvania,Yale University,2
+201,35,University of Pennsylvania,Yale University,0
+201,36,University of Pennsylvania,Yale University,0
+201,37,University of Pennsylvania,Yale University,1
+200,22,Carleton College,Amherst College,0
+200,23,Carleton College,Amherst College,3
+200,24,Carleton College,Amherst College,0
+200,25,Carleton College,Amherst College,3
+200,26,Carleton College,Amherst College,1
+200,27,Carleton College,Amherst College,3
+200,28,Carleton College,Amherst College,3
+200,29,Carleton College,Amherst College,1
+200,30,Carleton College,Amherst College,0
+200,31,Carleton College,Amherst College,3
+201,18,University of Pennsylvania,Yale University,0
+201,19,University of Pennsylvania,Yale University,2
+201,20,University of Pennsylvania,Yale University,1
+201,21,University of Pennsylvania,Yale University,0
+201,22,University of Pennsylvania,Yale University,2
+201,23,University of Pennsylvania,Yale University,1
+201,24,University of Pennsylvania,Yale University,1
+201,25,University of Pennsylvania,Yale University,0
+201,26,University of Pennsylvania,Yale University,1
+201,27,University of Pennsylvania,Yale University,0
+200,11,Carleton College,Amherst College,3
+200,12,Carleton College,Amherst College,3
+200,13,Carleton College,Amherst College,0
+200,14,Carleton College,Amherst College,2
+200,15,Carleton College,Amherst College,1
+200,16,Carleton College,Amherst College,1
+200,17,Carleton College,Amherst College,1
+200,18,Carleton College,Amherst College,0
+200,19,Carleton College,Amherst College,2
+200,20,Carleton College,Amherst College,2
+201,2,University of Pennsylvania,Yale University,1
+201,4,University of Pennsylvania,Yale University,1
+201,6,University of Pennsylvania,Yale University,1
+201,7,University of Pennsylvania,Yale University,2
+201,8,University of Pennsylvania,Yale University,3
+201,9,University of Pennsylvania,Yale University,0
+201,11,University of Pennsylvania,Yale University,2
+201,12,University of Pennsylvania,Yale University,0
+201,13,University of Pennsylvania,Yale University,0
+201,16,University of Pennsylvania,Yale University,1
+199,38,University of North Carolina at Chapel Hill,Boston College,0
+199,39,University of North Carolina at Chapel Hill,Boston College,1
+199,40,University of North Carolina at Chapel Hill,Boston College,0
+199,41,University of North Carolina at Chapel Hill,Boston College,3
+199,42,University of North Carolina at Chapel Hill,Boston College,1
+199,43,University of North Carolina at Chapel Hill,Boston College,2
+199,44,University of North Carolina at Chapel Hill,Boston College,0
+199,45,University of North Carolina at Chapel Hill,Boston College,1
+199,46,University of North Carolina at Chapel Hill,Boston College,3
+199,47,University of North Carolina at Chapel Hill,Boston College,2
+200,1,Carleton College,Amherst College,0
+200,2,Carleton College,Amherst College,1
+200,3,Carleton College,Amherst College,2
+200,4,Carleton College,Amherst College,2
+200,5,Carleton College,Amherst College,1
+200,6,Carleton College,Amherst College,3
+200,7,Carleton College,Amherst College,1
+200,8,Carleton College,Amherst College,1
+200,9,Carleton College,Amherst College,1
+200,10,Carleton College,Amherst College,0
+198,28,McGill University,Mount Holyoke College,1
+198,29,McGill University,Mount Holyoke College,1
+198,30,McGill University,Mount Holyoke College,1
+198,31,McGill University,Mount Holyoke College,1
+198,32,McGill University,Mount Holyoke College,0
+198,33,McGill University,Mount Holyoke College,1
+198,34,McGill University,Mount Holyoke College,3
+198,35,McGill University,Mount Holyoke College,1
+198,38,McGill University,Mount Holyoke College,2
+198,39,McGill University,Mount Holyoke College,0
+199,12,University of North Carolina at Chapel Hill,Boston College,2
+199,13,University of North Carolina at Chapel Hill,Boston College,3
+199,15,University of North Carolina at Chapel Hill,Boston College,1
+199,16,University of North Carolina at Chapel Hill,Boston College,0
+199,17,University of North Carolina at Chapel Hill,Boston College,1
+199,19,University of North Carolina at Chapel Hill,Boston College,1
+199,20,University of North Carolina at Chapel Hill,Boston College,1
+199,21,University of North Carolina at Chapel Hill,Boston College,1
+199,23,University of North Carolina at Chapel Hill,Boston College,3
+199,24,University of North Carolina at Chapel Hill,Boston College,0
+197,33,University of Chicago,Stanford University,2
+197,34,University of Chicago,Stanford University,0
+197,36,University of Chicago,Stanford University,0
+197,37,University of Chicago,Stanford University,2
+197,38,University of Chicago,Stanford University,3
+197,39,University of Chicago,Stanford University,2
+197,40,University of Chicago,Stanford University,0
+197,41,University of Chicago,Stanford University,0
+197,42,University of Chicago,Stanford University,1
+197,43,University of Chicago,Stanford University,2
+198,1,McGill University,Mount Holyoke College,0
+198,3,McGill University,Mount Holyoke College,0
+198,4,McGill University,Mount Holyoke College,0
+198,5,McGill University,Mount Holyoke College,3
+198,7,McGill University,Mount Holyoke College,0
+198,8,McGill University,Mount Holyoke College,0
+198,9,McGill University,Mount Holyoke College,0
+198,10,McGill University,Mount Holyoke College,0
+198,14,McGill University,Mount Holyoke College,0
+198,15,McGill University,Mount Holyoke College,1
+196,17,North Carolina State University,Syracuse University,0
+196,19,North Carolina State University,Syracuse University,2
+196,21,North Carolina State University,Syracuse University,1
+196,22,North Carolina State University,Syracuse University,1
+196,23,North Carolina State University,Syracuse University,0
+196,24,North Carolina State University,Syracuse University,0
+196,25,North Carolina State University,Syracuse University,0
+196,27,North Carolina State University,Syracuse University,1
+196,29,North Carolina State University,Syracuse University,0
+196,30,North Carolina State University,Syracuse University,1
+197,12,University of Chicago,Stanford University,3
+197,13,University of Chicago,Stanford University,1
+197,14,University of Chicago,Stanford University,3
+197,15,University of Chicago,Stanford University,1
+197,16,University of Chicago,Stanford University,2
+197,17,University of Chicago,Stanford University,0
+197,18,University of Chicago,Stanford University,0
+197,19,University of Chicago,Stanford University,0
+197,20,University of Chicago,Stanford University,2
+197,21,University of Chicago,Stanford University,2
+196,1,North Carolina State University,Syracuse University,2
+196,2,North Carolina State University,Syracuse University,2
+196,4,North Carolina State University,Syracuse University,2
+196,5,North Carolina State University,Syracuse University,1
+196,7,North Carolina State University,Syracuse University,1
+196,9,North Carolina State University,Syracuse University,1
+196,10,North Carolina State University,Syracuse University,3
+196,11,North Carolina State University,Syracuse University,1
+196,14,North Carolina State University,Syracuse University,0
+196,16,North Carolina State University,Syracuse University,0
+197,1,University of Chicago,Stanford University,2
+197,2,University of Chicago,Stanford University,3
+197,3,University of Chicago,Stanford University,1
+197,4,University of Chicago,Stanford University,3
+197,5,University of Chicago,Stanford University,2
+197,7,University of Chicago,Stanford University,2
+197,8,University of Chicago,Stanford University,0
+197,9,University of Chicago,Stanford University,3
+197,10,University of Chicago,Stanford University,1
+197,11,University of Chicago,Stanford University,1
+198,16,McGill University,Mount Holyoke College,3
+198,18,McGill University,Mount Holyoke College,0
+198,19,McGill University,Mount Holyoke College,0
+198,20,McGill University,Mount Holyoke College,0
+198,21,McGill University,Mount Holyoke College,0
+198,23,McGill University,Mount Holyoke College,0
+198,24,McGill University,Mount Holyoke College,0
+198,25,McGill University,Mount Holyoke College,2
+198,26,McGill University,Mount Holyoke College,0
+198,27,McGill University,Mount Holyoke College,2
+199,1,University of North Carolina at Chapel Hill,Boston College,0
+199,2,University of North Carolina at Chapel Hill,Boston College,0
+199,3,University of North Carolina at Chapel Hill,Boston College,0
+199,4,University of North Carolina at Chapel Hill,Boston College,2
+199,5,University of North Carolina at Chapel Hill,Boston College,0
+199,6,University of North Carolina at Chapel Hill,Boston College,1
+199,7,University of North Carolina at Chapel Hill,Boston College,1
+199,8,University of North Carolina at Chapel Hill,Boston College,3
+199,10,University of North Carolina at Chapel Hill,Boston College,1
+199,11,University of North Carolina at Chapel Hill,Boston College,1
+193,123,Columbia University,University of Michigan,0
+193,124,Columbia University,University of Michigan,0
+193,125,Columbia University,University of Michigan,0
+193,126,Columbia University,University of Michigan,3
+193,127,Columbia University,University of Michigan,2
+193,128,Columbia University,University of Michigan,1
+193,129,Columbia University,University of Michigan,1
+193,130,Columbia University,University of Michigan,3
+193,131,Columbia University,University of Michigan,2
+193,132,Columbia University,University of Michigan,0
+195,16,Bates College,Bowdoin College,1
+195,16,Bates College,Middlebury College,0
+195,16,Bowdoin College,Middlebury College,0
+195,17,Bates College,Bowdoin College,0
+195,17,Bates College,Middlebury College,0
+195,17,Bowdoin College,Middlebury College,2
+195,18,Bates College,Bowdoin College,0
+195,18,Bates College,Middlebury College,3
+195,18,Bowdoin College,Middlebury College,0
+195,19,Bates College,Bowdoin College,1
+195,19,Bates College,Middlebury College,1
+195,19,Bowdoin College,Middlebury College,0
+195,21,Bates College,Bowdoin College,3
+195,21,Bates College,Middlebury College,3
+195,21,Bowdoin College,Middlebury College,3
+195,22,Bates College,Bowdoin College,1
+195,22,Bates College,Middlebury College,0
+195,22,Bowdoin College,Middlebury College,0
+195,23,Bates College,Bowdoin College,0
+195,23,Bates College,Middlebury College,0
+195,23,Bowdoin College,Middlebury College,0
+195,25,Bates College,Bowdoin College,3
+195,25,Bates College,Middlebury College,0
+195,25,Bowdoin College,Middlebury College,2
+195,27,Bates College,Bowdoin College,3
+195,27,Bates College,Middlebury College,3
+195,27,Bowdoin College,Middlebury College,3
+195,28,Bates College,Bowdoin College,1
+195,28,Bates College,Middlebury College,3
+195,28,Bowdoin College,Middlebury College,2
+193,91,Columbia University,University of Michigan,1
+193,92,Columbia University,University of Michigan,0
+193,93,Columbia University,University of Michigan,2
+193,94,Columbia University,University of Michigan,0
+193,95,Columbia University,University of Michigan,0
+193,96,Columbia University,University of Michigan,0
+193,98,Columbia University,University of Michigan,0
+193,99,Columbia University,University of Michigan,0
+193,101,Columbia University,University of Michigan,3
+193,102,Columbia University,University of Michigan,2
+194,11,Amherst College,Harvey Mudd College,0
+194,12,Amherst College,Harvey Mudd College,0
+194,13,Amherst College,Harvey Mudd College,0
+194,14,Amherst College,Harvey Mudd College,1
+194,15,Amherst College,Harvey Mudd College,0
+194,16,Amherst College,Harvey Mudd College,0
+194,29,Amherst College,Harvey Mudd College,1
+194,30,Amherst College,Harvey Mudd College,1
+194,31,Amherst College,Harvey Mudd College,0
+194,32,Amherst College,Harvey Mudd College,0
+193,81,Columbia University,University of Michigan,1
+193,82,Columbia University,University of Michigan,2
+193,83,Columbia University,University of Michigan,1
+193,84,Columbia University,University of Michigan,1
+193,85,Columbia University,University of Michigan,2
+193,86,Columbia University,University of Michigan,1
+193,87,Columbia University,University of Michigan,1
+193,88,Columbia University,University of Michigan,0
+193,89,Columbia University,University of Michigan,0
+193,90,Columbia University,University of Michigan,2
+194,1,Amherst College,Harvey Mudd College,1
+194,2,Amherst College,Harvey Mudd College,2
+194,3,Amherst College,Harvey Mudd College,3
+194,4,Amherst College,Harvey Mudd College,3
+194,5,Amherst College,Harvey Mudd College,3
+194,6,Amherst College,Harvey Mudd College,0
+194,7,Amherst College,Harvey Mudd College,0
+194,8,Amherst College,Harvey Mudd College,1
+194,9,Amherst College,Harvey Mudd College,2
+194,10,Amherst College,Harvey Mudd College,1
+191,91,Stanford University,Princeton University,3
+191,92,Stanford University,Princeton University,1
+191,93,Stanford University,Princeton University,3
+191,94,Stanford University,Princeton University,1
+191,95,Stanford University,Princeton University,1
+191,96,Stanford University,Princeton University,0
+191,97,Stanford University,Princeton University,1
+191,98,Stanford University,Princeton University,0
+191,99,Stanford University,Princeton University,0
+191,100,Stanford University,Princeton University,0
+193,71,Columbia University,University of Michigan,2
+193,72,Columbia University,University of Michigan,0
+193,73,Columbia University,University of Michigan,0
+193,74,Columbia University,University of Michigan,2
+193,75,Columbia University,University of Michigan,0
+193,76,Columbia University,University of Michigan,2
+193,77,Columbia University,University of Michigan,0
+193,78,Columbia University,University of Michigan,2
+193,79,Columbia University,University of Michigan,0
+193,80,Columbia University,University of Michigan,0
+193,113,Columbia University,University of Michigan,1
+193,114,Columbia University,University of Michigan,0
+193,115,Columbia University,University of Michigan,0
+193,116,Columbia University,University of Michigan,0
+193,117,Columbia University,University of Michigan,0
+193,118,Columbia University,University of Michigan,0
+193,119,Columbia University,University of Michigan,0
+193,120,Columbia University,University of Michigan,1
+193,121,Columbia University,University of Michigan,0
+193,122,Columbia University,University of Michigan,0
+195,2,Bates College,Bowdoin College,3
+195,2,Bates College,Middlebury College,3
+195,2,Bowdoin College,Middlebury College,3
+195,3,Bates College,Bowdoin College,3
+195,3,Bates College,Middlebury College,3
+195,3,Bowdoin College,Middlebury College,3
+195,4,Bates College,Bowdoin College,3
+195,4,Bates College,Middlebury College,3
+195,4,Bowdoin College,Middlebury College,1
+195,5,Bates College,Bowdoin College,0
+195,5,Bates College,Middlebury College,0
+195,5,Bowdoin College,Middlebury College,1
+195,7,Bates College,Bowdoin College,3
+195,7,Bates College,Middlebury College,0
+195,7,Bowdoin College,Middlebury College,1
+195,8,Bates College,Bowdoin College,1
+195,8,Bates College,Middlebury College,3
+195,8,Bowdoin College,Middlebury College,1
+195,9,Bates College,Bowdoin College,0
+195,9,Bates College,Middlebury College,0
+195,9,Bowdoin College,Middlebury College,3
+195,10,Bates College,Bowdoin College,3
+195,10,Bates College,Middlebury College,3
+195,10,Bowdoin College,Middlebury College,2
+195,12,Bates College,Bowdoin College,0
+195,12,Bates College,Middlebury College,0
+195,12,Bowdoin College,Middlebury College,0
+195,15,Bates College,Bowdoin College,3
+195,15,Bates College,Middlebury College,3
+195,15,Bowdoin College,Middlebury College,3
+191,81,Stanford University,Princeton University,1
+191,82,Stanford University,Princeton University,0
+191,83,Stanford University,Princeton University,0
+191,84,Stanford University,Princeton University,0
+191,85,Stanford University,Princeton University,1
+191,86,Stanford University,Princeton University,2
+191,87,Stanford University,Princeton University,1
+191,88,Stanford University,Princeton University,1
+191,89,Stanford University,Princeton University,0
+191,90,Stanford University,Princeton University,1
+193,61,Columbia University,University of Michigan,3
+193,62,Columbia University,University of Michigan,3
+193,63,Columbia University,University of Michigan,1
+193,64,Columbia University,University of Michigan,2
+193,65,Columbia University,University of Michigan,3
+193,66,Columbia University,University of Michigan,3
+193,67,Columbia University,University of Michigan,0
+193,68,Columbia University,University of Michigan,3
+193,69,Columbia University,University of Michigan,0
+193,70,Columbia University,University of Michigan,0
+191,71,Stanford University,Princeton University,1
+191,72,Stanford University,Princeton University,1
+191,73,Stanford University,Princeton University,1
+191,74,Stanford University,Princeton University,0
+191,75,Stanford University,Princeton University,0
+191,76,Stanford University,Princeton University,3
+191,77,Stanford University,Princeton University,1
+191,78,Stanford University,Princeton University,1
+191,79,Stanford University,Princeton University,1
+191,80,Stanford University,Princeton University,0
+193,51,Columbia University,University of Michigan,3
+193,52,Columbia University,University of Michigan,2
+193,53,Columbia University,University of Michigan,0
+193,54,Columbia University,University of Michigan,3
+193,55,Columbia University,University of Michigan,2
+193,56,Columbia University,University of Michigan,3
+193,57,Columbia University,University of Michigan,2
+193,58,Columbia University,University of Michigan,0
+193,59,Columbia University,University of Michigan,0
+193,60,Columbia University,University of Michigan,0
+191,61,Stanford University,Princeton University,0
+191,62,Stanford University,Princeton University,2
+191,63,Stanford University,Princeton University,0
+191,64,Stanford University,Princeton University,2
+191,65,Stanford University,Princeton University,0
+191,66,Stanford University,Princeton University,0
+191,67,Stanford University,Princeton University,0
+191,68,Stanford University,Princeton University,1
+191,69,Stanford University,Princeton University,2
+191,70,Stanford University,Princeton University,0
+193,41,Columbia University,University of Michigan,2
+193,42,Columbia University,University of Michigan,0
+193,43,Columbia University,University of Michigan,0
+193,44,Columbia University,University of Michigan,3
+193,45,Columbia University,University of Michigan,3
+193,46,Columbia University,University of Michigan,3
+193,47,Columbia University,University of Michigan,1
+193,48,Columbia University,University of Michigan,0
+193,49,Columbia University,University of Michigan,0
+193,50,Columbia University,University of Michigan,1
+191,51,Stanford University,Princeton University,2
+191,52,Stanford University,Princeton University,1
+191,53,Stanford University,Princeton University,0
+191,54,Stanford University,Princeton University,0
+191,55,Stanford University,Princeton University,2
+191,56,Stanford University,Princeton University,1
+191,57,Stanford University,Princeton University,1
+191,58,Stanford University,Princeton University,0
+191,59,Stanford University,Princeton University,3
+191,60,Stanford University,Princeton University,0
+193,31,Columbia University,University of Michigan,0
+193,32,Columbia University,University of Michigan,0
+193,33,Columbia University,University of Michigan,0
+193,34,Columbia University,University of Michigan,0
+193,35,Columbia University,University of Michigan,0
+193,36,Columbia University,University of Michigan,3
+193,37,Columbia University,University of Michigan,0
+193,38,Columbia University,University of Michigan,1
+193,39,Columbia University,University of Michigan,1
+193,40,Columbia University,University of Michigan,1
+191,41,Stanford University,Princeton University,1
+191,42,Stanford University,Princeton University,1
+191,43,Stanford University,Princeton University,1
+191,44,Stanford University,Princeton University,1
+191,45,Stanford University,Princeton University,0
+191,46,Stanford University,Princeton University,0
+191,47,Stanford University,Princeton University,1
+191,48,Stanford University,Princeton University,1
+191,49,Stanford University,Princeton University,1
+191,50,Stanford University,Princeton University,1
+193,21,Columbia University,University of Michigan,2
+193,22,Columbia University,University of Michigan,1
+193,23,Columbia University,University of Michigan,2
+193,24,Columbia University,University of Michigan,1
+193,25,Columbia University,University of Michigan,1
+193,26,Columbia University,University of Michigan,0
+193,27,Columbia University,University of Michigan,2
+193,28,Columbia University,University of Michigan,0
+193,29,Columbia University,University of Michigan,0
+193,30,Columbia University,University of Michigan,3
+191,31,Stanford University,Princeton University,0
+191,32,Stanford University,Princeton University,0
+191,33,Stanford University,Princeton University,0
+191,34,Stanford University,Princeton University,0
+191,35,Stanford University,Princeton University,0
+191,36,Stanford University,Princeton University,1
+191,37,Stanford University,Princeton University,1
+191,38,Stanford University,Princeton University,2
+191,39,Stanford University,Princeton University,0
+191,40,Stanford University,Princeton University,1
+193,11,Columbia University,University of Michigan,2
+193,12,Columbia University,University of Michigan,3
+193,13,Columbia University,University of Michigan,2
+193,14,Columbia University,University of Michigan,2
+193,15,Columbia University,University of Michigan,3
+193,16,Columbia University,University of Michigan,2
+193,17,Columbia University,University of Michigan,2
+193,18,Columbia University,University of Michigan,0
+193,19,Columbia University,University of Michigan,0
+193,20,Columbia University,University of Michigan,2
+191,21,Stanford University,Princeton University,1
+191,22,Stanford University,Princeton University,0
+191,23,Stanford University,Princeton University,1
+191,24,Stanford University,Princeton University,0
+191,25,Stanford University,Princeton University,1
+191,26,Stanford University,Princeton University,3
+191,27,Stanford University,Princeton University,0
+191,28,Stanford University,Princeton University,3
+191,29,Stanford University,Princeton University,2
+191,30,Stanford University,Princeton University,3
+193,1,Columbia University,University of Michigan,2
+193,2,Columbia University,University of Michigan,2
+193,3,Columbia University,University of Michigan,1
+193,4,Columbia University,University of Michigan,2
+193,5,Columbia University,University of Michigan,2
+193,6,Columbia University,University of Michigan,3
+193,7,Columbia University,University of Michigan,0
+193,8,Columbia University,University of Michigan,3
+193,9,Columbia University,University of Michigan,0
+193,10,Columbia University,University of Michigan,3
+189,52,University of Michigan,University of South Carolina,0
+189,53,University of Michigan,University of South Carolina,0
+189,54,University of Michigan,University of South Carolina,0
+189,55,University of Michigan,University of South Carolina,0
+189,56,University of Michigan,University of South Carolina,1
+189,57,University of Michigan,University of South Carolina,0
+189,58,University of Michigan,University of South Carolina,0
+189,59,University of Michigan,University of South Carolina,0
+189,60,University of Michigan,University of South Carolina,2
+189,61,University of Michigan,University of South Carolina,0
+191,11,Stanford University,Princeton University,3
+191,12,Stanford University,Princeton University,0
+191,13,Stanford University,Princeton University,0
+191,14,Stanford University,Princeton University,0
+191,15,Stanford University,Princeton University,0
+191,16,Stanford University,Princeton University,1
+191,17,Stanford University,Princeton University,0
+191,18,Stanford University,Princeton University,0
+191,19,Stanford University,Princeton University,0
+191,20,Stanford University,Princeton University,2
+189,37,University of Michigan,University of South Carolina,3
+189,39,University of Michigan,University of South Carolina,0
+189,40,University of Michigan,University of South Carolina,2
+189,41,University of Michigan,University of South Carolina,0
+189,43,University of Michigan,University of South Carolina,2
+189,45,University of Michigan,University of South Carolina,1
+189,47,University of Michigan,University of South Carolina,1
+189,49,University of Michigan,University of South Carolina,0
+189,50,University of Michigan,University of South Carolina,0
+189,51,University of Michigan,University of South Carolina,1
+191,1,Stanford University,Princeton University,0
+191,2,Stanford University,Princeton University,2
+191,3,Stanford University,Princeton University,0
+191,4,Stanford University,Princeton University,2
+191,5,Stanford University,Princeton University,1
+191,6,Stanford University,Princeton University,2
+191,7,Stanford University,Princeton University,3
+191,8,Stanford University,Princeton University,2
+191,9,Stanford University,Princeton University,1
+191,10,Stanford University,Princeton University,1
+188,44,Temple University,University of Nebraska-Lincoln,0
+188,45,Temple University,University of Nebraska-Lincoln,2
+188,47,Temple University,University of Nebraska-Lincoln,0
+188,49,Temple University,University of Nebraska-Lincoln,0
+188,51,Temple University,University of Nebraska-Lincoln,3
+188,53,Temple University,University of Nebraska-Lincoln,2
+188,54,Temple University,University of Nebraska-Lincoln,2
+188,56,Temple University,University of Nebraska-Lincoln,0
+188,57,Temple University,University of Nebraska-Lincoln,1
+188,58,Temple University,University of Nebraska-Lincoln,0
+189,26,University of Michigan,University of South Carolina,1
+189,27,University of Michigan,University of South Carolina,0
+189,28,University of Michigan,University of South Carolina,0
+189,29,University of Michigan,University of South Carolina,0
+189,30,University of Michigan,University of South Carolina,0
+189,32,University of Michigan,University of South Carolina,0
+189,33,University of Michigan,University of South Carolina,0
+189,34,University of Michigan,University of South Carolina,0
+189,35,University of Michigan,University of South Carolina,1
+189,36,University of Michigan,University of South Carolina,0
+188,28,Temple University,University of Nebraska-Lincoln,0
+188,30,Temple University,University of Nebraska-Lincoln,0
+188,31,Temple University,University of Nebraska-Lincoln,0
+188,32,Temple University,University of Nebraska-Lincoln,0
+188,34,Temple University,University of Nebraska-Lincoln,0
+188,36,Temple University,University of Nebraska-Lincoln,2
+188,37,Temple University,University of Nebraska-Lincoln,2
+188,38,Temple University,University of Nebraska-Lincoln,0
+188,39,Temple University,University of Nebraska-Lincoln,0
+188,41,Temple University,University of Nebraska-Lincoln,0
+189,16,University of Michigan,University of South Carolina,2
+189,17,University of Michigan,University of South Carolina,1
+189,18,University of Michigan,University of South Carolina,1
+189,19,University of Michigan,University of South Carolina,0
+189,20,University of Michigan,University of South Carolina,2
+189,21,University of Michigan,University of South Carolina,0
+189,22,University of Michigan,University of South Carolina,1
+189,23,University of Michigan,University of South Carolina,0
+189,24,University of Michigan,University of South Carolina,0
+189,25,University of Michigan,University of South Carolina,0
+186,42,Duke University,"University of California, Berkeley",1
+186,43,Duke University,"University of California, Berkeley",2
+186,44,Duke University,"University of California, Berkeley",2
+186,45,Duke University,"University of California, Berkeley",2
+186,46,Duke University,"University of California, Berkeley",0
+186,47,Duke University,"University of California, Berkeley",0
+186,48,Duke University,"University of California, Berkeley",0
+186,49,Duke University,"University of California, Berkeley",0
+186,50,Duke University,"University of California, Berkeley",0
+186,51,Duke University,"University of California, Berkeley",0
+187,16,University of Texas at Austin,Indiana University,0
+187,16,University of Texas at Austin,Southern Methodist University,0
+187,16,Indiana University,Southern Methodist University,0
+187,18,University of Texas at Austin,Indiana University,0
+187,18,University of Texas at Austin,Southern Methodist University,0
+187,18,Indiana University,Southern Methodist University,0
+187,19,University of Texas at Austin,Indiana University,0
+187,19,University of Texas at Austin,Southern Methodist University,0
+187,19,Indiana University,Southern Methodist University,0
+187,20,University of Texas at Austin,Indiana University,0
+187,20,University of Texas at Austin,Southern Methodist University,0
+187,20,Indiana University,Southern Methodist University,0
+187,23,University of Texas at Austin,Indiana University,0
+187,23,University of Texas at Austin,Southern Methodist University,2
+187,23,Indiana University,Southern Methodist University,2
+187,24,University of Texas at Austin,Indiana University,0
+187,24,University of Texas at Austin,Southern Methodist University,0
+187,24,Indiana University,Southern Methodist University,0
+187,28,University of Texas at Austin,Indiana University,0
+187,28,University of Texas at Austin,Southern Methodist University,2
+187,28,Indiana University,Southern Methodist University,2
+187,29,University of Texas at Austin,Indiana University,0
+187,29,University of Texas at Austin,Southern Methodist University,0
+187,29,Indiana University,Southern Methodist University,0
+187,30,University of Texas at Austin,Indiana University,0
+187,30,University of Texas at Austin,Southern Methodist University,0
+187,30,Indiana University,Southern Methodist University,0
+187,31,University of Texas at Austin,Indiana University,0
+187,31,University of Texas at Austin,Southern Methodist University,0
+187,31,Indiana University,Southern Methodist University,0
+186,32,Duke University,"University of California, Berkeley",2
+186,33,Duke University,"University of California, Berkeley",0
+186,34,Duke University,"University of California, Berkeley",1
+186,35,Duke University,"University of California, Berkeley",0
+186,36,Duke University,"University of California, Berkeley",0
+186,37,Duke University,"University of California, Berkeley",2
+186,38,Duke University,"University of California, Berkeley",2
+186,39,Duke University,"University of California, Berkeley",1
+186,40,Duke University,"University of California, Berkeley",2
+186,41,Duke University,"University of California, Berkeley",0
+187,1,University of Texas at Austin,Indiana University,0
+187,1,University of Texas at Austin,Southern Methodist University,0
+187,1,Indiana University,Southern Methodist University,0
+187,3,University of Texas at Austin,Indiana University,0
+187,3,University of Texas at Austin,Southern Methodist University,0
+187,3,Indiana University,Southern Methodist University,0
+187,4,University of Texas at Austin,Indiana University,1
+187,4,University of Texas at Austin,Southern Methodist University,3
+187,4,Indiana University,Southern Methodist University,0
+187,5,University of Texas at Austin,Indiana University,3
+187,5,University of Texas at Austin,Southern Methodist University,0
+187,5,Indiana University,Southern Methodist University,3
+187,6,University of Texas at Austin,Indiana University,3
+187,6,University of Texas at Austin,Southern Methodist University,3
+187,6,Indiana University,Southern Methodist University,1
+187,9,University of Texas at Austin,Indiana University,0
+187,9,University of Texas at Austin,Southern Methodist University,0
+187,9,Indiana University,Southern Methodist University,0
+187,10,University of Texas at Austin,Indiana University,1
+187,10,University of Texas at Austin,Southern Methodist University,3
+187,10,Indiana University,Southern Methodist University,3
+187,11,University of Texas at Austin,Indiana University,3
+187,11,University of Texas at Austin,Southern Methodist University,0
+187,11,Indiana University,Southern Methodist University,0
+187,12,University of Texas at Austin,Indiana University,0
+187,12,University of Texas at Austin,Southern Methodist University,0
+187,12,Indiana University,Southern Methodist University,2
+187,15,University of Texas at Austin,Indiana University,0
+187,15,University of Texas at Austin,Southern Methodist University,0
+187,15,Indiana University,Southern Methodist University,0
+185,37,Boston College,Georgetown University,0
+185,38,Boston College,Georgetown University,0
+185,39,Boston College,Georgetown University,2
+185,40,Boston College,Georgetown University,3
+185,41,Boston College,Georgetown University,0
+185,43,Boston College,Georgetown University,0
+185,44,Boston College,Georgetown University,1
+185,46,Boston College,Georgetown University,0
+185,47,Boston College,Georgetown University,1
+185,48,Boston College,Georgetown University,0
+186,22,Duke University,"University of California, Berkeley",0
+186,23,Duke University,"University of California, Berkeley",0
+186,24,Duke University,"University of California, Berkeley",2
+186,25,Duke University,"University of California, Berkeley",2
+186,26,Duke University,"University of California, Berkeley",1
+186,27,Duke University,"University of California, Berkeley",0
+186,28,Duke University,"University of California, Berkeley",3
+186,29,Duke University,"University of California, Berkeley",1
+186,30,Duke University,"University of California, Berkeley",2
+186,31,Duke University,"University of California, Berkeley",1
+185,26,Boston College,Georgetown University,1
+185,27,Boston College,Georgetown University,2
+185,29,Boston College,Georgetown University,0
+185,30,Boston College,Georgetown University,0
+185,31,Boston College,Georgetown University,1
+185,32,Boston College,Georgetown University,0
+185,33,Boston College,Georgetown University,0
+185,34,Boston College,Georgetown University,1
+185,35,Boston College,Georgetown University,1
+185,36,Boston College,Georgetown University,1
+186,11,Duke University,"University of California, Berkeley",0
+186,12,Duke University,"University of California, Berkeley",0
+186,13,Duke University,"University of California, Berkeley",1
+186,14,Duke University,"University of California, Berkeley",2
+186,15,Duke University,"University of California, Berkeley",1
+186,17,Duke University,"University of California, Berkeley",0
+186,18,Duke University,"University of California, Berkeley",2
+186,19,Duke University,"University of California, Berkeley",2
+186,20,Duke University,"University of California, Berkeley",3
+186,21,Duke University,"University of California, Berkeley",1
+185,13,Boston College,Georgetown University,0
+185,14,Boston College,Georgetown University,0
+185,15,Boston College,Georgetown University,0
+185,16,Boston College,Georgetown University,2
+185,17,Boston College,Georgetown University,0
+185,20,Boston College,Georgetown University,2
+185,21,Boston College,Georgetown University,2
+185,22,Boston College,Georgetown University,0
+185,24,Boston College,Georgetown University,0
+185,25,Boston College,Georgetown University,2
+186,1,Duke University,"University of California, Berkeley",2
+186,2,Duke University,"University of California, Berkeley",3
+186,3,Duke University,"University of California, Berkeley",2
+186,4,Duke University,"University of California, Berkeley",1
+186,5,Duke University,"University of California, Berkeley",0
+186,6,Duke University,"University of California, Berkeley",1
+186,7,Duke University,"University of California, Berkeley",1
+186,8,Duke University,"University of California, Berkeley",2
+186,9,Duke University,"University of California, Berkeley",2
+186,10,Duke University,"University of California, Berkeley",1
+183,30,University of Pennsylvania,Pennsylvania State University,3
+183,31,University of Pennsylvania,Pennsylvania State University,3
+183,32,University of Pennsylvania,Pennsylvania State University,0
+183,35,University of Pennsylvania,Pennsylvania State University,1
+183,36,University of Pennsylvania,Pennsylvania State University,0
+183,38,University of Pennsylvania,Pennsylvania State University,0
+183,39,University of Pennsylvania,Pennsylvania State University,0
+183,41,University of Pennsylvania,Pennsylvania State University,2
+183,42,University of Pennsylvania,Pennsylvania State University,0
+183,44,University of Pennsylvania,Pennsylvania State University,1
+184,31,University of Alabama,Fordham University,0
+184,33,University of Alabama,Fordham University,1
+184,35,University of Alabama,Fordham University,0
+184,36,University of Alabama,Fordham University,0
+184,38,University of Alabama,Fordham University,1
+184,40,University of Alabama,Fordham University,1
+184,41,University of Alabama,Fordham University,0
+184,42,University of Alabama,Fordham University,0
+184,43,University of Alabama,Fordham University,3
+184,46,University of Alabama,Fordham University,1
+183,15,University of Pennsylvania,Pennsylvania State University,1
+183,16,University of Pennsylvania,Pennsylvania State University,1
+183,18,University of Pennsylvania,Pennsylvania State University,1
+183,19,University of Pennsylvania,Pennsylvania State University,0
+183,20,University of Pennsylvania,Pennsylvania State University,0
+183,22,University of Pennsylvania,Pennsylvania State University,0
+183,23,University of Pennsylvania,Pennsylvania State University,1
+183,25,University of Pennsylvania,Pennsylvania State University,1
+183,26,University of Pennsylvania,Pennsylvania State University,0
+183,28,University of Pennsylvania,Pennsylvania State University,0
+184,15,University of Alabama,Fordham University,1
+184,17,University of Alabama,Fordham University,0
+184,18,University of Alabama,Fordham University,0
+184,20,University of Alabama,Fordham University,1
+184,21,University of Alabama,Fordham University,0
+184,22,University of Alabama,Fordham University,3
+184,24,University of Alabama,Fordham University,1
+184,25,University of Alabama,Fordham University,0
+184,26,University of Alabama,Fordham University,0
+184,29,University of Alabama,Fordham University,3
+183,1,University of Pennsylvania,Pennsylvania State University,1
+183,3,University of Pennsylvania,Pennsylvania State University,0
+183,4,University of Pennsylvania,Pennsylvania State University,1
+183,5,University of Pennsylvania,Pennsylvania State University,1
+183,8,University of Pennsylvania,Pennsylvania State University,1
+183,9,University of Pennsylvania,Pennsylvania State University,1
+183,11,University of Pennsylvania,Pennsylvania State University,1
+183,12,University of Pennsylvania,Pennsylvania State University,1
+183,13,University of Pennsylvania,Pennsylvania State University,1
+183,14,University of Pennsylvania,Pennsylvania State University,1
+184,1,University of Alabama,Fordham University,0
+184,2,University of Alabama,Fordham University,0
+184,4,University of Alabama,Fordham University,1
+184,6,University of Alabama,Fordham University,1
+184,7,University of Alabama,Fordham University,1
+184,8,University of Alabama,Fordham University,1
+184,9,University of Alabama,Fordham University,1
+184,10,University of Alabama,Fordham University,0
+184,12,University of Alabama,Fordham University,1
+184,13,University of Alabama,Fordham University,1
+180,111,University of Michigan,Massachusetts Institute of Technology,0
+180,112,University of Michigan,Massachusetts Institute of Technology,1
+180,113,University of Michigan,Massachusetts Institute of Technology,0
+180,114,University of Michigan,Massachusetts Institute of Technology,1
+180,115,University of Michigan,Massachusetts Institute of Technology,2
+180,116,University of Michigan,Massachusetts Institute of Technology,1
+181,34,Smith College,Middlebury College,0
+181,34,Smith College,Haverford College,0
+181,34,Middlebury College,Haverford College,0
+181,35,Smith College,Middlebury College,3
+181,35,Smith College,Haverford College,3
+181,35,Middlebury College,Haverford College,3
+181,37,Smith College,Middlebury College,0
+181,37,Smith College,Haverford College,0
+181,37,Middlebury College,Haverford College,0
+181,38,Smith College,Middlebury College,0
+181,38,Smith College,Haverford College,0
+181,38,Middlebury College,Haverford College,0
+181,39,Smith College,Middlebury College,0
+181,39,Smith College,Haverford College,0
+181,39,Middlebury College,Haverford College,0
+181,40,Smith College,Middlebury College,1
+181,40,Smith College,Haverford College,2
+181,40,Middlebury College,Haverford College,0
+181,41,Smith College,Middlebury College,0
+181,41,Smith College,Haverford College,0
+181,41,Middlebury College,Haverford College,0
+181,42,Smith College,Middlebury College,0
+181,42,Smith College,Haverford College,0
+181,42,Middlebury College,Haverford College,0
+181,43,Smith College,Middlebury College,0
+181,43,Smith College,Haverford College,0
+181,43,Middlebury College,Haverford College,2
+181,44,Smith College,Middlebury College,0
+181,44,Smith College,Haverford College,0
+181,44,Middlebury College,Haverford College,0
+209,45,University of Michigan,University of Virginia,0
+209,46,University of Michigan,University of Virginia,0
+209,47,University of Michigan,University of Virginia,0
+209,49,University of Michigan,University of Virginia,1
+180,81,University of Michigan,Massachusetts Institute of Technology,2
+180,82,University of Michigan,Massachusetts Institute of Technology,0
+180,83,University of Michigan,Massachusetts Institute of Technology,1
+180,84,University of Michigan,Massachusetts Institute of Technology,3
+180,85,University of Michigan,Massachusetts Institute of Technology,0
+180,86,University of Michigan,Massachusetts Institute of Technology,1
+180,87,University of Michigan,Massachusetts Institute of Technology,1
+180,88,University of Michigan,Massachusetts Institute of Technology,0
+180,89,University of Michigan,Massachusetts Institute of Technology,0
+180,90,University of Michigan,Massachusetts Institute of Technology,1
+181,1,Smith College,Middlebury College,1
+181,1,Smith College,Haverford College,1
+181,1,Middlebury College,Haverford College,0
+181,2,Smith College,Middlebury College,1
+181,2,Smith College,Haverford College,3
+181,2,Middlebury College,Haverford College,2
+181,3,Smith College,Middlebury College,1
+181,3,Smith College,Haverford College,1
+181,3,Middlebury College,Haverford College,0
+181,4,Smith College,Middlebury College,1
+181,4,Smith College,Haverford College,1
+181,4,Middlebury College,Haverford College,0
+181,5,Smith College,Middlebury College,1
+181,5,Smith College,Haverford College,1
+181,5,Middlebury College,Haverford College,0
+181,6,Smith College,Middlebury College,2
+181,6,Smith College,Haverford College,2
+181,6,Middlebury College,Haverford College,1
+181,8,Smith College,Middlebury College,1
+181,8,Smith College,Haverford College,3
+181,8,Middlebury College,Haverford College,2
+181,9,Smith College,Middlebury College,0
+181,9,Smith College,Haverford College,0
+181,9,Middlebury College,Haverford College,2
+181,10,Smith College,Middlebury College,2
+181,10,Smith College,Haverford College,0
+181,10,Middlebury College,Haverford College,1
+181,11,Smith College,Middlebury College,0
+181,11,Smith College,Haverford College,2
+181,11,Middlebury College,Haverford College,2
+179,79,University of Michigan,Duke University,2
+179,80,University of Michigan,Duke University,1
+179,81,University of Michigan,Duke University,1
+179,82,University of Michigan,Duke University,0
+179,83,University of Michigan,Duke University,0
+179,84,University of Michigan,Duke University,0
+179,85,University of Michigan,Duke University,2
+179,86,University of Michigan,Duke University,0
+179,87,University of Michigan,Duke University,0
+179,88,University of Michigan,Duke University,0
+180,61,University of Michigan,Massachusetts Institute of Technology,2
+180,62,University of Michigan,Massachusetts Institute of Technology,1
+180,63,University of Michigan,Massachusetts Institute of Technology,0
+180,64,University of Michigan,Massachusetts Institute of Technology,0
+180,65,University of Michigan,Massachusetts Institute of Technology,1
+180,66,University of Michigan,Massachusetts Institute of Technology,1
+180,67,University of Michigan,Massachusetts Institute of Technology,0
+180,68,University of Michigan,Massachusetts Institute of Technology,1
+180,69,University of Michigan,Massachusetts Institute of Technology,1
+180,70,University of Michigan,Massachusetts Institute of Technology,0
+179,69,University of Michigan,Duke University,2
+179,70,University of Michigan,Duke University,0
+179,71,University of Michigan,Duke University,0
+179,72,University of Michigan,Duke University,0
+179,73,University of Michigan,Duke University,2
+179,74,University of Michigan,Duke University,1
+179,75,University of Michigan,Duke University,1
+179,76,University of Michigan,Duke University,1
+179,77,University of Michigan,Duke University,0
+179,78,University of Michigan,Duke University,1
+180,51,University of Michigan,Massachusetts Institute of Technology,2
+180,52,University of Michigan,Massachusetts Institute of Technology,1
+180,53,University of Michigan,Massachusetts Institute of Technology,0
+180,54,University of Michigan,Massachusetts Institute of Technology,0
+180,55,University of Michigan,Massachusetts Institute of Technology,0
+180,56,University of Michigan,Massachusetts Institute of Technology,2
+180,57,University of Michigan,Massachusetts Institute of Technology,0
+180,58,University of Michigan,Massachusetts Institute of Technology,1
+180,59,University of Michigan,Massachusetts Institute of Technology,2
+180,60,University of Michigan,Massachusetts Institute of Technology,2
+179,59,University of Michigan,Duke University,1
+179,60,University of Michigan,Duke University,1
+179,61,University of Michigan,Duke University,0
+179,62,University of Michigan,Duke University,1
+179,63,University of Michigan,Duke University,2
+179,64,University of Michigan,Duke University,1
+179,65,University of Michigan,Duke University,1
+179,66,University of Michigan,Duke University,1
+179,67,University of Michigan,Duke University,2
+179,68,University of Michigan,Duke University,0
+180,41,University of Michigan,Massachusetts Institute of Technology,1
+180,42,University of Michigan,Massachusetts Institute of Technology,0
+180,43,University of Michigan,Massachusetts Institute of Technology,0
+180,44,University of Michigan,Massachusetts Institute of Technology,0
+180,45,University of Michigan,Massachusetts Institute of Technology,1
+180,46,University of Michigan,Massachusetts Institute of Technology,3
+180,47,University of Michigan,Massachusetts Institute of Technology,1
+180,48,University of Michigan,Massachusetts Institute of Technology,0
+180,49,University of Michigan,Massachusetts Institute of Technology,0
+180,50,University of Michigan,Massachusetts Institute of Technology,0
+179,49,University of Michigan,Duke University,3
+179,50,University of Michigan,Duke University,0
+179,51,University of Michigan,Duke University,0
+179,52,University of Michigan,Duke University,0
+179,53,University of Michigan,Duke University,3
+179,54,University of Michigan,Duke University,1
+179,55,University of Michigan,Duke University,0
+179,56,University of Michigan,Duke University,0
+179,57,University of Michigan,Duke University,0
+179,58,University of Michigan,Duke University,2
+180,31,University of Michigan,Massachusetts Institute of Technology,0
+180,32,University of Michigan,Massachusetts Institute of Technology,0
+180,33,University of Michigan,Massachusetts Institute of Technology,0
+180,34,University of Michigan,Massachusetts Institute of Technology,0
+180,35,University of Michigan,Massachusetts Institute of Technology,1
+180,36,University of Michigan,Massachusetts Institute of Technology,0
+180,37,University of Michigan,Massachusetts Institute of Technology,1
+180,38,University of Michigan,Massachusetts Institute of Technology,0
+180,39,University of Michigan,Massachusetts Institute of Technology,1
+180,40,University of Michigan,Massachusetts Institute of Technology,0
+179,38,University of Michigan,Duke University,0
+179,39,University of Michigan,Duke University,0
+179,40,University of Michigan,Duke University,0
+179,41,University of Michigan,Duke University,0
+179,42,University of Michigan,Duke University,0
+179,43,University of Michigan,Duke University,0
+179,45,University of Michigan,Duke University,1
+179,46,University of Michigan,Duke University,0
+179,47,University of Michigan,Duke University,0
+179,48,University of Michigan,Duke University,1
+180,21,University of Michigan,Massachusetts Institute of Technology,2
+180,22,University of Michigan,Massachusetts Institute of Technology,3
+180,23,University of Michigan,Massachusetts Institute of Technology,2
+180,24,University of Michigan,Massachusetts Institute of Technology,0
+180,25,University of Michigan,Massachusetts Institute of Technology,1
+180,26,University of Michigan,Massachusetts Institute of Technology,0
+180,27,University of Michigan,Massachusetts Institute of Technology,0
+180,28,University of Michigan,Massachusetts Institute of Technology,2
+180,29,University of Michigan,Massachusetts Institute of Technology,0
+180,30,University of Michigan,Massachusetts Institute of Technology,0
+179,28,University of Michigan,Duke University,0
+179,29,University of Michigan,Duke University,1
+179,30,University of Michigan,Duke University,0
+179,31,University of Michigan,Duke University,1
+179,32,University of Michigan,Duke University,0
+179,33,University of Michigan,Duke University,0
+179,34,University of Michigan,Duke University,0
+179,35,University of Michigan,Duke University,2
+179,36,University of Michigan,Duke University,0
+179,37,University of Michigan,Duke University,0
+180,11,University of Michigan,Massachusetts Institute of Technology,1
+180,12,University of Michigan,Massachusetts Institute of Technology,1
+180,13,University of Michigan,Massachusetts Institute of Technology,2
+180,14,University of Michigan,Massachusetts Institute of Technology,0
+180,15,University of Michigan,Massachusetts Institute of Technology,1
+180,16,University of Michigan,Massachusetts Institute of Technology,1
+180,17,University of Michigan,Massachusetts Institute of Technology,2
+180,18,University of Michigan,Massachusetts Institute of Technology,1
+180,19,University of Michigan,Massachusetts Institute of Technology,1
+180,20,University of Michigan,Massachusetts Institute of Technology,1
+179,14,University of Michigan,Duke University,0
+179,15,University of Michigan,Duke University,0
+179,17,University of Michigan,Duke University,0
+179,18,University of Michigan,Duke University,0
+179,20,University of Michigan,Duke University,3
+179,22,University of Michigan,Duke University,0
+179,23,University of Michigan,Duke University,0
+179,24,University of Michigan,Duke University,0
+179,25,University of Michigan,Duke University,0
+179,26,University of Michigan,Duke University,0
+180,1,University of Michigan,Massachusetts Institute of Technology,1
+180,2,University of Michigan,Massachusetts Institute of Technology,1
+180,3,University of Michigan,Massachusetts Institute of Technology,1
+180,4,University of Michigan,Massachusetts Institute of Technology,0
+180,5,University of Michigan,Massachusetts Institute of Technology,1
+180,6,University of Michigan,Massachusetts Institute of Technology,1
+180,7,University of Michigan,Massachusetts Institute of Technology,1
+180,8,University of Michigan,Massachusetts Institute of Technology,1
+180,9,University of Michigan,Massachusetts Institute of Technology,1
+180,10,University of Michigan,Massachusetts Institute of Technology,1
+177,34,Northwestern University,Rice University,0
+177,35,Northwestern University,Rice University,3
+177,36,Northwestern University,Rice University,0
+177,37,Northwestern University,Rice University,3
+177,38,Northwestern University,Rice University,1
+177,39,Northwestern University,Rice University,2
+177,40,Northwestern University,Rice University,0
+177,41,Northwestern University,Rice University,0
+177,43,Northwestern University,Rice University,1
+177,44,Northwestern University,Rice University,0
+178,1,University of Notre Dame,University of Texas at Austin,0
+178,1,University of Notre Dame,University of Virginia,0
+178,1,University of Texas at Austin,University of Virginia,0
+178,3,University of Notre Dame,University of Texas at Austin,3
+178,3,University of Notre Dame,University of Virginia,2
+178,3,University of Texas at Austin,University of Virginia,2
+178,4,University of Notre Dame,University of Texas at Austin,0
+178,4,University of Notre Dame,University of Virginia,0
+178,4,University of Texas at Austin,University of Virginia,0
+178,5,University of Notre Dame,University of Texas at Austin,1
+178,5,University of Notre Dame,University of Virginia,1
+178,5,University of Texas at Austin,University of Virginia,0
+178,7,University of Notre Dame,University of Texas at Austin,0
+178,7,University of Notre Dame,University of Virginia,0
+178,7,University of Texas at Austin,University of Virginia,0
+178,9,University of Notre Dame,University of Texas at Austin,1
+178,9,University of Notre Dame,University of Virginia,0
+178,9,University of Texas at Austin,University of Virginia,0
+178,10,University of Notre Dame,University of Texas at Austin,0
+178,10,University of Notre Dame,University of Virginia,3
+178,10,University of Texas at Austin,University of Virginia,0
+178,12,University of Notre Dame,University of Texas at Austin,3
+178,12,University of Notre Dame,University of Virginia,1
+178,12,University of Texas at Austin,University of Virginia,1
+178,14,University of Notre Dame,University of Texas at Austin,0
+178,14,University of Notre Dame,University of Virginia,0
+178,14,University of Texas at Austin,University of Virginia,0
+178,16,University of Notre Dame,University of Texas at Austin,1
+178,16,University of Notre Dame,University of Virginia,0
+178,16,University of Texas at Austin,University of Virginia,0
+176,46,Yale University,University of Wisconsin-Madison,1
+176,47,Yale University,University of Wisconsin-Madison,0
+176,48,Yale University,University of Wisconsin-Madison,0
+176,49,Yale University,University of Wisconsin-Madison,1
+176,50,Yale University,University of Wisconsin-Madison,1
+176,51,Yale University,University of Wisconsin-Madison,1
+176,52,Yale University,University of Wisconsin-Madison,2
+176,53,Yale University,University of Wisconsin-Madison,3
+176,54,Yale University,University of Wisconsin-Madison,2
+176,55,Yale University,University of Wisconsin-Madison,2
+177,13,Northwestern University,Rice University,1
+177,14,Northwestern University,Rice University,1
+177,15,Northwestern University,Rice University,3
+177,16,Northwestern University,Rice University,2
+177,17,Northwestern University,Rice University,1
+177,18,Northwestern University,Rice University,3
+177,19,Northwestern University,Rice University,0
+177,20,Northwestern University,Rice University,3
+177,21,Northwestern University,Rice University,2
+177,22,Northwestern University,Rice University,0
+176,36,Yale University,University of Wisconsin-Madison,2
+176,37,Yale University,University of Wisconsin-Madison,3
+176,38,Yale University,University of Wisconsin-Madison,1
+176,39,Yale University,University of Wisconsin-Madison,0
+176,40,Yale University,University of Wisconsin-Madison,0
+176,41,Yale University,University of Wisconsin-Madison,1
+176,42,Yale University,University of Wisconsin-Madison,0
+176,43,Yale University,University of Wisconsin-Madison,1
+176,44,Yale University,University of Wisconsin-Madison,2
+176,45,Yale University,University of Wisconsin-Madison,3
+177,1,Northwestern University,Rice University,1
+177,4,Northwestern University,Rice University,3
+177,5,Northwestern University,Rice University,3
+177,6,Northwestern University,Rice University,2
+177,7,Northwestern University,Rice University,1
+177,8,Northwestern University,Rice University,3
+177,9,Northwestern University,Rice University,1
+177,10,Northwestern University,Rice University,1
+177,11,Northwestern University,Rice University,2
+177,12,Northwestern University,Rice University,0
+175,33,Harvard University,Georgia Institute of Technology,1
+175,34,Harvard University,Georgia Institute of Technology,1
+175,35,Harvard University,Georgia Institute of Technology,1
+175,36,Harvard University,Georgia Institute of Technology,1
+175,37,Harvard University,Georgia Institute of Technology,0
+175,38,Harvard University,Georgia Institute of Technology,1
+175,39,Harvard University,Georgia Institute of Technology,1
+175,40,Harvard University,Georgia Institute of Technology,2
+175,41,Harvard University,Georgia Institute of Technology,1
+175,42,Harvard University,Georgia Institute of Technology,0
+176,24,Yale University,University of Wisconsin-Madison,0
+176,25,Yale University,University of Wisconsin-Madison,3
+176,26,Yale University,University of Wisconsin-Madison,0
+176,27,Yale University,University of Wisconsin-Madison,0
+176,29,Yale University,University of Wisconsin-Madison,1
+176,30,Yale University,University of Wisconsin-Madison,3
+176,31,Yale University,University of Wisconsin-Madison,2
+176,33,Yale University,University of Wisconsin-Madison,1
+176,34,Yale University,University of Wisconsin-Madison,0
+176,35,Yale University,University of Wisconsin-Madison,2
+175,23,Harvard University,Georgia Institute of Technology,1
+175,24,Harvard University,Georgia Institute of Technology,1
+175,25,Harvard University,Georgia Institute of Technology,1
+175,26,Harvard University,Georgia Institute of Technology,1
+175,27,Harvard University,Georgia Institute of Technology,1
+175,28,Harvard University,Georgia Institute of Technology,1
+175,29,Harvard University,Georgia Institute of Technology,2
+175,30,Harvard University,Georgia Institute of Technology,3
+175,31,Harvard University,Georgia Institute of Technology,2
+175,32,Harvard University,Georgia Institute of Technology,1
+176,13,Yale University,University of Wisconsin-Madison,0
+176,14,Yale University,University of Wisconsin-Madison,0
+176,15,Yale University,University of Wisconsin-Madison,2
+176,16,Yale University,University of Wisconsin-Madison,1
+176,17,Yale University,University of Wisconsin-Madison,2
+176,18,Yale University,University of Wisconsin-Madison,2
+176,20,Yale University,University of Wisconsin-Madison,1
+176,21,Yale University,University of Wisconsin-Madison,0
+176,22,Yale University,University of Wisconsin-Madison,2
+176,23,Yale University,University of Wisconsin-Madison,1
+175,12,Harvard University,Georgia Institute of Technology,3
+175,13,Harvard University,Georgia Institute of Technology,0
+175,14,Harvard University,Georgia Institute of Technology,0
+175,16,Harvard University,Georgia Institute of Technology,2
+175,17,Harvard University,Georgia Institute of Technology,2
+175,18,Harvard University,Georgia Institute of Technology,1
+175,19,Harvard University,Georgia Institute of Technology,0
+175,20,Harvard University,Georgia Institute of Technology,1
+175,21,Harvard University,Georgia Institute of Technology,2
+175,22,Harvard University,Georgia Institute of Technology,0
+176,1,Yale University,University of Wisconsin-Madison,0
+176,2,Yale University,University of Wisconsin-Madison,2
+176,3,Yale University,University of Wisconsin-Madison,2
+176,4,Yale University,University of Wisconsin-Madison,1
+176,6,Yale University,University of Wisconsin-Madison,1
+176,7,Yale University,University of Wisconsin-Madison,0
+176,8,Yale University,University of Wisconsin-Madison,2
+176,9,Yale University,University of Wisconsin-Madison,2
+176,10,Yale University,University of Wisconsin-Madison,0
+176,12,Yale University,University of Wisconsin-Madison,2
+174,34,Kenyon College,"University of California, San Diego",0
+174,35,Kenyon College,"University of California, San Diego",1
+174,36,Kenyon College,"University of California, San Diego",1
+174,37,Kenyon College,"University of California, San Diego",1
+174,38,Kenyon College,"University of California, San Diego",1
+174,39,Kenyon College,"University of California, San Diego",1
+174,41,Kenyon College,"University of California, San Diego",0
+174,42,Kenyon College,"University of California, San Diego",2
+175,1,Harvard University,Georgia Institute of Technology,1
+175,2,Harvard University,Georgia Institute of Technology,2
+175,3,Harvard University,Georgia Institute of Technology,1
+175,4,Harvard University,Georgia Institute of Technology,2
+175,5,Harvard University,Georgia Institute of Technology,2
+175,6,Harvard University,Georgia Institute of Technology,2
+175,7,Harvard University,Georgia Institute of Technology,2
+175,9,Harvard University,Georgia Institute of Technology,0
+175,10,Harvard University,Georgia Institute of Technology,0
+175,11,Harvard University,Georgia Institute of Technology,2
+197,44,University of Chicago,Stanford University,2
+197,45,University of Chicago,Stanford University,0
+173,35,Vanderbilt University,Northwestern University,0
+173,36,Vanderbilt University,Northwestern University,1
+173,37,Vanderbilt University,Northwestern University,1
+173,38,Vanderbilt University,Northwestern University,1
+173,39,Vanderbilt University,Northwestern University,1
+173,41,Vanderbilt University,Northwestern University,1
+173,42,Vanderbilt University,Northwestern University,0
+173,43,Vanderbilt University,Northwestern University,0
+173,44,Vanderbilt University,Northwestern University,1
+173,45,Vanderbilt University,Northwestern University,0
+174,16,Kenyon College,"University of California, San Diego",1
+174,17,Kenyon College,"University of California, San Diego",1
+174,19,Kenyon College,"University of California, San Diego",1
+174,21,Kenyon College,"University of California, San Diego",0
+174,22,Kenyon College,"University of California, San Diego",1
+174,26,Kenyon College,"University of California, San Diego",0
+174,28,Kenyon College,"University of California, San Diego",2
+174,29,Kenyon College,"University of California, San Diego",0
+174,30,Kenyon College,"University of California, San Diego",0
+174,33,Kenyon College,"University of California, San Diego",0
+173,24,Vanderbilt University,Northwestern University,0
+173,25,Vanderbilt University,Northwestern University,0
+173,26,Vanderbilt University,Northwestern University,1
+173,27,Vanderbilt University,Northwestern University,1
+173,28,Vanderbilt University,Northwestern University,1
+173,29,Vanderbilt University,Northwestern University,1
+173,30,Vanderbilt University,Northwestern University,0
+173,32,Vanderbilt University,Northwestern University,1
+173,33,Vanderbilt University,Northwestern University,1
+173,34,Vanderbilt University,Northwestern University,1
+174,1,Kenyon College,"University of California, San Diego",0
+174,2,Kenyon College,"University of California, San Diego",2
+174,3,Kenyon College,"University of California, San Diego",1
+174,6,Kenyon College,"University of California, San Diego",0
+174,7,Kenyon College,"University of California, San Diego",1
+174,8,Kenyon College,"University of California, San Diego",0
+174,9,Kenyon College,"University of California, San Diego",0
+174,10,Kenyon College,"University of California, San Diego",0
+174,12,Kenyon College,"University of California, San Diego",1
+174,14,Kenyon College,"University of California, San Diego",0
+171,55,Hamilton College,Wesleyan University,0
+171,55,Hamilton College,Georgia Institute of Technology,0
+171,55,Wesleyan University,Georgia Institute of Technology,0
+171,56,Hamilton College,Wesleyan University,0
+171,56,Hamilton College,Georgia Institute of Technology,0
+171,56,Wesleyan University,Georgia Institute of Technology,0
+171,57,Hamilton College,Wesleyan University,1
+171,57,Hamilton College,Georgia Institute of Technology,0
+171,57,Wesleyan University,Georgia Institute of Technology,0
+171,58,Hamilton College,Wesleyan University,1
+171,58,Hamilton College,Georgia Institute of Technology,0
+171,58,Wesleyan University,Georgia Institute of Technology,0
+171,59,Hamilton College,Wesleyan University,3
+171,59,Hamilton College,Georgia Institute of Technology,3
+171,59,Wesleyan University,Georgia Institute of Technology,3
+173,13,Vanderbilt University,Northwestern University,3
+173,14,Vanderbilt University,Northwestern University,1
+173,15,Vanderbilt University,Northwestern University,0
+173,16,Vanderbilt University,Northwestern University,2
+173,17,Vanderbilt University,Northwestern University,0
+173,18,Vanderbilt University,Northwestern University,1
+173,19,Vanderbilt University,Northwestern University,1
+173,21,Vanderbilt University,Northwestern University,1
+173,22,Vanderbilt University,Northwestern University,1
+173,23,Vanderbilt University,Northwestern University,0
+178,34,University of Notre Dame,University of Texas at Austin,0
+178,34,University of Notre Dame,University of Virginia,0
+178,34,University of Texas at Austin,University of Virginia,0
+178,35,University of Notre Dame,University of Texas at Austin,0
+178,35,University of Notre Dame,University of Virginia,0
+178,35,University of Texas at Austin,University of Virginia,0
+178,36,University of Notre Dame,University of Texas at Austin,0
+178,36,University of Notre Dame,University of Virginia,0
+178,36,University of Texas at Austin,University of Virginia,0
+178,38,University of Notre Dame,University of Texas at Austin,3
+178,38,University of Notre Dame,University of Virginia,3
+178,38,University of Texas at Austin,University of Virginia,3
+178,42,University of Notre Dame,University of Texas at Austin,3
+178,42,University of Notre Dame,University of Virginia,3
+178,42,University of Texas at Austin,University of Virginia,3
+171,41,Hamilton College,Wesleyan University,1
+171,41,Hamilton College,Georgia Institute of Technology,3
+171,41,Wesleyan University,Georgia Institute of Technology,2
+171,42,Hamilton College,Wesleyan University,2
+171,42,Hamilton College,Georgia Institute of Technology,0
+171,42,Wesleyan University,Georgia Institute of Technology,3
+171,47,Hamilton College,Wesleyan University,0
+171,47,Hamilton College,Georgia Institute of Technology,0
+171,47,Wesleyan University,Georgia Institute of Technology,0
+171,48,Hamilton College,Wesleyan University,0
+171,48,Hamilton College,Georgia Institute of Technology,0
+171,48,Wesleyan University,Georgia Institute of Technology,0
+171,49,Hamilton College,Wesleyan University,2
+171,49,Hamilton College,Georgia Institute of Technology,2
+171,49,Wesleyan University,Georgia Institute of Technology,3
+171,50,Hamilton College,Wesleyan University,1
+171,50,Hamilton College,Georgia Institute of Technology,3
+171,50,Wesleyan University,Georgia Institute of Technology,2
+171,51,Hamilton College,Wesleyan University,2
+171,51,Hamilton College,Georgia Institute of Technology,0
+171,51,Wesleyan University,Georgia Institute of Technology,3
+171,52,Hamilton College,Wesleyan University,0
+171,52,Hamilton College,Georgia Institute of Technology,0
+171,52,Wesleyan University,Georgia Institute of Technology,0
+171,53,Hamilton College,Wesleyan University,2
+171,53,Hamilton College,Georgia Institute of Technology,0
+171,53,Wesleyan University,Georgia Institute of Technology,1
+171,54,Hamilton College,Wesleyan University,1
+171,54,Hamilton College,Georgia Institute of Technology,1
+171,54,Wesleyan University,Georgia Institute of Technology,0
+173,1,Vanderbilt University,Northwestern University,0
+173,2,Vanderbilt University,Northwestern University,1
+173,3,Vanderbilt University,Northwestern University,1
+173,5,Vanderbilt University,Northwestern University,1
+173,6,Vanderbilt University,Northwestern University,0
+173,7,Vanderbilt University,Northwestern University,1
+173,9,Vanderbilt University,Northwestern University,1
+173,10,Vanderbilt University,Northwestern University,1
+173,11,Vanderbilt University,Northwestern University,1
+173,12,Vanderbilt University,Northwestern University,1
+170,46,Amherst College,Dartmouth College,1
+170,47,Amherst College,Dartmouth College,2
+170,48,Amherst College,Dartmouth College,0
+170,50,Amherst College,Dartmouth College,0
+170,52,Amherst College,Dartmouth College,0
+170,53,Amherst College,Dartmouth College,0
+171,23,Hamilton College,Wesleyan University,2
+171,23,Hamilton College,Georgia Institute of Technology,0
+171,23,Wesleyan University,Georgia Institute of Technology,0
+171,24,Hamilton College,Wesleyan University,3
+171,24,Hamilton College,Georgia Institute of Technology,0
+171,24,Wesleyan University,Georgia Institute of Technology,0
+171,25,Hamilton College,Wesleyan University,0
+171,25,Hamilton College,Georgia Institute of Technology,0
+171,25,Wesleyan University,Georgia Institute of Technology,0
+171,28,Hamilton College,Wesleyan University,0
+171,28,Hamilton College,Georgia Institute of Technology,1
+171,28,Wesleyan University,Georgia Institute of Technology,1
+171,29,Hamilton College,Wesleyan University,0
+171,29,Hamilton College,Georgia Institute of Technology,1
+171,29,Wesleyan University,Georgia Institute of Technology,0
+171,30,Hamilton College,Wesleyan University,2
+171,30,Hamilton College,Georgia Institute of Technology,0
+171,30,Wesleyan University,Georgia Institute of Technology,1
+171,31,Hamilton College,Wesleyan University,3
+171,31,Hamilton College,Georgia Institute of Technology,3
+171,31,Wesleyan University,Georgia Institute of Technology,3
+171,32,Hamilton College,Wesleyan University,2
+171,32,Hamilton College,Georgia Institute of Technology,0
+171,32,Wesleyan University,Georgia Institute of Technology,1
+171,39,Hamilton College,Wesleyan University,3
+171,39,Hamilton College,Georgia Institute of Technology,1
+171,39,Wesleyan University,Georgia Institute of Technology,1
+171,40,Hamilton College,Wesleyan University,0
+171,40,Hamilton College,Georgia Institute of Technology,0
+171,40,Wesleyan University,Georgia Institute of Technology,0
+186,52,Duke University,"University of California, Berkeley",3
+186,53,Duke University,"University of California, Berkeley",3
+186,54,Duke University,"University of California, Berkeley",3
+186,55,Duke University,"University of California, Berkeley",0
+170,35,Amherst College,Dartmouth College,2
+170,36,Amherst College,Dartmouth College,0
+170,37,Amherst College,Dartmouth College,0
+170,38,Amherst College,Dartmouth College,1
+170,39,Amherst College,Dartmouth College,2
+170,40,Amherst College,Dartmouth College,0
+170,41,Amherst College,Dartmouth College,2
+170,42,Amherst College,Dartmouth College,0
+170,43,Amherst College,Dartmouth College,0
+170,44,Amherst College,Dartmouth College,0
+171,2,Hamilton College,Wesleyan University,3
+171,2,Hamilton College,Georgia Institute of Technology,1
+171,2,Wesleyan University,Georgia Institute of Technology,1
+171,4,Hamilton College,Wesleyan University,3
+171,4,Hamilton College,Georgia Institute of Technology,2
+171,4,Wesleyan University,Georgia Institute of Technology,2
+171,5,Hamilton College,Wesleyan University,3
+171,5,Hamilton College,Georgia Institute of Technology,0
+171,5,Wesleyan University,Georgia Institute of Technology,0
+171,8,Hamilton College,Wesleyan University,3
+171,8,Hamilton College,Georgia Institute of Technology,0
+171,8,Wesleyan University,Georgia Institute of Technology,1
+171,12,Hamilton College,Wesleyan University,0
+171,12,Hamilton College,Georgia Institute of Technology,0
+171,12,Wesleyan University,Georgia Institute of Technology,0
+171,15,Hamilton College,Wesleyan University,1
+171,15,Hamilton College,Georgia Institute of Technology,1
+171,15,Wesleyan University,Georgia Institute of Technology,0
+171,17,Hamilton College,Wesleyan University,3
+171,17,Hamilton College,Georgia Institute of Technology,1
+171,17,Wesleyan University,Georgia Institute of Technology,1
+171,20,Hamilton College,Wesleyan University,1
+171,20,Hamilton College,Georgia Institute of Technology,3
+171,20,Wesleyan University,Georgia Institute of Technology,2
+171,21,Hamilton College,Wesleyan University,1
+171,21,Hamilton College,Georgia Institute of Technology,3
+171,21,Wesleyan University,Georgia Institute of Technology,2
+171,22,Hamilton College,Wesleyan University,0
+171,22,Hamilton College,Georgia Institute of Technology,0
+171,22,Wesleyan University,Georgia Institute of Technology,0
+169,28,Brown University,"University of California, Berkeley",3
+169,28,Brown University,Duke University,3
+169,28,"University of California, Berkeley",Duke University,2
+169,29,Brown University,"University of California, Berkeley",3
+169,29,Brown University,Duke University,3
+169,29,"University of California, Berkeley",Duke University,1
+169,30,Brown University,"University of California, Berkeley",1
+169,30,Brown University,Duke University,0
+169,30,"University of California, Berkeley",Duke University,2
+169,31,Brown University,"University of California, Berkeley",0
+169,31,Brown University,Duke University,2
+169,31,"University of California, Berkeley",Duke University,2
+169,32,Brown University,"University of California, Berkeley",1
+169,32,Brown University,Duke University,0
+169,32,"University of California, Berkeley",Duke University,2
+169,33,Brown University,"University of California, Berkeley",1
+169,33,Brown University,Duke University,0
+169,33,"University of California, Berkeley",Duke University,1
+169,34,Brown University,"University of California, Berkeley",0
+169,34,Brown University,Duke University,0
+169,34,"University of California, Berkeley",Duke University,2
+169,35,Brown University,"University of California, Berkeley",1
+169,35,Brown University,Duke University,0
+169,35,"University of California, Berkeley",Duke University,1
+169,36,Brown University,"University of California, Berkeley",2
+169,36,Brown University,Duke University,0
+169,36,"University of California, Berkeley",Duke University,1
+169,38,Brown University,"University of California, Berkeley",2
+169,38,Brown University,Duke University,3
+169,38,"University of California, Berkeley",Duke University,2
+170,1,Amherst College,Dartmouth College,0
+170,2,Amherst College,Dartmouth College,3
+170,3,Amherst College,Dartmouth College,0
+170,4,Amherst College,Dartmouth College,0
+170,5,Amherst College,Dartmouth College,1
+170,6,Amherst College,Dartmouth College,0
+170,8,Amherst College,Dartmouth College,1
+170,10,Amherst College,Dartmouth College,0
+170,11,Amherst College,Dartmouth College,2
+170,12,Amherst College,Dartmouth College,1
+166,102,Stanford University,University of Illinois at Urbana-Champaign,0
+166,102,Stanford University,University of Southern California,0
+166,102,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,103,Stanford University,University of Illinois at Urbana-Champaign,0
+166,103,Stanford University,University of Southern California,0
+166,103,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,104,Stanford University,University of Illinois at Urbana-Champaign,0
+166,104,Stanford University,University of Southern California,0
+166,104,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,105,Stanford University,University of Illinois at Urbana-Champaign,0
+166,105,Stanford University,University of Southern California,0
+166,105,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,108,Stanford University,University of Illinois at Urbana-Champaign,0
+166,108,Stanford University,University of Southern California,0
+166,108,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,109,Stanford University,University of Illinois at Urbana-Champaign,0
+166,109,Stanford University,University of Southern California,0
+166,109,University of Illinois at Urbana-Champaign,University of Southern California,0
+169,15,Brown University,"University of California, Berkeley",1
+169,15,Brown University,Duke University,3
+169,15,"University of California, Berkeley",Duke University,2
+169,16,Brown University,"University of California, Berkeley",0
+169,16,Brown University,Duke University,0
+169,16,"University of California, Berkeley",Duke University,0
+169,17,Brown University,"University of California, Berkeley",0
+169,17,Brown University,Duke University,0
+169,17,"University of California, Berkeley",Duke University,0
+169,18,Brown University,"University of California, Berkeley",2
+169,18,Brown University,Duke University,0
+169,18,"University of California, Berkeley",Duke University,1
+169,20,Brown University,"University of California, Berkeley",2
+169,20,Brown University,Duke University,0
+169,20,"University of California, Berkeley",Duke University,1
+169,21,Brown University,"University of California, Berkeley",0
+169,21,Brown University,Duke University,0
+169,21,"University of California, Berkeley",Duke University,0
+169,22,Brown University,"University of California, Berkeley",2
+169,22,Brown University,Duke University,2
+169,22,"University of California, Berkeley",Duke University,1
+169,24,Brown University,"University of California, Berkeley",0
+169,24,Brown University,Duke University,0
+169,24,"University of California, Berkeley",Duke University,0
+169,25,Brown University,"University of California, Berkeley",0
+169,25,Brown University,Duke University,0
+169,25,"University of California, Berkeley",Duke University,0
+169,27,Brown University,"University of California, Berkeley",0
+169,27,Brown University,Duke University,2
+169,27,"University of California, Berkeley",Duke University,2
+185,51,Boston College,Georgetown University,0
+185,53,Boston College,Georgetown University,0
+185,54,Boston College,Georgetown University,0
+185,56,Boston College,Georgetown University,0
+166,78,Stanford University,University of Illinois at Urbana-Champaign,1
+166,78,Stanford University,University of Southern California,1
+166,78,University of Illinois at Urbana-Champaign,University of Southern California,3
+166,79,Stanford University,University of Illinois at Urbana-Champaign,1
+166,79,Stanford University,University of Southern California,1
+166,79,University of Illinois at Urbana-Champaign,University of Southern California,3
+166,80,Stanford University,University of Illinois at Urbana-Champaign,1
+166,80,Stanford University,University of Southern California,1
+166,80,University of Illinois at Urbana-Champaign,University of Southern California,1
+166,81,Stanford University,University of Illinois at Urbana-Champaign,1
+166,81,Stanford University,University of Southern California,1
+166,81,University of Illinois at Urbana-Champaign,University of Southern California,3
+166,82,Stanford University,University of Illinois at Urbana-Champaign,1
+166,82,Stanford University,University of Southern California,1
+166,82,University of Illinois at Urbana-Champaign,University of Southern California,1
+166,83,Stanford University,University of Illinois at Urbana-Champaign,3
+166,83,Stanford University,University of Southern California,2
+166,83,University of Illinois at Urbana-Champaign,University of Southern California,1
+166,84,Stanford University,University of Illinois at Urbana-Champaign,1
+166,84,Stanford University,University of Southern California,2
+166,84,University of Illinois at Urbana-Champaign,University of Southern California,1
+166,85,Stanford University,University of Illinois at Urbana-Champaign,1
+166,85,Stanford University,University of Southern California,1
+166,85,University of Illinois at Urbana-Champaign,University of Southern California,1
+166,86,Stanford University,University of Illinois at Urbana-Champaign,1
+166,86,Stanford University,University of Southern California,2
+166,86,University of Illinois at Urbana-Champaign,University of Southern California,1
+166,87,Stanford University,University of Illinois at Urbana-Champaign,1
+166,87,Stanford University,University of Southern California,0
+166,87,University of Illinois at Urbana-Champaign,University of Southern California,1
+168,30,Washington University in St. Louis,Bowdoin College,3
+168,31,Washington University in St. Louis,Bowdoin College,1
+168,32,Washington University in St. Louis,Bowdoin College,2
+168,33,Washington University in St. Louis,Bowdoin College,0
+168,34,Washington University in St. Louis,Bowdoin College,0
+168,37,Washington University in St. Louis,Bowdoin College,3
+168,39,Washington University in St. Louis,Bowdoin College,1
+168,40,Washington University in St. Louis,Bowdoin College,1
+168,41,Washington University in St. Louis,Bowdoin College,0
+168,42,Washington University in St. Louis,Bowdoin College,2
+166,68,Stanford University,University of Illinois at Urbana-Champaign,1
+166,68,Stanford University,University of Southern California,0
+166,68,University of Illinois at Urbana-Champaign,University of Southern California,3
+166,69,Stanford University,University of Illinois at Urbana-Champaign,0
+166,69,Stanford University,University of Southern California,0
+166,69,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,70,Stanford University,University of Illinois at Urbana-Champaign,0
+166,70,Stanford University,University of Southern California,0
+166,70,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,71,Stanford University,University of Illinois at Urbana-Champaign,0
+166,71,Stanford University,University of Southern California,0
+166,71,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,72,Stanford University,University of Illinois at Urbana-Champaign,0
+166,72,Stanford University,University of Southern California,0
+166,72,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,73,Stanford University,University of Illinois at Urbana-Champaign,0
+166,73,Stanford University,University of Southern California,0
+166,73,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,74,Stanford University,University of Illinois at Urbana-Champaign,0
+166,74,Stanford University,University of Southern California,1
+166,74,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,75,Stanford University,University of Illinois at Urbana-Champaign,0
+166,75,Stanford University,University of Southern California,3
+166,75,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,76,Stanford University,University of Illinois at Urbana-Champaign,0
+166,76,Stanford University,University of Southern California,0
+166,76,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,77,Stanford University,University of Illinois at Urbana-Champaign,0
+166,77,Stanford University,University of Southern California,0
+166,77,University of Illinois at Urbana-Champaign,University of Southern California,0
+168,16,Washington University in St. Louis,Bowdoin College,1
+168,17,Washington University in St. Louis,Bowdoin College,3
+168,19,Washington University in St. Louis,Bowdoin College,0
+168,20,Washington University in St. Louis,Bowdoin College,0
+168,21,Washington University in St. Louis,Bowdoin College,1
+168,24,Washington University in St. Louis,Bowdoin College,1
+168,25,Washington University in St. Louis,Bowdoin College,0
+168,26,Washington University in St. Louis,Bowdoin College,1
+168,28,Washington University in St. Louis,Bowdoin College,0
+168,29,Washington University in St. Louis,Bowdoin College,1
+166,58,Stanford University,University of Illinois at Urbana-Champaign,0
+166,58,Stanford University,University of Southern California,0
+166,58,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,59,Stanford University,University of Illinois at Urbana-Champaign,0
+166,59,Stanford University,University of Southern California,0
+166,59,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,60,Stanford University,University of Illinois at Urbana-Champaign,0
+166,60,Stanford University,University of Southern California,0
+166,60,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,61,Stanford University,University of Illinois at Urbana-Champaign,0
+166,61,Stanford University,University of Southern California,0
+166,61,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,62,Stanford University,University of Illinois at Urbana-Champaign,0
+166,62,Stanford University,University of Southern California,0
+166,62,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,63,Stanford University,University of Illinois at Urbana-Champaign,0
+166,63,Stanford University,University of Southern California,0
+166,63,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,64,Stanford University,University of Illinois at Urbana-Champaign,0
+166,64,Stanford University,University of Southern California,0
+166,64,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,65,Stanford University,University of Illinois at Urbana-Champaign,0
+166,65,Stanford University,University of Southern California,0
+166,65,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,66,Stanford University,University of Illinois at Urbana-Champaign,0
+166,66,Stanford University,University of Southern California,1
+166,66,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,67,Stanford University,University of Illinois at Urbana-Champaign,0
+166,67,Stanford University,University of Southern California,0
+166,67,University of Illinois at Urbana-Champaign,University of Southern California,0
+168,1,Washington University in St. Louis,Bowdoin College,1
+168,2,Washington University in St. Louis,Bowdoin College,1
+168,4,Washington University in St. Louis,Bowdoin College,0
+168,6,Washington University in St. Louis,Bowdoin College,2
+168,7,Washington University in St. Louis,Bowdoin College,1
+168,9,Washington University in St. Louis,Bowdoin College,2
+168,10,Washington University in St. Louis,Bowdoin College,0
+168,11,Washington University in St. Louis,Bowdoin College,1
+168,12,Washington University in St. Louis,Bowdoin College,0
+168,14,Washington University in St. Louis,Bowdoin College,0
+166,38,Stanford University,University of Illinois at Urbana-Champaign,2
+166,38,Stanford University,University of Southern California,2
+166,38,University of Illinois at Urbana-Champaign,University of Southern California,3
+166,39,Stanford University,University of Illinois at Urbana-Champaign,1
+166,39,Stanford University,University of Southern California,2
+166,39,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,40,Stanford University,University of Illinois at Urbana-Champaign,1
+166,40,Stanford University,University of Southern California,2
+166,40,University of Illinois at Urbana-Champaign,University of Southern California,2
+166,41,Stanford University,University of Illinois at Urbana-Champaign,0
+166,41,Stanford University,University of Southern California,3
+166,41,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,42,Stanford University,University of Illinois at Urbana-Champaign,0
+166,42,Stanford University,University of Southern California,1
+166,42,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,43,Stanford University,University of Illinois at Urbana-Champaign,1
+166,43,Stanford University,University of Southern California,1
+166,43,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,44,Stanford University,University of Illinois at Urbana-Champaign,0
+166,44,Stanford University,University of Southern California,0
+166,44,University of Illinois at Urbana-Champaign,University of Southern California,2
+166,45,Stanford University,University of Illinois at Urbana-Champaign,0
+166,45,Stanford University,University of Southern California,1
+166,45,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,46,Stanford University,University of Illinois at Urbana-Champaign,0
+166,46,Stanford University,University of Southern California,3
+166,46,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,47,Stanford University,University of Illinois at Urbana-Champaign,1
+166,47,Stanford University,University of Southern California,0
+166,47,University of Illinois at Urbana-Champaign,University of Southern California,0
+167,18,Boston College,University of North Carolina,3
+167,18,Boston College,University of Southern California,0
+167,18,University of North Carolina,University of Southern California,0
+167,19,Boston College,University of North Carolina,0
+167,19,Boston College,University of Southern California,2
+167,19,University of North Carolina,University of Southern California,2
+167,21,Boston College,University of North Carolina,0
+167,21,Boston College,University of Southern California,0
+167,21,University of North Carolina,University of Southern California,0
+167,23,Boston College,University of North Carolina,2
+167,23,Boston College,University of Southern California,2
+167,23,University of North Carolina,University of Southern California,2
+167,24,Boston College,University of North Carolina,0
+167,24,Boston College,University of Southern California,0
+167,24,University of North Carolina,University of Southern California,0
+167,26,Boston College,University of North Carolina,2
+167,26,Boston College,University of Southern California,2
+167,26,University of North Carolina,University of Southern California,3
+167,27,Boston College,University of North Carolina,3
+167,27,Boston College,University of Southern California,1
+167,27,University of North Carolina,University of Southern California,1
+167,28,Boston College,University of North Carolina,1
+167,28,Boston College,University of Southern California,0
+167,28,University of North Carolina,University of Southern California,0
+167,29,Boston College,University of North Carolina,0
+167,29,Boston College,University of Southern California,0
+167,29,University of North Carolina,University of Southern California,0
+167,32,Boston College,University of North Carolina,2
+167,32,Boston College,University of Southern California,0
+167,32,University of North Carolina,University of Southern California,1
+165,32,Boston University,Boston College,3
+165,33,Boston University,Boston College,1
+165,34,Boston University,Boston College,0
+165,35,Boston University,Boston College,1
+165,36,Boston University,Boston College,1
+165,37,Boston University,Boston College,1
+165,38,Boston University,Boston College,3
+165,39,Boston University,Boston College,0
+165,40,Boston University,Boston College,3
+165,41,Boston University,Boston College,0
+166,15,Stanford University,University of Illinois at Urbana-Champaign,0
+166,15,Stanford University,University of Southern California,1
+166,15,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,16,Stanford University,University of Illinois at Urbana-Champaign,0
+166,16,Stanford University,University of Southern California,0
+166,16,University of Illinois at Urbana-Champaign,University of Southern California,2
+166,17,Stanford University,University of Illinois at Urbana-Champaign,0
+166,17,Stanford University,University of Southern California,2
+166,17,University of Illinois at Urbana-Champaign,University of Southern California,2
+166,18,Stanford University,University of Illinois at Urbana-Champaign,1
+166,18,Stanford University,University of Southern California,1
+166,18,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,21,Stanford University,University of Illinois at Urbana-Champaign,0
+166,21,Stanford University,University of Southern California,3
+166,21,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,23,Stanford University,University of Illinois at Urbana-Champaign,0
+166,23,Stanford University,University of Southern California,2
+166,23,University of Illinois at Urbana-Champaign,University of Southern California,2
+166,24,Stanford University,University of Illinois at Urbana-Champaign,0
+166,24,Stanford University,University of Southern California,0
+166,24,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,25,Stanford University,University of Illinois at Urbana-Champaign,0
+166,25,Stanford University,University of Southern California,2
+166,25,University of Illinois at Urbana-Champaign,University of Southern California,2
+166,26,Stanford University,University of Illinois at Urbana-Champaign,1
+166,26,Stanford University,University of Southern California,1
+166,26,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,27,Stanford University,University of Illinois at Urbana-Champaign,0
+166,27,Stanford University,University of Southern California,2
+166,27,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,28,Stanford University,University of Illinois at Urbana-Champaign,0
+166,28,Stanford University,University of Southern California,2
+166,28,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,29,Stanford University,University of Illinois at Urbana-Champaign,0
+166,29,Stanford University,University of Southern California,2
+166,29,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,30,Stanford University,University of Illinois at Urbana-Champaign,0
+166,30,Stanford University,University of Southern California,2
+166,30,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,31,Stanford University,University of Illinois at Urbana-Champaign,0
+166,31,Stanford University,University of Southern California,0
+166,31,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,32,Stanford University,University of Illinois at Urbana-Champaign,0
+166,32,Stanford University,University of Southern California,0
+166,32,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,33,Stanford University,University of Illinois at Urbana-Champaign,0
+166,33,Stanford University,University of Southern California,0
+166,33,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,34,Stanford University,University of Illinois at Urbana-Champaign,0
+166,34,Stanford University,University of Southern California,0
+166,34,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,35,Stanford University,University of Illinois at Urbana-Champaign,0
+166,35,Stanford University,University of Southern California,0
+166,35,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,36,Stanford University,University of Illinois at Urbana-Champaign,1
+166,36,Stanford University,University of Southern California,1
+166,36,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,37,Stanford University,University of Illinois at Urbana-Champaign,0
+166,37,Stanford University,University of Southern California,0
+166,37,University of Illinois at Urbana-Champaign,University of Southern California,0
+167,1,Boston College,University of North Carolina,1
+167,1,Boston College,University of Southern California,3
+167,1,University of North Carolina,University of Southern California,2
+167,2,Boston College,University of North Carolina,0
+167,2,Boston College,University of Southern California,0
+167,2,University of North Carolina,University of Southern California,0
+167,4,Boston College,University of North Carolina,1
+167,4,Boston College,University of Southern California,3
+167,4,University of North Carolina,University of Southern California,2
+167,6,Boston College,University of North Carolina,1
+167,6,Boston College,University of Southern California,0
+167,6,University of North Carolina,University of Southern California,0
+167,8,Boston College,University of North Carolina,1
+167,8,Boston College,University of Southern California,1
+167,8,University of North Carolina,University of Southern California,1
+167,10,Boston College,University of North Carolina,0
+167,10,Boston College,University of Southern California,0
+167,10,University of North Carolina,University of Southern California,0
+167,12,Boston College,University of North Carolina,3
+167,12,Boston College,University of Southern California,0
+167,12,University of North Carolina,University of Southern California,0
+167,14,Boston College,University of North Carolina,0
+167,14,Boston College,University of Southern California,0
+167,14,University of North Carolina,University of Southern California,0
+167,15,Boston College,University of North Carolina,1
+167,15,Boston College,University of Southern California,1
+167,15,University of North Carolina,University of Southern California,0
+167,16,Boston College,University of North Carolina,1
+167,16,Boston College,University of Southern California,3
+167,16,University of North Carolina,University of Southern California,2
+164,45,Duke University,Brown University,0
+164,46,Duke University,Brown University,0
+164,47,Duke University,Brown University,0
+164,48,Duke University,Brown University,0
+164,49,Duke University,Brown University,3
+164,50,Duke University,Brown University,1
+164,51,Duke University,Brown University,0
+164,52,Duke University,Brown University,0
+164,53,Duke University,Brown University,0
+164,54,Duke University,Brown University,0
+165,1,Boston University,Boston College,2
+165,2,Boston University,Boston College,3
+165,3,Boston University,Boston College,2
+165,4,Boston University,Boston College,0
+165,5,Boston University,Boston College,3
+165,6,Boston University,Boston College,1
+165,7,Boston University,Boston College,1
+165,8,Boston University,Boston College,2
+165,9,Boston University,Boston College,3
+165,10,Boston University,Boston College,3
+165,22,Boston University,Boston College,2
+165,23,Boston University,Boston College,2
+165,24,Boston University,Boston College,1
+165,25,Boston University,Boston College,3
+165,26,Boston University,Boston College,2
+165,27,Boston University,Boston College,2
+165,28,Boston University,Boston College,2
+165,29,Boston University,Boston College,2
+165,30,Boston University,Boston College,1
+165,31,Boston University,Boston College,1
+166,1,Stanford University,University of Illinois at Urbana-Champaign,0
+166,1,Stanford University,University of Southern California,0
+166,1,University of Illinois at Urbana-Champaign,University of Southern California,3
+166,2,Stanford University,University of Illinois at Urbana-Champaign,0
+166,2,Stanford University,University of Southern California,2
+166,2,University of Illinois at Urbana-Champaign,University of Southern California,2
+166,3,Stanford University,University of Illinois at Urbana-Champaign,0
+166,3,Stanford University,University of Southern California,0
+166,3,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,4,Stanford University,University of Illinois at Urbana-Champaign,3
+166,4,Stanford University,University of Southern California,3
+166,4,University of Illinois at Urbana-Champaign,University of Southern California,3
+166,8,Stanford University,University of Illinois at Urbana-Champaign,0
+166,8,Stanford University,University of Southern California,3
+166,8,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,9,Stanford University,University of Illinois at Urbana-Champaign,1
+166,9,Stanford University,University of Southern California,1
+166,9,University of Illinois at Urbana-Champaign,University of Southern California,2
+166,11,Stanford University,University of Illinois at Urbana-Champaign,0
+166,11,Stanford University,University of Southern California,2
+166,11,University of Illinois at Urbana-Champaign,University of Southern California,2
+166,12,Stanford University,University of Illinois at Urbana-Champaign,0
+166,12,Stanford University,University of Southern California,0
+166,12,University of Illinois at Urbana-Champaign,University of Southern California,0
+166,13,Stanford University,University of Illinois at Urbana-Champaign,0
+166,13,Stanford University,University of Southern California,2
+166,13,University of Illinois at Urbana-Champaign,University of Southern California,2
+166,14,Stanford University,University of Illinois at Urbana-Champaign,0
+166,14,Stanford University,University of Southern California,2
+166,14,University of Illinois at Urbana-Champaign,University of Southern California,2
+163,71,Pomona College,Johns Hopkins University,1
+163,73,Pomona College,Johns Hopkins University,1
+163,75,Pomona College,Johns Hopkins University,2
+163,76,Pomona College,Johns Hopkins University,1
+163,77,Pomona College,Johns Hopkins University,0
+163,78,Pomona College,Johns Hopkins University,2
+163,81,Pomona College,Johns Hopkins University,2
+164,33,Duke University,Brown University,0
+164,34,Duke University,Brown University,2
+164,35,Duke University,Brown University,0
+164,36,Duke University,Brown University,3
+164,38,Duke University,Brown University,3
+164,40,Duke University,Brown University,3
+164,41,Duke University,Brown University,0
+164,42,Duke University,Brown University,2
+164,43,Duke University,Brown University,2
+164,44,Duke University,Brown University,0
+191,101,Stanford University,Princeton University,0
+191,102,Stanford University,Princeton University,0
+191,103,Stanford University,Princeton University,3
+163,57,Pomona College,Johns Hopkins University,0
+163,59,Pomona College,Johns Hopkins University,3
+163,60,Pomona College,Johns Hopkins University,1
+163,63,Pomona College,Johns Hopkins University,3
+163,64,Pomona College,Johns Hopkins University,0
+163,66,Pomona College,Johns Hopkins University,1
+163,67,Pomona College,Johns Hopkins University,0
+163,68,Pomona College,Johns Hopkins University,1
+163,69,Pomona College,Johns Hopkins University,0
+163,70,Pomona College,Johns Hopkins University,0
+164,22,Duke University,Brown University,0
+164,23,Duke University,Brown University,0
+164,24,Duke University,Brown University,0
+164,25,Duke University,Brown University,0
+164,27,Duke University,Brown University,0
+164,28,Duke University,Brown University,2
+164,29,Duke University,Brown University,0
+164,30,Duke University,Brown University,1
+164,31,Duke University,Brown University,3
+164,32,Duke University,Brown University,0
+163,42,Pomona College,Johns Hopkins University,0
+163,43,Pomona College,Johns Hopkins University,1
+163,44,Pomona College,Johns Hopkins University,0
+163,45,Pomona College,Johns Hopkins University,2
+163,47,Pomona College,Johns Hopkins University,0
+163,49,Pomona College,Johns Hopkins University,0
+163,50,Pomona College,Johns Hopkins University,1
+163,52,Pomona College,Johns Hopkins University,0
+163,54,Pomona College,Johns Hopkins University,0
+163,55,Pomona College,Johns Hopkins University,0
+164,12,Duke University,Brown University,0
+164,13,Duke University,Brown University,2
+164,14,Duke University,Brown University,2
+164,15,Duke University,Brown University,0
+164,16,Duke University,Brown University,2
+164,17,Duke University,Brown University,2
+164,18,Duke University,Brown University,2
+164,19,Duke University,Brown University,0
+164,20,Duke University,Brown University,2
+164,21,Duke University,Brown University,1
+163,28,Pomona College,Johns Hopkins University,2
+163,29,Pomona College,Johns Hopkins University,0
+163,30,Pomona College,Johns Hopkins University,3
+163,32,Pomona College,Johns Hopkins University,2
+163,33,Pomona College,Johns Hopkins University,1
+163,34,Pomona College,Johns Hopkins University,0
+163,36,Pomona College,Johns Hopkins University,0
+163,37,Pomona College,Johns Hopkins University,2
+163,38,Pomona College,Johns Hopkins University,0
+163,39,Pomona College,Johns Hopkins University,0
+164,1,Duke University,Brown University,0
+164,2,Duke University,Brown University,2
+164,3,Duke University,Brown University,1
+164,4,Duke University,Brown University,1
+164,5,Duke University,Brown University,0
+164,6,Duke University,Brown University,0
+164,7,Duke University,Brown University,2
+164,8,Duke University,Brown University,1
+164,10,Duke University,Brown University,2
+164,11,Duke University,Brown University,1
+162,43,University of Pennsylvania,New York University,1
+162,44,University of Pennsylvania,New York University,0
+162,45,University of Pennsylvania,New York University,2
+162,46,University of Pennsylvania,New York University,2
+162,47,University of Pennsylvania,New York University,1
+162,48,University of Pennsylvania,New York University,1
+162,49,University of Pennsylvania,New York University,0
+162,50,University of Pennsylvania,New York University,1
+163,15,Pomona College,Johns Hopkins University,0
+163,16,Pomona College,Johns Hopkins University,0
+163,17,Pomona College,Johns Hopkins University,1
+163,18,Pomona College,Johns Hopkins University,1
+163,19,Pomona College,Johns Hopkins University,0
+163,21,Pomona College,Johns Hopkins University,2
+163,22,Pomona College,Johns Hopkins University,1
+163,24,Pomona College,Johns Hopkins University,1
+163,25,Pomona College,Johns Hopkins University,0
+163,26,Pomona College,Johns Hopkins University,1
+195,42,Bates College,Bowdoin College,0
+195,42,Bates College,Middlebury College,0
+195,42,Bowdoin College,Middlebury College,0
+195,43,Bates College,Bowdoin College,0
+195,43,Bates College,Middlebury College,0
+195,43,Bowdoin College,Middlebury College,0
+162,33,University of Pennsylvania,New York University,1
+162,34,University of Pennsylvania,New York University,0
+162,35,University of Pennsylvania,New York University,0
+162,36,University of Pennsylvania,New York University,1
+162,37,University of Pennsylvania,New York University,0
+162,38,University of Pennsylvania,New York University,0
+162,39,University of Pennsylvania,New York University,0
+162,40,University of Pennsylvania,New York University,0
+162,41,University of Pennsylvania,New York University,0
+162,42,University of Pennsylvania,New York University,2
+163,1,Pomona College,Johns Hopkins University,0
+163,2,Pomona College,Johns Hopkins University,3
+163,4,Pomona College,Johns Hopkins University,3
+163,5,Pomona College,Johns Hopkins University,0
+163,7,Pomona College,Johns Hopkins University,0
+163,8,Pomona College,Johns Hopkins University,3
+163,9,Pomona College,Johns Hopkins University,1
+163,11,Pomona College,Johns Hopkins University,0
+163,12,Pomona College,Johns Hopkins University,1
+163,13,Pomona College,Johns Hopkins University,1
+161,39,"University of California, Berkeley",Carnegie Mellon University,3
+161,39,"University of California, Berkeley",University of Maryland,0
+161,39,Carnegie Mellon University,University of Maryland,0
+161,40,"University of California, Berkeley",Carnegie Mellon University,0
+161,40,"University of California, Berkeley",University of Maryland,0
+161,40,Carnegie Mellon University,University of Maryland,0
+161,41,"University of California, Berkeley",Carnegie Mellon University,0
+161,41,"University of California, Berkeley",University of Maryland,0
+161,41,Carnegie Mellon University,University of Maryland,2
+161,43,"University of California, Berkeley",Carnegie Mellon University,0
+161,43,"University of California, Berkeley",University of Maryland,0
+161,43,Carnegie Mellon University,University of Maryland,0
+161,45,"University of California, Berkeley",Carnegie Mellon University,0
+161,45,"University of California, Berkeley",University of Maryland,0
+161,45,Carnegie Mellon University,University of Maryland,0
+161,46,"University of California, Berkeley",Carnegie Mellon University,0
+161,46,"University of California, Berkeley",University of Maryland,0
+161,46,Carnegie Mellon University,University of Maryland,2
+161,47,"University of California, Berkeley",Carnegie Mellon University,2
+161,47,"University of California, Berkeley",University of Maryland,2
+161,47,Carnegie Mellon University,University of Maryland,2
+161,48,"University of California, Berkeley",Carnegie Mellon University,0
+161,48,"University of California, Berkeley",University of Maryland,0
+161,48,Carnegie Mellon University,University of Maryland,0
+161,49,"University of California, Berkeley",Carnegie Mellon University,0
+161,49,"University of California, Berkeley",University of Maryland,0
+161,49,Carnegie Mellon University,University of Maryland,0
+161,51,"University of California, Berkeley",Carnegie Mellon University,0
+161,51,"University of California, Berkeley",University of Maryland,0
+161,51,Carnegie Mellon University,University of Maryland,0
+162,23,University of Pennsylvania,New York University,2
+162,24,University of Pennsylvania,New York University,0
+162,25,University of Pennsylvania,New York University,2
+162,26,University of Pennsylvania,New York University,2
+162,27,University of Pennsylvania,New York University,0
+162,28,University of Pennsylvania,New York University,1
+162,29,University of Pennsylvania,New York University,2
+162,30,University of Pennsylvania,New York University,1
+162,31,University of Pennsylvania,New York University,0
+162,32,University of Pennsylvania,New York University,2
+161,27,"University of California, Berkeley",Carnegie Mellon University,3
+161,27,"University of California, Berkeley",University of Maryland,2
+161,27,Carnegie Mellon University,University of Maryland,0
+161,28,"University of California, Berkeley",Carnegie Mellon University,1
+161,28,"University of California, Berkeley",University of Maryland,1
+161,28,Carnegie Mellon University,University of Maryland,0
+161,29,"University of California, Berkeley",Carnegie Mellon University,0
+161,29,"University of California, Berkeley",University of Maryland,2
+161,29,Carnegie Mellon University,University of Maryland,2
+161,30,"University of California, Berkeley",Carnegie Mellon University,2
+161,30,"University of California, Berkeley",University of Maryland,2
+161,30,Carnegie Mellon University,University of Maryland,0
+161,31,"University of California, Berkeley",Carnegie Mellon University,0
+161,31,"University of California, Berkeley",University of Maryland,0
+161,31,Carnegie Mellon University,University of Maryland,0
+161,32,"University of California, Berkeley",Carnegie Mellon University,2
+161,32,"University of California, Berkeley",University of Maryland,2
+161,32,Carnegie Mellon University,University of Maryland,0
+161,33,"University of California, Berkeley",Carnegie Mellon University,2
+161,33,"University of California, Berkeley",University of Maryland,0
+161,33,Carnegie Mellon University,University of Maryland,1
+161,34,"University of California, Berkeley",Carnegie Mellon University,1
+161,34,"University of California, Berkeley",University of Maryland,0
+161,34,Carnegie Mellon University,University of Maryland,0
+161,35,"University of California, Berkeley",Carnegie Mellon University,1
+161,35,"University of California, Berkeley",University of Maryland,1
+161,35,Carnegie Mellon University,University of Maryland,0
+161,37,"University of California, Berkeley",Carnegie Mellon University,0
+161,37,"University of California, Berkeley",University of Maryland,0
+161,37,Carnegie Mellon University,University of Maryland,0
+162,13,University of Pennsylvania,New York University,2
+162,14,University of Pennsylvania,New York University,1
+162,15,University of Pennsylvania,New York University,2
+162,16,University of Pennsylvania,New York University,1
+162,17,University of Pennsylvania,New York University,2
+162,18,University of Pennsylvania,New York University,1
+162,19,University of Pennsylvania,New York University,2
+162,20,University of Pennsylvania,New York University,2
+162,21,University of Pennsylvania,New York University,2
+162,22,University of Pennsylvania,New York University,1
+161,14,"University of California, Berkeley",Carnegie Mellon University,0
+161,14,"University of California, Berkeley",University of Maryland,0
+161,14,Carnegie Mellon University,University of Maryland,1
+161,16,"University of California, Berkeley",Carnegie Mellon University,0
+161,16,"University of California, Berkeley",University of Maryland,0
+161,16,Carnegie Mellon University,University of Maryland,1
+161,17,"University of California, Berkeley",Carnegie Mellon University,1
+161,17,"University of California, Berkeley",University of Maryland,0
+161,17,Carnegie Mellon University,University of Maryland,2
+161,19,"University of California, Berkeley",Carnegie Mellon University,1
+161,19,"University of California, Berkeley",University of Maryland,3
+161,19,Carnegie Mellon University,University of Maryland,2
+161,20,"University of California, Berkeley",Carnegie Mellon University,2
+161,20,"University of California, Berkeley",University of Maryland,0
+161,20,Carnegie Mellon University,University of Maryland,0
+161,21,"University of California, Berkeley",Carnegie Mellon University,2
+161,21,"University of California, Berkeley",University of Maryland,0
+161,21,Carnegie Mellon University,University of Maryland,0
+161,23,"University of California, Berkeley",Carnegie Mellon University,0
+161,23,"University of California, Berkeley",University of Maryland,1
+161,23,Carnegie Mellon University,University of Maryland,1
+161,24,"University of California, Berkeley",Carnegie Mellon University,0
+161,24,"University of California, Berkeley",University of Maryland,0
+161,24,Carnegie Mellon University,University of Maryland,0
+161,25,"University of California, Berkeley",Carnegie Mellon University,0
+161,25,"University of California, Berkeley",University of Maryland,0
+161,25,Carnegie Mellon University,University of Maryland,0
+161,26,"University of California, Berkeley",Carnegie Mellon University,2
+161,26,"University of California, Berkeley",University of Maryland,2
+161,26,Carnegie Mellon University,University of Maryland,0
+162,1,University of Pennsylvania,New York University,1
+162,3,University of Pennsylvania,New York University,1
+162,4,University of Pennsylvania,New York University,1
+162,5,University of Pennsylvania,New York University,0
+162,6,University of Pennsylvania,New York University,1
+162,8,University of Pennsylvania,New York University,2
+162,9,University of Pennsylvania,New York University,3
+162,10,University of Pennsylvania,New York University,1
+162,11,University of Pennsylvania,New York University,0
+162,12,University of Pennsylvania,New York University,1
+159,29,Cornell University,Virginia Tech,1
+159,30,Cornell University,Virginia Tech,2
+159,32,Cornell University,Virginia Tech,0
+159,33,Cornell University,Virginia Tech,2
+159,34,Cornell University,Virginia Tech,0
+159,35,Cornell University,Virginia Tech,0
+159,37,Cornell University,Virginia Tech,0
+159,38,Cornell University,Virginia Tech,2
+159,39,Cornell University,Virginia Tech,2
+159,40,Cornell University,Virginia Tech,2
+161,1,"University of California, Berkeley",Carnegie Mellon University,0
+161,1,"University of California, Berkeley",University of Maryland,2
+161,1,Carnegie Mellon University,University of Maryland,2
+161,2,"University of California, Berkeley",Carnegie Mellon University,0
+161,2,"University of California, Berkeley",University of Maryland,0
+161,2,Carnegie Mellon University,University of Maryland,0
+161,4,"University of California, Berkeley",Carnegie Mellon University,0
+161,4,"University of California, Berkeley",University of Maryland,0
+161,4,Carnegie Mellon University,University of Maryland,0
+161,5,"University of California, Berkeley",Carnegie Mellon University,0
+161,5,"University of California, Berkeley",University of Maryland,0
+161,5,Carnegie Mellon University,University of Maryland,0
+161,6,"University of California, Berkeley",Carnegie Mellon University,0
+161,6,"University of California, Berkeley",University of Maryland,2
+161,6,Carnegie Mellon University,University of Maryland,2
+161,7,"University of California, Berkeley",Carnegie Mellon University,0
+161,7,"University of California, Berkeley",University of Maryland,2
+161,7,Carnegie Mellon University,University of Maryland,2
+161,9,"University of California, Berkeley",Carnegie Mellon University,0
+161,9,"University of California, Berkeley",University of Maryland,2
+161,9,Carnegie Mellon University,University of Maryland,2
+161,10,"University of California, Berkeley",Carnegie Mellon University,0
+161,10,"University of California, Berkeley",University of Maryland,0
+161,10,Carnegie Mellon University,University of Maryland,2
+161,11,"University of California, Berkeley",Carnegie Mellon University,0
+161,11,"University of California, Berkeley",University of Maryland,2
+161,11,Carnegie Mellon University,University of Maryland,0
+161,13,"University of California, Berkeley",Carnegie Mellon University,0
+161,13,"University of California, Berkeley",University of Maryland,0
+161,13,Carnegie Mellon University,University of Maryland,0
+158,25,University of Rochester,Emory University,0
+158,26,University of Rochester,Emory University,0
+158,27,University of Rochester,Emory University,3
+158,28,University of Rochester,Emory University,1
+158,29,University of Rochester,Emory University,3
+158,30,University of Rochester,Emory University,0
+158,31,University of Rochester,Emory University,3
+158,32,University of Rochester,Emory University,3
+158,33,University of Rochester,Emory University,3
+158,34,University of Rochester,Emory University,3
+159,2,Cornell University,Virginia Tech,0
+159,3,Cornell University,Virginia Tech,1
+159,4,Cornell University,Virginia Tech,0
+159,6,Cornell University,Virginia Tech,1
+159,8,Cornell University,Virginia Tech,3
+159,9,Cornell University,Virginia Tech,0
+159,12,Cornell University,Virginia Tech,0
+159,13,Cornell University,Virginia Tech,3
+159,14,Cornell University,Virginia Tech,2
+159,15,Cornell University,Virginia Tech,2
+157,44,Vassar College,Kenyon College,1
+157,45,Vassar College,Kenyon College,1
+157,46,Vassar College,Kenyon College,1
+157,47,Vassar College,Kenyon College,3
+157,48,Vassar College,Kenyon College,2
+157,49,Vassar College,Kenyon College,1
+157,50,Vassar College,Kenyon College,3
+157,51,Vassar College,Kenyon College,1
+157,52,Vassar College,Kenyon College,3
+157,53,Vassar College,Kenyon College,2
+158,15,University of Rochester,Emory University,2
+158,16,University of Rochester,Emory University,1
+158,17,University of Rochester,Emory University,2
+158,18,University of Rochester,Emory University,3
+158,19,University of Rochester,Emory University,1
+158,20,University of Rochester,Emory University,3
+158,21,University of Rochester,Emory University,1
+158,22,University of Rochester,Emory University,2
+158,23,University of Rochester,Emory University,3
+158,24,University of Rochester,Emory University,3
+157,33,Vassar College,Kenyon College,3
+157,34,Vassar College,Kenyon College,3
+157,35,Vassar College,Kenyon College,0
+157,36,Vassar College,Kenyon College,1
+157,37,Vassar College,Kenyon College,2
+157,38,Vassar College,Kenyon College,1
+157,39,Vassar College,Kenyon College,1
+157,40,Vassar College,Kenyon College,1
+157,42,Vassar College,Kenyon College,1
+157,43,Vassar College,Kenyon College,2
+158,4,University of Rochester,Emory University,0
+158,5,University of Rochester,Emory University,1
+158,6,University of Rochester,Emory University,3
+158,7,University of Rochester,Emory University,0
+158,8,University of Rochester,Emory University,0
+158,9,University of Rochester,Emory University,0
+158,10,University of Rochester,Emory University,3
+158,11,University of Rochester,Emory University,2
+158,13,University of Rochester,Emory University,2
+158,14,University of Rochester,Emory University,0
+156,84,University of Georgia,Indiana University,1
+156,85,University of Georgia,Indiana University,0
+156,86,University of Georgia,Indiana University,1
+156,87,University of Georgia,Indiana University,0
+156,88,University of Georgia,Indiana University,2
+156,89,University of Georgia,Indiana University,1
+156,90,University of Georgia,Indiana University,1
+156,91,University of Georgia,Indiana University,0
+156,92,University of Georgia,Indiana University,2
+156,93,University of Georgia,Indiana University,1
+157,13,Vassar College,Kenyon College,0
+157,14,Vassar College,Kenyon College,0
+157,15,Vassar College,Kenyon College,1
+157,16,Vassar College,Kenyon College,1
+157,17,Vassar College,Kenyon College,0
+157,18,Vassar College,Kenyon College,1
+157,19,Vassar College,Kenyon College,2
+157,20,Vassar College,Kenyon College,0
+157,21,Vassar College,Kenyon College,1
+157,22,Vassar College,Kenyon College,0
+156,94,University of Georgia,Indiana University,1
+156,95,University of Georgia,Indiana University,2
+156,96,University of Georgia,Indiana University,3
+156,97,University of Georgia,Indiana University,2
+156,98,University of Georgia,Indiana University,3
+156,99,University of Georgia,Indiana University,1
+156,100,University of Georgia,Indiana University,3
+156,101,University of Georgia,Indiana University,0
+156,102,University of Georgia,Indiana University,1
+156,103,University of Georgia,Indiana University,1
+157,23,Vassar College,Kenyon College,1
+157,24,Vassar College,Kenyon College,0
+157,25,Vassar College,Kenyon College,0
+157,26,Vassar College,Kenyon College,1
+157,27,Vassar College,Kenyon College,1
+157,28,Vassar College,Kenyon College,0
+157,29,Vassar College,Kenyon College,0
+157,30,Vassar College,Kenyon College,0
+157,31,Vassar College,Kenyon College,0
+157,32,Vassar College,Kenyon College,1
+156,71,University of Georgia,Indiana University,1
+156,72,University of Georgia,Indiana University,2
+156,73,University of Georgia,Indiana University,1
+156,74,University of Georgia,Indiana University,1
+156,75,University of Georgia,Indiana University,3
+156,76,University of Georgia,Indiana University,1
+156,79,University of Georgia,Indiana University,1
+156,80,University of Georgia,Indiana University,2
+156,81,University of Georgia,Indiana University,3
+156,83,University of Georgia,Indiana University,1
+157,1,Vassar College,Kenyon College,1
+157,2,Vassar College,Kenyon College,1
+157,3,Vassar College,Kenyon College,1
+157,4,Vassar College,Kenyon College,2
+157,5,Vassar College,Kenyon College,1
+157,6,Vassar College,Kenyon College,1
+157,9,Vassar College,Kenyon College,2
+157,10,Vassar College,Kenyon College,1
+157,11,Vassar College,Kenyon College,1
+157,12,Vassar College,Kenyon College,2
+154,66,Pennsylvania State University,Rutgers University,0
+154,66,Pennsylvania State University,Virginia Tech,0
+154,66,Rutgers University,Virginia Tech,0
+154,67,Pennsylvania State University,Rutgers University,0
+154,67,Pennsylvania State University,Virginia Tech,0
+154,67,Rutgers University,Virginia Tech,0
+154,68,Pennsylvania State University,Rutgers University,0
+154,68,Pennsylvania State University,Virginia Tech,0
+154,68,Rutgers University,Virginia Tech,0
+154,69,Pennsylvania State University,Rutgers University,0
+154,69,Pennsylvania State University,Virginia Tech,0
+154,69,Rutgers University,Virginia Tech,0
+156,61,University of Georgia,Indiana University,2
+156,62,University of Georgia,Indiana University,3
+156,63,University of Georgia,Indiana University,1
+156,64,University of Georgia,Indiana University,2
+156,65,University of Georgia,Indiana University,1
+156,66,University of Georgia,Indiana University,1
+156,67,University of Georgia,Indiana University,0
+156,68,University of Georgia,Indiana University,2
+156,69,University of Georgia,Indiana University,1
+156,70,University of Georgia,Indiana University,3
+161,52,"University of California, Berkeley",Carnegie Mellon University,0
+161,52,"University of California, Berkeley",University of Maryland,0
+161,52,Carnegie Mellon University,University of Maryland,0
+161,54,"University of California, Berkeley",Carnegie Mellon University,0
+161,54,"University of California, Berkeley",University of Maryland,0
+161,54,Carnegie Mellon University,University of Maryland,0
+161,55,"University of California, Berkeley",Carnegie Mellon University,0
+161,55,"University of California, Berkeley",University of Maryland,0
+161,55,Carnegie Mellon University,University of Maryland,0
+169,70,Brown University,"University of California, Berkeley",0
+169,70,Brown University,Duke University,0
+169,70,"University of California, Berkeley",Duke University,0
+169,71,Brown University,"University of California, Berkeley",0
+169,71,Brown University,Duke University,0
+169,71,"University of California, Berkeley",Duke University,0
+169,72,Brown University,"University of California, Berkeley",0
+169,72,Brown University,Duke University,0
+169,72,"University of California, Berkeley",Duke University,0
+154,56,Pennsylvania State University,Rutgers University,0
+154,56,Pennsylvania State University,Virginia Tech,2
+154,56,Rutgers University,Virginia Tech,2
+154,57,Pennsylvania State University,Rutgers University,0
+154,57,Pennsylvania State University,Virginia Tech,1
+154,57,Rutgers University,Virginia Tech,2
+154,58,Pennsylvania State University,Rutgers University,0
+154,58,Pennsylvania State University,Virginia Tech,0
+154,58,Rutgers University,Virginia Tech,2
+154,59,Pennsylvania State University,Rutgers University,1
+154,59,Pennsylvania State University,Virginia Tech,0
+154,59,Rutgers University,Virginia Tech,2
+154,60,Pennsylvania State University,Rutgers University,1
+154,60,Pennsylvania State University,Virginia Tech,3
+154,60,Rutgers University,Virginia Tech,0
+154,61,Pennsylvania State University,Rutgers University,2
+154,61,Pennsylvania State University,Virginia Tech,0
+154,61,Rutgers University,Virginia Tech,2
+154,62,Pennsylvania State University,Rutgers University,2
+154,62,Pennsylvania State University,Virginia Tech,0
+154,62,Rutgers University,Virginia Tech,2
+154,63,Pennsylvania State University,Rutgers University,3
+154,63,Pennsylvania State University,Virginia Tech,0
+154,63,Rutgers University,Virginia Tech,0
+154,64,Pennsylvania State University,Rutgers University,1
+154,64,Pennsylvania State University,Virginia Tech,3
+154,64,Rutgers University,Virginia Tech,2
+154,65,Pennsylvania State University,Rutgers University,0
+154,65,Pennsylvania State University,Virginia Tech,0
+154,65,Rutgers University,Virginia Tech,0
+156,51,University of Georgia,Indiana University,1
+156,52,University of Georgia,Indiana University,1
+156,53,University of Georgia,Indiana University,2
+156,54,University of Georgia,Indiana University,3
+156,55,University of Georgia,Indiana University,2
+156,56,University of Georgia,Indiana University,1
+156,57,University of Georgia,Indiana University,1
+156,58,University of Georgia,Indiana University,2
+156,59,University of Georgia,Indiana University,0
+156,60,University of Georgia,Indiana University,2
+154,32,Pennsylvania State University,Rutgers University,0
+154,32,Pennsylvania State University,Virginia Tech,0
+154,32,Rutgers University,Virginia Tech,0
+154,33,Pennsylvania State University,Rutgers University,0
+154,33,Pennsylvania State University,Virginia Tech,3
+154,33,Rutgers University,Virginia Tech,0
+154,35,Pennsylvania State University,Rutgers University,0
+154,35,Pennsylvania State University,Virginia Tech,2
+154,35,Rutgers University,Virginia Tech,0
+154,37,Pennsylvania State University,Rutgers University,0
+154,37,Pennsylvania State University,Virginia Tech,0
+154,37,Rutgers University,Virginia Tech,0
+154,38,Pennsylvania State University,Rutgers University,0
+154,38,Pennsylvania State University,Virginia Tech,0
+154,38,Rutgers University,Virginia Tech,0
+154,39,Pennsylvania State University,Rutgers University,0
+154,39,Pennsylvania State University,Virginia Tech,0
+154,39,Rutgers University,Virginia Tech,0
+154,40,Pennsylvania State University,Rutgers University,0
+154,40,Pennsylvania State University,Virginia Tech,0
+154,40,Rutgers University,Virginia Tech,0
+154,41,Pennsylvania State University,Rutgers University,0
+154,41,Pennsylvania State University,Virginia Tech,0
+154,41,Rutgers University,Virginia Tech,0
+154,42,Pennsylvania State University,Rutgers University,0
+154,42,Pennsylvania State University,Virginia Tech,0
+154,42,Rutgers University,Virginia Tech,0
+154,43,Pennsylvania State University,Rutgers University,0
+154,43,Pennsylvania State University,Virginia Tech,0
+154,43,Rutgers University,Virginia Tech,0
+156,17,University of Georgia,Indiana University,1
+156,18,University of Georgia,Indiana University,0
+156,21,University of Georgia,Indiana University,0
+156,23,University of Georgia,Indiana University,0
+156,24,University of Georgia,Indiana University,0
+156,25,University of Georgia,Indiana University,1
+156,27,University of Georgia,Indiana University,0
+156,29,University of Georgia,Indiana University,0
+156,32,University of Georgia,Indiana University,1
+156,34,University of Georgia,Indiana University,2
+154,44,Pennsylvania State University,Rutgers University,0
+154,44,Pennsylvania State University,Virginia Tech,0
+154,44,Rutgers University,Virginia Tech,2
+154,45,Pennsylvania State University,Rutgers University,0
+154,45,Pennsylvania State University,Virginia Tech,0
+154,45,Rutgers University,Virginia Tech,2
+154,46,Pennsylvania State University,Rutgers University,0
+154,46,Pennsylvania State University,Virginia Tech,0
+154,46,Rutgers University,Virginia Tech,2
+154,47,Pennsylvania State University,Rutgers University,0
+154,47,Pennsylvania State University,Virginia Tech,0
+154,47,Rutgers University,Virginia Tech,2
+154,49,Pennsylvania State University,Rutgers University,0
+154,49,Pennsylvania State University,Virginia Tech,0
+154,49,Rutgers University,Virginia Tech,0
+154,50,Pennsylvania State University,Rutgers University,0
+154,50,Pennsylvania State University,Virginia Tech,0
+154,50,Rutgers University,Virginia Tech,0
+154,51,Pennsylvania State University,Rutgers University,0
+154,51,Pennsylvania State University,Virginia Tech,0
+154,51,Rutgers University,Virginia Tech,2
+154,52,Pennsylvania State University,Rutgers University,0
+154,52,Pennsylvania State University,Virginia Tech,0
+154,52,Rutgers University,Virginia Tech,0
+154,53,Pennsylvania State University,Rutgers University,0
+154,53,Pennsylvania State University,Virginia Tech,0
+154,53,Rutgers University,Virginia Tech,0
+154,55,Pennsylvania State University,Rutgers University,2
+154,55,Pennsylvania State University,Virginia Tech,0
+154,55,Rutgers University,Virginia Tech,1
+156,36,University of Georgia,Indiana University,3
+156,37,University of Georgia,Indiana University,3
+156,38,University of Georgia,Indiana University,1
+156,41,University of Georgia,Indiana University,1
+156,42,University of Georgia,Indiana University,0
+156,44,University of Georgia,Indiana University,1
+156,46,University of Georgia,Indiana University,1
+156,48,University of Georgia,Indiana University,2
+156,49,University of Georgia,Indiana University,1
+156,50,University of Georgia,Indiana University,0
+152,59,Pennsylvania State University,University of Pittsburgh,2
+152,60,Pennsylvania State University,University of Pittsburgh,0
+152,61,Pennsylvania State University,University of Pittsburgh,0
+152,63,Pennsylvania State University,University of Pittsburgh,0
+152,64,Pennsylvania State University,University of Pittsburgh,1
+154,1,Pennsylvania State University,Rutgers University,0
+154,1,Pennsylvania State University,Virginia Tech,2
+154,1,Rutgers University,Virginia Tech,2
+154,2,Pennsylvania State University,Rutgers University,0
+154,2,Pennsylvania State University,Virginia Tech,3
+154,2,Rutgers University,Virginia Tech,2
+154,4,Pennsylvania State University,Rutgers University,0
+154,4,Pennsylvania State University,Virginia Tech,3
+154,4,Rutgers University,Virginia Tech,2
+154,5,Pennsylvania State University,Rutgers University,0
+154,5,Pennsylvania State University,Virginia Tech,2
+154,5,Rutgers University,Virginia Tech,2
+154,6,Pennsylvania State University,Rutgers University,0
+154,6,Pennsylvania State University,Virginia Tech,2
+154,6,Rutgers University,Virginia Tech,2
+154,7,Pennsylvania State University,Rutgers University,0
+154,7,Pennsylvania State University,Virginia Tech,2
+154,7,Rutgers University,Virginia Tech,2
+154,9,Pennsylvania State University,Rutgers University,0
+154,9,Pennsylvania State University,Virginia Tech,2
+154,9,Rutgers University,Virginia Tech,2
+154,11,Pennsylvania State University,Rutgers University,0
+154,11,Pennsylvania State University,Virginia Tech,0
+154,11,Rutgers University,Virginia Tech,0
+154,12,Pennsylvania State University,Rutgers University,0
+154,12,Pennsylvania State University,Virginia Tech,0
+154,12,Rutgers University,Virginia Tech,0
+154,13,Pennsylvania State University,Rutgers University,3
+154,13,Pennsylvania State University,Virginia Tech,0
+154,13,Rutgers University,Virginia Tech,0
+157,54,Vassar College,Kenyon College,1
+157,55,Vassar College,Kenyon College,2
+157,56,Vassar College,Kenyon College,2
+157,57,Vassar College,Kenyon College,0
+207,47,Cornell University,University of Michigan,1
+152,46,Pennsylvania State University,University of Pittsburgh,2
+152,48,Pennsylvania State University,University of Pittsburgh,1
+152,49,Pennsylvania State University,University of Pittsburgh,1
+152,50,Pennsylvania State University,University of Pittsburgh,0
+152,52,Pennsylvania State University,University of Pittsburgh,1
+152,54,Pennsylvania State University,University of Pittsburgh,1
+152,55,Pennsylvania State University,University of Pittsburgh,3
+152,56,Pennsylvania State University,University of Pittsburgh,0
+152,57,Pennsylvania State University,University of Pittsburgh,0
+152,58,Pennsylvania State University,University of Pittsburgh,0
+153,37,Pennsylvania State University,North Carolina State University,1
+153,37,Pennsylvania State University,Virginia Tech,1
+153,37,North Carolina State University,Virginia Tech,3
+153,39,Pennsylvania State University,North Carolina State University,0
+153,39,Pennsylvania State University,Virginia Tech,3
+153,39,North Carolina State University,Virginia Tech,1
+153,41,Pennsylvania State University,North Carolina State University,1
+153,41,Pennsylvania State University,Virginia Tech,0
+153,41,North Carolina State University,Virginia Tech,3
+153,42,Pennsylvania State University,North Carolina State University,1
+153,42,Pennsylvania State University,Virginia Tech,0
+153,42,North Carolina State University,Virginia Tech,3
+153,43,Pennsylvania State University,North Carolina State University,0
+153,43,Pennsylvania State University,Virginia Tech,3
+153,43,North Carolina State University,Virginia Tech,2
+153,44,Pennsylvania State University,North Carolina State University,1
+153,44,Pennsylvania State University,Virginia Tech,0
+153,44,North Carolina State University,Virginia Tech,3
+153,45,Pennsylvania State University,North Carolina State University,3
+153,45,Pennsylvania State University,Virginia Tech,0
+153,45,North Carolina State University,Virginia Tech,2
+153,46,Pennsylvania State University,North Carolina State University,3
+153,46,Pennsylvania State University,Virginia Tech,3
+153,46,North Carolina State University,Virginia Tech,2
+153,47,Pennsylvania State University,North Carolina State University,1
+153,47,Pennsylvania State University,Virginia Tech,2
+153,47,North Carolina State University,Virginia Tech,0
+153,50,Pennsylvania State University,North Carolina State University,1
+153,50,Pennsylvania State University,Virginia Tech,0
+153,50,North Carolina State University,Virginia Tech,3
+152,32,Pennsylvania State University,University of Pittsburgh,0
+152,34,Pennsylvania State University,University of Pittsburgh,0
+152,35,Pennsylvania State University,University of Pittsburgh,0
+152,36,Pennsylvania State University,University of Pittsburgh,3
+152,37,Pennsylvania State University,University of Pittsburgh,2
+152,39,Pennsylvania State University,University of Pittsburgh,0
+152,40,Pennsylvania State University,University of Pittsburgh,2
+152,42,Pennsylvania State University,University of Pittsburgh,2
+152,43,Pennsylvania State University,University of Pittsburgh,2
+152,45,Pennsylvania State University,University of Pittsburgh,2
+153,21,Pennsylvania State University,North Carolina State University,3
+153,21,Pennsylvania State University,Virginia Tech,0
+153,21,North Carolina State University,Virginia Tech,0
+153,22,Pennsylvania State University,North Carolina State University,3
+153,22,Pennsylvania State University,Virginia Tech,2
+153,22,North Carolina State University,Virginia Tech,2
+153,23,Pennsylvania State University,North Carolina State University,0
+153,23,Pennsylvania State University,Virginia Tech,0
+153,23,North Carolina State University,Virginia Tech,0
+153,24,Pennsylvania State University,North Carolina State University,0
+153,24,Pennsylvania State University,Virginia Tech,0
+153,24,North Carolina State University,Virginia Tech,0
+153,26,Pennsylvania State University,North Carolina State University,2
+153,26,Pennsylvania State University,Virginia Tech,0
+153,26,North Carolina State University,Virginia Tech,0
+153,27,Pennsylvania State University,North Carolina State University,0
+153,27,Pennsylvania State University,Virginia Tech,2
+153,27,North Carolina State University,Virginia Tech,2
+153,28,Pennsylvania State University,North Carolina State University,3
+153,28,Pennsylvania State University,Virginia Tech,3
+153,28,North Carolina State University,Virginia Tech,3
+153,30,Pennsylvania State University,North Carolina State University,0
+153,30,Pennsylvania State University,Virginia Tech,0
+153,30,North Carolina State University,Virginia Tech,0
+153,32,Pennsylvania State University,North Carolina State University,0
+153,32,Pennsylvania State University,Virginia Tech,0
+153,32,North Carolina State University,Virginia Tech,0
+153,33,Pennsylvania State University,North Carolina State University,0
+153,33,Pennsylvania State University,Virginia Tech,0
+153,33,North Carolina State University,Virginia Tech,0
+152,16,Pennsylvania State University,University of Pittsburgh,0
+152,18,Pennsylvania State University,University of Pittsburgh,0
+152,19,Pennsylvania State University,University of Pittsburgh,0
+152,22,Pennsylvania State University,University of Pittsburgh,0
+152,23,Pennsylvania State University,University of Pittsburgh,0
+152,24,Pennsylvania State University,University of Pittsburgh,0
+152,26,Pennsylvania State University,University of Pittsburgh,0
+152,27,Pennsylvania State University,University of Pittsburgh,0
+152,29,Pennsylvania State University,University of Pittsburgh,0
+152,31,Pennsylvania State University,University of Pittsburgh,0
+153,1,Pennsylvania State University,North Carolina State University,3
+153,1,Pennsylvania State University,Virginia Tech,0
+153,1,North Carolina State University,Virginia Tech,1
+153,2,Pennsylvania State University,North Carolina State University,1
+153,2,Pennsylvania State University,Virginia Tech,3
+153,2,North Carolina State University,Virginia Tech,1
+153,3,Pennsylvania State University,North Carolina State University,0
+153,3,Pennsylvania State University,Virginia Tech,0
+153,3,North Carolina State University,Virginia Tech,0
+153,4,Pennsylvania State University,North Carolina State University,3
+153,4,Pennsylvania State University,Virginia Tech,3
+153,4,North Carolina State University,Virginia Tech,1
+153,9,Pennsylvania State University,North Carolina State University,3
+153,9,Pennsylvania State University,Virginia Tech,3
+153,9,North Carolina State University,Virginia Tech,3
+153,10,Pennsylvania State University,North Carolina State University,0
+153,10,Pennsylvania State University,Virginia Tech,0
+153,10,North Carolina State University,Virginia Tech,0
+153,13,Pennsylvania State University,North Carolina State University,3
+153,13,Pennsylvania State University,Virginia Tech,3
+153,13,North Carolina State University,Virginia Tech,3
+153,14,Pennsylvania State University,North Carolina State University,0
+153,14,Pennsylvania State University,Virginia Tech,0
+153,14,North Carolina State University,Virginia Tech,0
+153,17,Pennsylvania State University,North Carolina State University,0
+153,17,Pennsylvania State University,Virginia Tech,0
+153,17,North Carolina State University,Virginia Tech,0
+153,19,Pennsylvania State University,North Carolina State University,0
+153,19,Pennsylvania State University,Virginia Tech,0
+153,19,North Carolina State University,Virginia Tech,0
+150,47,California Institute of Technology,Johns Hopkins University,1
+150,47,California Institute of Technology,Georgia Institute of Technology,0
+150,47,Johns Hopkins University,Georgia Institute of Technology,0
+150,48,California Institute of Technology,Johns Hopkins University,0
+150,48,California Institute of Technology,Georgia Institute of Technology,0
+150,48,Johns Hopkins University,Georgia Institute of Technology,0
+150,49,California Institute of Technology,Johns Hopkins University,1
+150,49,California Institute of Technology,Georgia Institute of Technology,0
+150,49,Johns Hopkins University,Georgia Institute of Technology,0
+150,50,California Institute of Technology,Johns Hopkins University,1
+150,50,California Institute of Technology,Georgia Institute of Technology,0
+150,50,Johns Hopkins University,Georgia Institute of Technology,0
+150,51,California Institute of Technology,Johns Hopkins University,0
+150,51,California Institute of Technology,Georgia Institute of Technology,0
+150,51,Johns Hopkins University,Georgia Institute of Technology,0
+150,52,California Institute of Technology,Johns Hopkins University,0
+150,52,California Institute of Technology,Georgia Institute of Technology,0
+150,52,Johns Hopkins University,Georgia Institute of Technology,0
+150,53,California Institute of Technology,Johns Hopkins University,0
+150,53,California Institute of Technology,Georgia Institute of Technology,0
+150,53,Johns Hopkins University,Georgia Institute of Technology,0
+150,54,California Institute of Technology,Johns Hopkins University,0
+150,54,California Institute of Technology,Georgia Institute of Technology,0
+150,54,Johns Hopkins University,Georgia Institute of Technology,0
+150,55,California Institute of Technology,Johns Hopkins University,0
+150,55,California Institute of Technology,Georgia Institute of Technology,0
+150,55,Johns Hopkins University,Georgia Institute of Technology,2
+152,2,Pennsylvania State University,University of Pittsburgh,2
+152,3,Pennsylvania State University,University of Pittsburgh,2
+152,5,Pennsylvania State University,University of Pittsburgh,2
+152,8,Pennsylvania State University,University of Pittsburgh,0
+152,9,Pennsylvania State University,University of Pittsburgh,2
+152,10,Pennsylvania State University,University of Pittsburgh,0
+152,11,Pennsylvania State University,University of Pittsburgh,0
+152,12,Pennsylvania State University,University of Pittsburgh,0
+152,13,Pennsylvania State University,University of Pittsburgh,3
+152,15,Pennsylvania State University,University of Pittsburgh,0
+188,59,Temple University,University of Nebraska-Lincoln,3
+150,35,California Institute of Technology,Johns Hopkins University,0
+150,35,California Institute of Technology,Georgia Institute of Technology,0
+150,35,Johns Hopkins University,Georgia Institute of Technology,0
+150,36,California Institute of Technology,Johns Hopkins University,0
+150,36,California Institute of Technology,Georgia Institute of Technology,0
+150,36,Johns Hopkins University,Georgia Institute of Technology,0
+150,38,California Institute of Technology,Johns Hopkins University,0
+150,38,California Institute of Technology,Georgia Institute of Technology,0
+150,38,Johns Hopkins University,Georgia Institute of Technology,0
+150,39,California Institute of Technology,Johns Hopkins University,0
+150,39,California Institute of Technology,Georgia Institute of Technology,0
+150,39,Johns Hopkins University,Georgia Institute of Technology,0
+150,40,California Institute of Technology,Johns Hopkins University,0
+150,40,California Institute of Technology,Georgia Institute of Technology,0
+150,40,Johns Hopkins University,Georgia Institute of Technology,0
+150,41,California Institute of Technology,Johns Hopkins University,0
+150,41,California Institute of Technology,Georgia Institute of Technology,0
+150,41,Johns Hopkins University,Georgia Institute of Technology,0
+150,42,California Institute of Technology,Johns Hopkins University,3
+150,42,California Institute of Technology,Georgia Institute of Technology,3
+150,42,Johns Hopkins University,Georgia Institute of Technology,1
+150,43,California Institute of Technology,Johns Hopkins University,1
+150,43,California Institute of Technology,Georgia Institute of Technology,3
+150,43,Johns Hopkins University,Georgia Institute of Technology,3
+150,45,California Institute of Technology,Johns Hopkins University,0
+150,45,California Institute of Technology,Georgia Institute of Technology,2
+150,45,Johns Hopkins University,Georgia Institute of Technology,0
+150,46,California Institute of Technology,Johns Hopkins University,2
+150,46,California Institute of Technology,Georgia Institute of Technology,3
+150,46,Johns Hopkins University,Georgia Institute of Technology,1
+151,38,University of Richmond,Haverford College,2
+151,39,University of Richmond,Haverford College,3
+151,40,University of Richmond,Haverford College,1
+151,42,University of Richmond,Haverford College,2
+151,43,University of Richmond,Haverford College,2
+151,44,University of Richmond,Haverford College,1
+151,45,University of Richmond,Haverford College,2
+151,46,University of Richmond,Haverford College,1
+151,47,University of Richmond,Haverford College,0
+151,48,University of Richmond,Haverford College,0
+150,24,California Institute of Technology,Johns Hopkins University,2
+150,24,California Institute of Technology,Georgia Institute of Technology,2
+150,24,Johns Hopkins University,Georgia Institute of Technology,1
+150,25,California Institute of Technology,Johns Hopkins University,2
+150,25,California Institute of Technology,Georgia Institute of Technology,2
+150,25,Johns Hopkins University,Georgia Institute of Technology,2
+150,26,California Institute of Technology,Johns Hopkins University,2
+150,26,California Institute of Technology,Georgia Institute of Technology,1
+150,26,Johns Hopkins University,Georgia Institute of Technology,2
+150,27,California Institute of Technology,Johns Hopkins University,1
+150,27,California Institute of Technology,Georgia Institute of Technology,1
+150,27,Johns Hopkins University,Georgia Institute of Technology,1
+150,28,California Institute of Technology,Johns Hopkins University,1
+150,28,California Institute of Technology,Georgia Institute of Technology,2
+150,28,Johns Hopkins University,Georgia Institute of Technology,2
+150,29,California Institute of Technology,Johns Hopkins University,1
+150,29,California Institute of Technology,Georgia Institute of Technology,1
+150,29,Johns Hopkins University,Georgia Institute of Technology,2
+150,30,California Institute of Technology,Johns Hopkins University,2
+150,30,California Institute of Technology,Georgia Institute of Technology,2
+150,30,Johns Hopkins University,Georgia Institute of Technology,1
+150,31,California Institute of Technology,Johns Hopkins University,0
+150,31,California Institute of Technology,Georgia Institute of Technology,0
+150,31,Johns Hopkins University,Georgia Institute of Technology,0
+150,32,California Institute of Technology,Johns Hopkins University,2
+150,32,California Institute of Technology,Georgia Institute of Technology,1
+150,32,Johns Hopkins University,Georgia Institute of Technology,1
+150,33,California Institute of Technology,Johns Hopkins University,1
+150,33,California Institute of Technology,Georgia Institute of Technology,2
+150,33,Johns Hopkins University,Georgia Institute of Technology,1
+151,11,University of Richmond,Haverford College,3
+151,12,University of Richmond,Haverford College,2
+151,13,University of Richmond,Haverford College,2
+151,20,University of Richmond,Haverford College,1
+151,23,University of Richmond,Haverford College,1
+151,28,University of Richmond,Haverford College,2
+151,30,University of Richmond,Haverford College,1
+151,31,University of Richmond,Haverford College,2
+151,32,University of Richmond,Haverford College,1
+151,37,University of Richmond,Haverford College,2
+150,14,California Institute of Technology,Johns Hopkins University,0
+150,14,California Institute of Technology,Georgia Institute of Technology,0
+150,14,Johns Hopkins University,Georgia Institute of Technology,0
+150,15,California Institute of Technology,Johns Hopkins University,3
+150,15,California Institute of Technology,Georgia Institute of Technology,3
+150,15,Johns Hopkins University,Georgia Institute of Technology,3
+150,16,California Institute of Technology,Johns Hopkins University,3
+150,16,California Institute of Technology,Georgia Institute of Technology,1
+150,16,Johns Hopkins University,Georgia Institute of Technology,1
+150,17,California Institute of Technology,Johns Hopkins University,0
+150,17,California Institute of Technology,Georgia Institute of Technology,0
+150,17,Johns Hopkins University,Georgia Institute of Technology,0
+150,18,California Institute of Technology,Johns Hopkins University,2
+150,18,California Institute of Technology,Georgia Institute of Technology,3
+150,18,Johns Hopkins University,Georgia Institute of Technology,1
+150,19,California Institute of Technology,Johns Hopkins University,0
+150,19,California Institute of Technology,Georgia Institute of Technology,0
+150,19,Johns Hopkins University,Georgia Institute of Technology,0
+150,20,California Institute of Technology,Johns Hopkins University,2
+150,20,California Institute of Technology,Georgia Institute of Technology,0
+150,20,Johns Hopkins University,Georgia Institute of Technology,1
+150,21,California Institute of Technology,Johns Hopkins University,0
+150,21,California Institute of Technology,Georgia Institute of Technology,0
+150,21,Johns Hopkins University,Georgia Institute of Technology,2
+150,22,California Institute of Technology,Johns Hopkins University,1
+150,22,California Institute of Technology,Georgia Institute of Technology,1
+150,22,Johns Hopkins University,Georgia Institute of Technology,2
+150,23,California Institute of Technology,Johns Hopkins University,3
+150,23,California Institute of Technology,Georgia Institute of Technology,3
+150,23,Johns Hopkins University,Georgia Institute of Technology,3
+151,1,University of Richmond,Haverford College,3
+151,2,University of Richmond,Haverford College,2
+151,3,University of Richmond,Haverford College,3
+151,4,University of Richmond,Haverford College,1
+151,5,University of Richmond,Haverford College,2
+151,6,University of Richmond,Haverford College,3
+151,7,University of Richmond,Haverford College,1
+151,8,University of Richmond,Haverford College,1
+151,9,University of Richmond,Haverford College,0
+151,10,University of Richmond,Haverford College,0

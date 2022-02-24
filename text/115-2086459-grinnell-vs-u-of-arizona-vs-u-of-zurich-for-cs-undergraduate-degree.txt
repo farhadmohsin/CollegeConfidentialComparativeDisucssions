@@ -1,0 +1,958 @@
+1.<<<Alezzz>>>
+Hello All!  Now in front of me is hard dilemma what advice to give my son. He did great job and now can select where he will study CS. Main problem with choise and for me and for him is that we never were in USA. We don’t know your life, your values, your priorities, what is really important in USA and what is just “better to have”. So very easy he can make mistake with choice due to missing some things absolutely obvious for any American.
+I understand that Grinnell and U of Arizona  are very different, one is small private college and another is big public university. That’s why it so difficult for me to compare them. I can’t even find rankings where they are together. I know that Grinnell has reputation of top one and reputation of UA is closer to mid-range. Generaly I already know about them many things that can be find in google. But to read in google about something is one thing, to live inside is other thing.
+After applying grant from Grinnell and scholarship from UA price of Grinnell  will be for me 10000$ per year higher. I can pay those money but that is essencial amount for me. Does it really have sence to pay 40000$ more for study of CS in Grinnell instead of UA? If yes why?
+U of Zurich is high-ranked and almost free, just symbolic 1000-2000$ per year. Though life in Swiss is absolutely not cheap. One more advantage is that students of UZH can take classes in ETH, one of best technical universities in the world, and ETH is next building at the street.
+I understand that here very few people can have idea about UZH. As well at any Swiss forum will be very hard to find anybody why know in details about Grinnell and U of Arizona. That making this cross-comparison difficult thing. But I still have hope to get answers. Thank you in advance!
+
+2.<<<Publisher>>>
+
+
+Zurich & ETH
+
+
+University of Arizona
+
+
+Grinnell College
+
+
+Better to leave study in the US for graduate school.
+
+3.<<<PurpleTitan>>>
+@Publisher: No LAC experience in grad school.
+I personally think the choice should be between Zurich and Grinnell.
+If you’re going to choose a big public, choose the better cheaper one with better students (Zurich over U of A).
+The question then becomes whether the LAC experience (at one of the richest top LACs, though granted, in rural Iowa) is worth it.  He would get more opportunities to work with and do research with faculty at Grinnell and have more resources per capita. Probably have a tighter bond with the student body there as well. At Zurich, there would be more self-study, more self-motivation needed, etc.
+Also, is the CS curriculum at Zurich more theoretical or project-based (like CS in the US generally is)?
+I think it matters what his plan is after undergrad is as well. If it is working (or getting a master’s and then working), Zurich may make more sense if he is self-motivated. If it is to get a PhD, he can more easily get good recommendations from profs at Grinnell if he is a good student. There’s a reason why LACs tend to dominate per capita PhD entry rankings (other reason is that they offer few pre-professional majors). And American CS PhD programs  would be fully-funded. If he goes the Zurich route, he’d almost certainly have to get a master’s before attempting to apply to a PhD program.
+
+4.<<<Publisher>>>
+@PurpleTitan : I do not understand your message to me in the context of this thread.
+Also, do not understand your discussion with respect to PhD.
+My grad school reference–although not stated–had specialty masters programs in mind such as data analysis.
+
+5.<<<PurpleTitan>>>
+@Publisher: Grinnell is a LAC. You told the OP to come to the US for grad school, but no grad school offers the LAC experience.
+
+6.<<<Publisher>>>
+I understand that Grinnell is an LAC, but still fail to see the relevance. Not really important. Thank you for your explanation.
+OP: Neither school–Grinnell or the Univ. of Arizona–is worth sacrifing a free undergraduate degree in CS.
+If you want to study in the US, consider a one year masters degree program with a STEM designation in data science or another high demand field which is of interest.
+
+7.<<<Alezzz>>>
+@Publisher
+Thank you for your opinion but we are from different realities. For you it very easy to get education in one country, then get job in other country and so on. For people from my country to get work visa extremely difficult. We are not welcome anywhere.
+When it will come to the job my son will have only one realistic ability to get it - in the same country where he got education. Because main determinant will be his citizenship, not his grades, GPAs, ect.
+So jumping between Swiss and USA to appear end of day and not here and not there  not good choice. People who will decide about his right to get work permit will look how mush years he legally was in country, not at the ranking of his universities. If he will select Swiss now I will encourage him to continue in Swiss, if USA - then USA up to the victory.
+
+8.<<<Publisher>>>
+Based on further information shared by OP, it may be wise to consider studying in Canada.
+OP: Which country ? I ask because it may be difficult to obtain a student visa for the US.
+
+9.<<<PurpleTitan>>>
+@Alezzz, jumping between countries between schooling and work would be difficult, yes. Not so when it comes to graduate programs. Grad programs take undergrads from all over the world.
+You may want to look in to Germany too. Tuition-free and I believe you may work there after graduation at least for a little bit
+
+10.<<<Alezzz>>>
+@Publisher
+I apologize, but that your response I didn’t got. My son haven’t no options no desire to study in Canada. He didn’t applied to any Canadian university
+
+11.<<<PurpleTitan>>>
+@Publisher, you’re essentially saying that you would choose any tuition-free college over any top LAC that costs more for CS. So Eastern IL tuition-free over Grinnell if it costs more even if the family can afford Grinnell. I certainly understand that point of view but it don’t personally recommend it under all circumstances.
+
+12.<<<Alezzz>>>
+@PurpleTitan
+He studying in Germany now. Learning German language. But in comparison Swiss vs  Germany for me Swiss winning without any doubt
+
+13.<<<Publisher>>>
+@PurpleTitan : Please don’t try to attribute words to me that are not mine.
+I am simply offering my opinion that a free undergraduate degree from Zurich & ETH is better than paying more than $10,000 per year for Grinnell when OP has shared that that would not be easy.
+
+14.<<<Alezzz>>>
+@Publisher
+We are from Belarus. US student visa I believe he will get, especially keeping in mind that his school was in Dubai. But when it will come to work permit it will be other story
+
+15.<<<Publisher>>>
+How can you be certain that your son or any non-US citizen will receive a student visa for the US ? You cannot make such an assumption in the current political climate in the US. Canada should be a much better option–both short-term & long-term than the US.
+Since Canada is not among the current options, Switzerland or Germany are your son’s best options.
+
+16.<<<Alezzz>>>
+
+
+
+ Publisher:
+[quote]
+I am simply offering my opinion that a free undergraduate degree from Zurich & ETH is better than paying more than $10,000 per year for Grinnell when OP has shared that that would not be easy.
+[/quote]
+
+I want to clarify. $10,000 per year not drama for me. I can pay. But in my country people working full month for 200-300$. My mother retirement is 150$ per month. So definitely I’ll better give those $10,000 to my mother then to university. I need to get some essential reason to do vice versa
+
+17.<<<Alezzz>>>
+
+
+
+ Publisher:
+[quote]
+How can you be certain that your son or any non-US citizen will receive a student visa for the US ?
+[/quote]
+
+The same way I can’t be confident that he will receive a student visa for Swiss, or Canada, or any other country. For us that is life reality.
+But in any case we need to live, we need to go forward.
+
+18.<<<PurpleTitan>>>
+@Publisher, these are your exact words:
+“Neither school–Grinnell or the Univ. of Arizona–is worth sacrifing a free undergraduate degree in CS.”
+How is that different from saying that you think EIU CS for free would be preferable to Grinnell? Is EIU not a school?
+The OP didn’t state whether Zurich was a near-full-ride or near-tuition-free but I almost never hear of European unis paying for R&B&living expenses.
+
+19.<<<Alezzz>>>
+
+
+
+ PurpleTitan:
+[quote]
+@Publisher, these are your exact words:
+The OP didn’t state whether Zurich was a near-full-ride or near-tuition-free but I almost never hear of European unis paying for R&B&living expenses.
+[/quote]
+
+No, definitely all live expences in Swiss will be at my cost, and life in Swiss is absolutely not cheap. Close to free only tuition
+
+20.<<<Alezzz>>>
+I can’t certainly compare life expenses in US and Swiss because in US it will be campus, in Zurich he must rent himself. I guess in Swiss it will be same or bigger amount, but I don’t think it will be dramatically different.
+If compare only tuition Grinnell vs U of Arizona vs U of Zurich it will be 12000$ vs 2000$ vs 2000$
+
+21.<<<PurpleTitan>>>
+@Alezzz, as someone who has supported my parents since graduating from college (uni), I’d support my parents first in your situation. But if I had excess funds, I see the value in paying $10K/year more for Grinnell. Definitely over U of A and probably over Zurich. But I also have American citizenship. In your situation, I’d pay more for Grinnell only if a PhD is the goal and your son is good enough to get in (sounds like it). Then a fully-funded PhD in the US (or if this country goes fully nativist, Canada).
+
+22.<<<Mom24boys>>>
+I think the choose is between Grinnell and U of Zurich.  I can’t image housing in Zurich would cost less then 10K a year, possibly more so the difference is much less then 1st glance.
+I would choose Grinnell, even though your son would be in rural Iowa he would be surrounded by students from around the world and career services will have lots of experience helping international students.  I am attaching the class of 2018 post-graduation report, it goes into great detail by major.  Cost of living is very low in Iowa and most activities are free.  There are a lot of study abroad options junior year.  Grinnell is currently sending all students home due to Covid-19 but in a week I would suggest contacting both the Comp Sci department and career services to answer more specific questions.  If he attends Grinnell, he will not only be challenged academically but will learn about “Iowa Nice” (people going above and beyond to help each other).  https://www.grinnell.edu/sites/default/files/docs/2019-09/Class%20of%202018%20Post-Graduate%20Report-Final.pdf
+
+23.<<<57special>>>
+What I read in the OP is that the price of Grinnell would be 10,000 USD(assuming per year) more than Arizona. The total cost was not mentioned, so it’s hard to debate the $$saved going to Zurich v. going to Grinnell v.  U of A.
+If the end goal is to have a path to citizenship,  SWI is definitely out, but the US, in today’s climate, isn’t easy either. I agree with @Publisher about Canada…they have all sorts of good lower priced, good quality schools, and there is a better road to citizenship there. However, that seems to be off the table.
+I would say this, Grinnell is in a very rural area of the US. Grinnell itself will be relatively diverse, but Iowa is anything but. I would guess that Grinnell would be used to having international students, and would be quite supportive. U of A would be more impersonal. I have no idea about Zurich- I would guess that they would be exceptional when it comes to CS. Grinnell would certainly be very good. My SIL (Asian) went to ARI and she came out of it just fine, and went on to get another degree at Illinois.
+
+24.<<<PurpleTitan>>>
+Well, for permanent residency in the US, he would almost certainly need a graduate degree anyway. Likely means aiming for a funded PhD program (straight from undergrad; at least for American undergrad programs). I don’t know how difficult it is to gain residency in Switzerland.
+
+25.<<<ucbalumnus>>>
+
+
+
+ Alezzz:
+[quote]
+For people from my country to get work visa extremely difficult. We are not welcome anywhere.
+When it will come to the job my son will have only one realistic ability to get it - in the same country where he got education.
+[/quote]
+
+Even if he gets a student visa to study in the US, that does not assure him that he will be able to get a work visa to work in the US after graduation.  Work visas (e.g. H-1B) are available in limited quantities, and involve considerable work and cost for the employer to sponsor.  Employers using them as intended mostly hire graduates with PhD or MA/MS degrees, although most of the H-1B visas are consumed by low-end outsourcing companies.
+
+26.<<<Publisher>>>
+@PurpleTitan : In answer to your post #17: My words are in reference to this thread. The only school offering free tuition is clear.
+
+27.<<<Publisher>>>
+@Alezz: A CS degree for free or near free tuition from Zurich–ETH is clearly the wiser choice.
+I do not think that other posters have carefully read your posts in this thread regarding cost of attendance at Grinnell College–the most expensive among your 3 choices.
+Exactly how much will Grinnell College cost per year ?
+(i.e. What amount is $10,000 more per year than the cost of the University of Arizona after applying the scholarship award ?)
+
+28.<<<Publisher>>>
+@Alexx: Please read post #24 above by @ucbalumnus as it is spot on correct.
+
+29.<<<eyemgh>>>
+Where did all the graduate school discussion come from? Most CS grads from good programs are being scooped up as fast as they can be minted. If it’s an angle to get permanent US residence, it’s an expensive, risky one.
+As for the LAC experience, it’s real, but what is its tangible value? We aren’t talking equal costs here. You’d be buying a different experience, but not a better CS education and not a better chance at a better job.
+Consider one of the most coveted CS degrees is from UC Berkeley. It is a massive, sprawling campus, with giant classes, over 1000 in Intro to CS. It is the antithesis of a LAC.
+For me the answer is easy, Zurich. It is one of the most respected technical universities in the world and your best price. They are doing some really cool things in mechatronics. I’d assume that there’s interesting things going on in CS too. He can confront the graduate school question several years down the road.
+Good luck.
+
+30.<<<PurpleTitan>>>
+@Publisher, if you read post #19, Grinnell would be $10K/year more than Zurich or Arizona.
+
+31.<<<oldlaw>>>
+It appears that OP is conflating student visa and work visa.  It’s my understanding that getting a student visa doesn’t guarantee a work visa in the US.
+And it also appears that at this point, the student has zero roots in the US, is currently studying in German; not sure how tough for him/her studying in English would be.
+And don’t understand the graduate school discussion; one of my kids is in CS and while graduate school is great, as #28 points out, it’s not needed.
+So agree with publisher and eyemgh; go where it’s least expensive,which would be Switzerland.
+Although my caveat is-has the student lived and or even visited Switzerland and the USA?
+And my major concern-OP’s "We don’t know your life, your values, your priorities, what is really important in USA and what is just “better to have”.
+For this reason alone I’d recommend attending school somewhere you and your student are more comfortable with the location and the location’s  life, values, and priorities.  And it based on OP’s above sentence, it doesn’t appear to be the USA.
+
+32.<<<PurpleTitan>>>
+@oldlaw: “And don’t understand the graduate school discussion; one of my kids is in CS and while graduate school is great, as #28 points out, it’s not needed.”
+Yes, but your kid is a US citizen/permanent resident, no? For a non-American, getting more OPT is more likely with a graduate degree in the US than with an undergraduate degree in the US. Hence the discussion about grad school.
+
+33.<<<oldlaw>>>
+Well, it’s entirely off point; the OP was asking about undergraduate schools, not graduate schools.  But a lot of these threads take on a life of their own.
+
+34.<<<PurpleTitan>>>
+To put the discussion in American terms, the choice is between Grinnell for 12K/year tuition or UMD/Purdue (with the chance to take CS classes at Caltech) for $2K/year tuition (or UA for $2K/year tuition). Zurich is also a 3Y bachelor’s. That should be something to take in to account as well as you’d save a year’s living expenses.
+Actually, laying it out in those terms, unless you really desire the LAC experience (and are deadset on the PhD path), Zurich is the obvious choice. With the money saved, you could pay for a 1Y master’s in the US if you really want to try to work in the US (but no guarantee that you’d be allowed to stay here FT ultimately).
+
+35.<<<Alezzz>>>
+
+
+
+ Publisher:
+[quote]
+@Alezz: A CS degree for free or near free tuition from Zurich–ETH is clearly the wiser choice.
+I do not think that other posters have carefully read your posts in this thread regarding cost of attendance at Grinnell College–the most expensive among your 3 choices.
+Exactly how much will Grinnell College cost per year ?
+(i.e. What amount is $10,000 more per year than the cost of the University of Arizona after applying the scholarship award ?)
+[/quote]
+
+No any problem. I don’t want to hide anything and can give you exact digits.
+Tuition fee at Grinnell minus grant - 12000$ per year
+Tuition fee at UA minus scholarship - 2000$ per year
+Tuition fee at UZH without any grants - near 2000$ per year
+Room and Board at Grinnell - 14000$ per year
+Room and Board at UA - 12500$ per year
+Living cost at Zurich not so easy to estimate because he must rent liveplace himself. From other side it give us some flexibility because we can look for cheaper options. Though “cheaper” and “Zurich” hardly get on together in one place. I think it will be near 15000$ per year, may be more, but I believe no more than 20000$
+For medical insurance he must pay everywhere so that don’t make difference
+
+36.<<<Alezzz>>>
+
+
+
+ oldlaw:
+[quote]
+Well, it’s entirely off point; the OP was asking about undergraduate schools, not graduate schools.  But a lot of these threads take on a life of their own.
+[/quote]
+
+No, you are not right. That is entirely in point. Generally my question not so much about several thousand $ difference. I need to get idea about strategic perspective. What abilities he will get in future if will go to Grinnell, what abilities he will get in future if will go to UZH
+
+37.<<<Alezzz>>>
+
+
+
+ PurpleTitan:
+[quote]
+Well, for permanent residency in the US, he would almost certainly need a graduate degree anyway. Likely means aiming for a funded PhD program (straight from undergrad; at least for American undergrad programs). I don’t know how difficult it is to gain residency in Switzerland.
+[/quote]
+
+@PurpleTitan
+That I can tell you. In common case for Belorusian it close to impossible.
+But for internationals who graduated from Swiss universities they giving 6 month to find job in Swiss relevant to education. If you manage to did it they will give work visa, and while you working you can live in Swiss. After 10 years you will become permanent resident. Then 2-3 more years - Swiss citizenship. But all 10 years must be in one cantone, in other case counter reseting.
+I know that well because cousin of my wife make almost full way. He graduated from Geneva university and now already permanent resident.
+
+38.<<<Alezzz>>>
+
+
+
+ PurpleTitan:
+[quote]
+Yes, but your kid is a US citizen/permanent resident, no? For a non-American, getting more OPT is more likely with a graduate degree in the US than with an undergraduate degree in the US. Hence the discussion about grad school.
+[/quote]
+
+@PurpleTitan
+That is important moment. Before I thought that he can be confident in  3 years OPT even with barchelor degree, if he will get this degree in USA. But you writing in way that it will depend from his education level and somebodies will. Please help me to understand how it is in real life
+
+39.<<<Alezzz>>>
+
+
+
+ ucbalumnus:
+[quote]
+Even if he gets a student visa to study in the US, that does not assure him that he will be able to get a work visa to work in the US after graduation.  Work visas (e.g. H-1B) are available in limited quantities, and involve considerable work and cost for the employer to sponsor.  Employers using them as intended mostly hire graduates with PhD or MA/MS degrees, although most of the H-1B visas are consumed by low-end outsourcing companies.
+[/quote]
+
+@ucbalumnus
+I don’t understand well how it work. As I got H-1B visas distributing by lottery. So nothing depend from how strong are you. Does higher level of education can make difference? Or even if he will get master or PhD degree in USA, end of day his future will depend only from rotating lottery drum?
+
+40.<<<PurpleTitan>>>
+“Before I thought that he can be confident in 3 years OPT even with barchelor degree, if he will get this degree in USA. But you writing in way that it will depend from his education level and somebodies will. Please help me to understand how it is in real life.”
+@MYOS1634?
+
+41.<<<PurpleTitan>>>
+BTW, you were asking about various CS options for your son last year. Did he turn them all down and take a gap year or is this a different son?
+
+42.<<<ucbalumnus>>>
+
+
+
+ Alezzz:
+[quote]
+For medical insurance he must pay everywhere so that don’t make difference
+[/quote]
+
+US medical care and insurance is the most expensive in the world, so do not assume that the costs will be similar.
+
+43.<<<eyemgh>>>
+
+[quote]
+@Alezzz said, For medical insurance he must pay everywhere so that don’t make difference
+[/quote]
+
+This could be a huge difference. Healthcare is more expensive in the US, both insurance and the actual procedure costs, than anywhere else in the world. Switzerland is certainly up there though. The price of insurance in each situation is the very next thing I’d figure out. The way we do it here isn’t like any other country in the world. The system is very convoluted and can be challenging to navagate.
+
+44.<<<Alezzz>>>
+
+
+
+ eyemgh:
+[quote]
+For me the answer is easy, Zurich. It is one of the most respected technical universities in the world and your best price. They are doing some really cool things in mechatronics. I’d assume that there’s interesting things going on in CS too. He can confront the graduate school question several years down the road.
+Good luck.
+[/quote]
+
+@eyemgh
+Two days ago for me the answer also was easy, Zurich. But yesterday he was admitted to Grinnell and that pushed me to doubts. I will explain why.
+Grinnell is need-aware for internationals. I confident they admitting very few international who need essential FinAid. My son they admitted with 44500$ grant per year. I really appreciated this.
+And based on this I think that, for the first, they really want to see my son as student, and for the second, their opinion is that he very good fitting to Grinnell.
+If they think that my son good fitting to college, so may be college very good fitting to my son? May be that really HIS place? And Grinnell as I know really good.
+But may be that just my fantasy?
+
+45.<<<ucbalumnus>>>
+
+
+
+ Alezzz:
+[quote]
+
+
+
+ ucbalumnus:
+[quote]
+Even if he gets a student visa to study in the US, that does not assure him that he will be able to get a work visa to work in the US after graduation.  Work visas (e.g. H-1B) are available in limited quantities, and involve considerable work and cost for the employer to sponsor.  Employers using them as intended mostly hire graduates with PhD or MA/MS degrees, although most of the H-1B visas are consumed by low-end outsourcing companies.
+[/quote]
+
+@ucbalumnus
+I don’t understand well how it work. As I got H-1B visas distributing by lottery. So nothing depend from how strong are you. Does higher level of education can make difference? Or even if he will get master or PhD degree in USA, end of day his future will depend only from rotating lottery drum?
+[/quote]
+
+To get an H-1B visa, you have to be (provisionally) hired by an employer willing to sponsor you for the H-1B visa.  Due to the cost and hassle of that, most desirable-to-work-for companies will only do that for the most desirable non-US-citizen/PR candidates, who typically have MA/MS or PhD degrees (and higher degree makes it more likely that the H-1B visa will be approved).
+The exceptions are the low end IT outsourcing companies, but they and the jobs are not that desirable, and they are probably not hiring new US university graduates anyway.
+
+46.<<<Alezzz>>>
+
+
+
+ ucbalumnus:
+[quote]
+
+
+
+ Alezzz:
+[quote]
+For medical insurance he must pay everywhere so that don’t make difference
+[/quote]
+
+US medical care and insurance is the most expensive in the world, so do not assume that the costs will be similar.
+[/quote]
+
+For medical insurance Grinnell already gave him price 1770$ per year. That is not critical amount for me.  And in Swiss he also wouldn’t get insurance for free
+
+47.<<<Alezzz>>>
+
+
+
+ ucbalumnus:
+[quote]
+To get an H-1B visa, you have to be (provisionally) hired by an employer willing to sponsor you for the H-1B visa.  Due to the cost and hassle of that, most desirable-to-work-for companies will only do that for the most desirable non-US-citizen/PR candidates, who typically have MA/MS or PhD degrees (and higher degree makes it more likely that the H-1B visa will be approved).
+[/quote]
+
+@ucbalumnus
+Thank you for clarification. But does I understanding correct that final visa distribution between those who got sponsorship is by lottery? So at least partly result depend only from luck?
+
+48.<<<PurpleTitan>>>
+BTW, @eyemgh, the University of Zurich isn’t ETH Zurich, though it seems like the son may be able to take classes at ETH Zurich.
+
+49.<<<Alezzz>>>
+
+
+
+ PurpleTitan:
+[quote]
+BTW, you were asking about various CS options for your son last year. Did he turn them all down and take a gap year or is this a different son?
+[/quote]
+
+@PurpleTitan
+Yes, that he is. Thank you that you remember.
+He was admitted to USC, CWRU, U of Toronto, U of Melbourne … and turn them all down. They appearred too expensive for me.   And defferal from Harvard as a souvenir 
+Generally that wasn’t just gap year. But that is long story.
+
+50.<<<ucbalumnus>>>
+
+
+
+ Alezzz:
+[quote]
+
+
+
+ ucbalumnus:
+[quote]
+To get an H-1B visa, you have to be (provisionally) hired by an employer willing to sponsor you for the H-1B visa.  Due to the cost and hassle of that, most desirable-to-work-for companies will only do that for the most desirable non-US-citizen/PR candidates, who typically have MA/MS or PhD degrees (and higher degree makes it more likely that the H-1B visa will be approved).
+[/quote]
+
+@ucbalumnus
+Thank you for clarification. But does I understanding correct that final visa distribution between those who got sponsorship is by lottery? So at least partly result depend only from luck?
+[/quote]
+
+https://www.uscis.gov/working-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-1b-fiscal-year-fy-2020-cap-season describes the process.  Note that the H-1B US advanced degree exception means that those graduating with US MA/MS or PhD degrees are more likely to get approved, as well as more likely to get (provisionally) hired to be sponsored in the first place.
+
+51.<<<Alezzz>>>
+
+
+
+ PurpleTitan:
+[quote]
+BTW, @eyemgh, the University of Zurich isn’t ETH Zurich, though it seems like the son may be able to take classes at ETH Zurich.
+[/quote]
+
+Yes, it is. Though UZH is also very good. And as I got by Swiss rules student of any Swiss public U have right to study one or even two semesters in other Swiss U. Definitely I already dreaming  about semesters in ETH. But I don’t know exactly how this system work, so not confident
+
+52.<<<oldlaw>>>
+OP, it’s pretty clear that the US schools, particularly Grinnell, are your preference.  But nobody here can give you solid advice regarding visa/resident status, etc etc issues. You’d be well advised to consult with a US attorney who specializes in immigration law.
+
+53.<<<Alezzz>>>
+
+
+
+ oldlaw:
+[quote]
+OP, it’s pretty clear that the US schools, particularly Grinnell, are your preference.  But nobody here can give you solid advice regarding visa/resident status, etc etc issues. You’d be well advised to consult with a US attorney who specializes in immigration law.
+[/quote]
+
+USA or Swiss schools is my preference. That statement will be more accurate
+
+54.<<<Publisher>>>
+I believe that several regular posters have substantial knowledge about US immigration practices with respect to student visas, but the problem is the current political situation in the US which makes the process unclear & risky.
+Probably better to apply for a student visa as a grad student in a STEM designated discipline with a STEM undergraduate degree in hand.
+Canada is much easier than USA for students both for student visas and for work visas, as well as for immigration for those with STEM qualifications.
+
+55.<<<Alezzz>>>
+
+
+
+ Publisher:
+[quote]
+Canada is much easier than USA for students both for student visas and for work visas, as well as for immigration for those with STEM qualifications.
+[/quote]
+
+Thank you for that advice, but he haven’t big interest to Canada for the first. And if he will decide to immigrate to Canada after graduation, he will easy do it and without education in Canadian university. Perfect English, perfect for immigration age, grade from world-recognized university (doesn’t matter will it be US or Swiss) will give him enough immigration points. No need in addon from Canadian education
+
+56.<<<Publisher>>>
+@Alezz: But you are missing my main point = relying on a student and/or work visa from the US is risky & uncertain in the current political climate.
+Universities have little to no authority with respect to the granting of student visas in the US.
+Also, with respect to Canada, immigration laws & rules & preferences change, so adding points for attending a Canadian university just makes the permission to live & work in Canada even more likely.
+Also, there must be some interest in Canada or your son would not have applied to the University of Toronto last year. (I understand that it was too expensive.)
+My advice remains to take the offer from Zurich & take as many courses as possible at neighboring ETH.
+
+57.<<<Alezzz>>>
+
+
+
+ Publisher:
+[quote]
+Also, there must be some interest in Canada or your son would not have applied to the University of Toronto last year. (I understand that it was too expensive.)
+[/quote]
+
+That was due to their promises of full-ride scholarship. Not because of so big interest to Canada
+
+58.<<<eyemgh>>>
+
+[quote]
+May be that really HIS place?
+[/quote]
+
+It’s really important to understand that this is a myth. Yes, fit is important, but once those parameters are defined, every option let through the screen will have strengths and weaknesses.
+We all worry about this as parents, but it was really brought home to me by my son. After he’d been in his program for a term, we visited him. I asked if he felt it was the best choice now that he’d been there for a bit. His response was illuminating. He said “I like it here a lot, but honestly, I would have been fine at any of the schools I applied to.”
+
+59.<<<aunt_bea>>>
+@Alezzz,  you have a problem in that you want a guaranteed predicted future for your son.
+No one on this site can do that.
+You seem to want the people, on this site, to tell you that the US schools will work out for your son and your family, and that he will stay in the US.
+No.  No one can tell you that.
+What several people have said is that wanting to stay in the US, past his internship time, is not a good risk.   He would have to be sponsored and that’s not easy to do in the United States at this time.
+If your child chooses a US school, you need to be aware that international students are guests of the United States. Once they finish their degree and internships, they are expected to return home.  This is the reality. There are no guarantees that a company would want to sponsor him, to remain in the US, and that’s what everyone is trying to tell you.
+When your son goes for his visa interview, and he indicates that he hopes to stay permanently in the United States, his visa will be denied and he won’t be able to go to school, at all, in the US.
+You don’t seem to want him to go to school in Switzerland but this seems to be the best option.
+
+60.<<<PurpleTitan>>>
+@“aunt bea”, when someone says “USA or Swiss schools is my preference”, I take it to mean that US or Swiss schools (and thus employment after graduation) are their preference.
+
+61.<<<PurpleTitan>>>
+BTW, is there a reason why you’ve ruled out Canada and Germany?  In terms of entrepreneurial dynamism, outside of the US, I would look to Canada and Berlin.
+
+62.<<<Alezzz>>>
+
+
+
+ PurpleTitan:
+[quote]
+BTW, is there a reason why you’ve ruled out Canada and Germany?  In terms of entrepreneurial dynamism, outside of the US, I would look to Canada and Berlin.
+[/quote]
+
+Germans trying to get job in Switzerland, Canadians trying to get job in USA. Not vice versa, except may be some very rear cases. That is reason
+
+63.<<<Alezzz>>>
+
+
+
+ eyemgh:
+[quote]
+
+[quote]
+May be that really HIS place?
+[/quote]
+
+It’s really important to understand that this is a myth. Yes, fit is important, but once those parameters are defined, every option let through the screen will have strengths and weaknesses.
+We all worry about this as parents, but it was really brought home to me by my son. After he’d been in his program for a term, we visited him. I asked if he felt it was the best choice now that he’d been there for a bit. His response was illuminating. He said “I like it here a lot, but honestly, I would have been fine at any of the schools I applied to.”
+[/quote]
+
+Thank you for your opinion. Generally that what I’m looking here. View at my dilemma by eyes of American
+
+64.<<<Alezzz>>>
+
+
+
+ PurpleTitan:
+[quote]
+To put the discussion in American terms, the choice is between Grinnell for 12K/year tuition or UMD/Purdue (with the chance to take CS classes at Caltech) for $2K/year tuition (or UA for $2K/year tuition).
+[/quote]
+
+@PurpleTitan
+BTW if somebody will ask you about that choice, between Grinnell for 12K/year tuition and Purdue for $2K/year tuition (without addon from Caltech, just Purdue). What advice you will give to him?
+
+65.<<<Eeyore123>>>
+I am normally a fan of LAC’s. However, one area I worry about them is CS. There isn’t the abundance of PhD’s like other subjects. Can anyone comment on Grinnell specifically for CS?
+
+66.<<<Publisher>>>
+For what it is worth, your son most likely would be very happy at Grinnell College unless he needs to be near a city, and very happy at the University of Arizona unless he has a strong dislike for warm weather, arid climates. Tucson is a comfortable small city.
+Both Grinnell College & the University of Arizona offer very different environments than that found in Zurich, Switzerland. The US is much more spread out & less populated in Iowa & in Arizona (unlike New York City, Los Angeles, Chicago, Houston, Phoenix or other major US cities). Overall the population density is much higher in Europe than in the US.
+If your son can earn a STEM degree in just three years at Zurich while also taking courses at ETH, then he should have affordable options to earn a masters degree in the US if he so desires.
+A young, foreign, college graduate with a STEM degree, should be able to find educational & work opportunities in North America in either the USA or in Canada barring an economic recession.
+
+67.<<<PurpleTitan>>>
+@Alezzz, for an American citizen? I think it would depend on fit and finances. I personally am a fan of the low faculty/student ratio and focus on undergraduate education at LACs so if the LAC doesn’t exhaust all of the funds I have budgeted for education, I would choose Grinnell. That’s why I personally would rule UA out of the running.
+But you’re not an American citizen/PR and the US already makes it pretty difficult for non-citizens to become a permanent resident and may make it more so in the future. Also, LACs just aren’t terribly well-known outside the US. So outside the US, Zurich or even UA may have a better reputation.
+And yes, Canadians try to work in the US, but they also have Canada as a backup plan. Germans also have Germany (really all of the EU) as a backup plan. Then again, your son would also have Canada as a backup plan. I do see advantages to EU residency but I suppose your son could always pick up a Master’s in Germany (or elsewhere in the EU) for that. So in your circumstance, unless a PhD is the goal, I would pick Zurich.
+
+68.<<<eyemgh>>>
+@Eeyore123, PhD students or instructors with terminal degrees? The former makes no difference except at the far margin for the few CS students who will want to do graduate research. Even then, it’s not a deal breaker. The latter does make a difference, but isn’t necessarily related to the former. It depends entirely on the school.
+@Alezzz, I respect @PurpleTitan’s opinions and that was a well reasoned reply. You need to know though, it is one person’s opinion.
+As was mentioned, fit is different for everyone. When it comes to technical degrees, especially engineering, but not as much CS, I lean the opposite direction. We visited quite a few schools from the very small to the very big. There is a noticeable facility gap in most of the LACs. Again, this is more germane to degrees where different labs are important, but even for CS, I’d personally lean Purdue.
+There is a third way in the US, finding schools with good facilities, small classes, and minimal use of TAs where most instructors have terminal degrees. When my son was looking (he’s since graduated with BS/MS in Mechanical Engineering), those were the programs he concentrated most on. Examples are Harvey Mudd, Rose-Hulman, and Cal Poly. The first two are small. Even though CP is big, they make a very concerted effort to keep classes small and to have instructors with terminal degrees even in discussions and labs.
+
+69.<<<Publisher>>>
+@Alezzz: How long does it typically take for students to earn an undergraduate degree in CS at the University of Zurich ?
+
+70.<<<Alezzz>>>
+
+
+
+ PurpleTitan:
+[quote]
+Also, LACs just aren’t terribly well-known outside the US. So outside the US, Zurich or even UA may have a better reputation.
+[/quote]
+
+It’s not important for me, does Grinnell well-known outside the US or not. My son wouldn’t have ability for effective usage of US education outside of US. Any brilliant education have close to zero value if you can’t use it effectively. That I know well from my own life experience. So for my son study in US initially useless if then for him will possible to use those knowledge only outside of US.
+For me important only how Grinnell is known in the US. I don’t looking here for any warranties. I just trying to understand your own attitude to your own colleges.
+Please help me to get one thing. Will study in Grinnell give him advantage before other candidates at US job market or not? Let’s imagine that he came to typical company in Silicon Valley and showing them his Ginnell’s grade with perfect GPA. Will they say “Way!!” or he still will be one of crowd?
+
+71.<<<Alezzz>>>
+
+
+
+ Publisher:
+[quote]
+@Alezzz: How long does it typically take for students to earn an undergraduate degree in CS at the University of Zurich ?
+[/quote]
+
+3 years
+
+72.<<<Publisher>>>
+@Alezz: A degree from Grinnell College in Iowa is unlikely to give one an advantage in the job market.
+While a CS degree is valuable in the US, the most prestigious schools for CS in the US are:
+Stanford University
+Carnegie Mellon University
+Univ. of California at Berkeley
+MIT
+Univ. of Illinois
+University of Washington at Seattle
+Univ. of Texas at Austin
+Georgia Tech
+CalTech
+Cornell University
+Harvey Mudd College
+So, no, a CS degree from Grinnell College in Iowa will not give your son any advantage with employers. I do not think that a CS degree from Grinnell College would be among the top 50 schools (universities & colleges) for computer science.
+P.S. Although I am speculating on this point, I think a CS degree from the University of Arizona would be more noteworthy than a similar degree from Grinnell College.
+
+73.<<<Publisher>>>
+@Alezzz: Because your son can earn a degree in CS in 3 years at the University of Zurich, Zurich will be much less costly than a 4 year degree from either of the US schools mentioned in the thread title.
+
+74.<<<PurpleTitan>>>
+@Publisher, you seem obsessed with rankings. Yes, those are the highest ranked and all fine CS schools, but the individual matters most for a field like CS. I see students from a school like Dartmouth (that wouldn’t be anywhere in any CS ranking) going to top software companies.
+@ucbalumnus has a more realistic view of the software employment market.
+In any case, I would
+
+Stress the education and environment (because, ultimately, how a kid develops is most important, especially for a field like CS). Grinnell would be very different from Zurich or UA.
+Not ignore work status. Your kid isn’t American so what may apply to Americans won’t apply to your kid.
+
+
+75.<<<Publisher>>>
+@PurpleTitan: Not obsessed with rankings, just dealing with reality in responding to OP"s question.
+@Alezz: Grinnell College is a very small school in a rural location.
+The University of Arizona offers both undergraduate & graduate degrees in CS.
+Not sure why some posters are pushing Grinnell College in this thread. Grinnell College is tiny & relatively unknown in the US. While a good school, Grinnell College is best known for awarding generous financial aid to international applicants.
+Again:
+
+
+University of Zurich–especially since it only requires 3 years & there will be no visa issues.
+
+
+University of Arizona–large CS department, low cost, offers graduate degrees in CS = more & better professors and a wider number of CS course options.
+
+
+Grinnell College–but too expensive compared to your other options, and too small. The small size will be reflected in the number of courses offered in CS, the number of CS faculty, and in the number of employers recruiting on campus.
+
+
+
+76.<<<Alezzz>>>
+
+
+
+ Publisher:
+[quote]
+@Alezzz: Because your son can earn a degree in CS in 3 years at the University of Zurich, Zurich will be much less costly than a 4 year degree from either of the US schools mentioned in the thread title.
+[/quote]
+
+That’s true. But in that case 10000-20000$ is secondary thing for me. If I will be confident that from those money my son will get advantage in his future, I will pay it without doubts
+
+77.<<<PurpleTitan>>>
+@Publisher, and the reality is that CS grads from Grinnell enter top American software companies.
+Just do a Google search of “Grinnell computer science LinkedIn”. You’ll find Grinnell alums at a bunch of the top American software firms (some would be Internationals, some not).
+Look, I can tell you’re not from the software field. Definitely haven’t hired for the field. I don’t know why people who’s main experience about a field is what they find on the internet keep opining on a subject, honestly.
+
+78.<<<Publisher>>>
+@PurpleTitan: If the individual matters more for CS employment, then why pay substantially more for a degree from a tiny school in the rural Midwest with more limited CS course offerings ?
+CS degrees are hot now. A degree in CS from almost any school will yield employment opportunities. That is why it would be foolish to pay substantially more for a CS degree from a tiny, rural school with limited CS offerings.
+At some point, commonsense should come into play–not an obsession with LACs.
+P.S. If Grinnell College were substantially cheaper than Arizona or Zurich–as in a total full ride of tuition, fees, books, room & board, then I could understand your obsession with Grinnell College, but this isn’t the case. In fact, Grinnell is by far the most expensive option.
+
+79.<<<PurpleTitan>>>
+@Publisher, because I believe that the education and environment matters when it comes to development of an individual. Why would anyone choose a LAC? For that matter, why would anyone even choose a rigorous college over a diploma mill?
+
+80.<<<Publisher>>>
+@PurpleTitan: I do not want to argue or debate. I have made my points. Let OP & OP’s son evaluate the situation.
+
+81.<<<ucbalumnus>>>
+
+
+
+ Alezzz:
+[quote]
+Please help me to get one thing. Will study in Grinnell give him advantage before other candidates at US job market or not? Let’s imagine that he came to typical company in Silicon Valley and showing them his Ginnell’s grade with perfect GPA. Will they say “Way!!” or he still will be one of crowd?
+[/quote]
+
+He will still be at the back of the crowd (among CS new graduates) because he will need a work visa and will have only a BA/BS (instead of the preferred MA/MS or PhD) degree.  Grinnell versus Arizona versus Zurich would be a minor factor at most compared to the work visa issue.
+
+82.<<<PurpleTitan>>>
+Research Grinnell some on Reddit. This quote sounds about right:
+“Grinnell is a highly-esteemed college that is very well-regarded among people who know a lot about higher education.”
+And definitely not known by the typically man on the street (outside of Iowa).
+But the top American software companies will have a disproportionate percentage of the former. Plenty of PhDs at those places.
+But as @ucbalumnus noted, citizenship/PR status matters. Advice I would give an American may not be applicable to your son.
+
+83.<<<Publisher>>>
+Agree that @PurpleTitan has offered advice that is not appropriate for OP’s son, but is worth considering for an American student.
+As I raised the issues of visa concerns & graduate school early on in this thread, please consider attending the University of Zurich for an undergraduate degree before coming to the US. Both student & work visas should be easier–not easy–for one with a STEM degree.
+And, as I noted earlier, reconsider Canada if affordable schooling options exist or for much easier entry on a work permit / work visa.
+
+84.<<<happymomof1>>>
+If the OPT rules do not change, your son would be eligible for 12 months, with the possibility of extending.  Here is the link: https://www.uscis.gov/opt
+Many international students do not find employers for the OPT, and consequently must return home shortly after graduation.  Your son should contact the Career Centers and the International Student Offices at each campus and ask where the international graduates with his major have found work.  He needs to know whether they have been successful or not.
+Wherever he does study, he should make certain that he is prepared for a job in your country, and that his documents can be translated and revalidated there.  Some students have finished degrees outside their home countries only to learn that they must repeat their entire educations in order to get a job after they return.
+
+85.<<<PurpleTitan>>>
+@happymomof1, the OP’s son won’t be working in his home country. It’ll be Switzerland, somewhere in the EU, Canada, or somewhere else abroad regardless (or he’ll be jobless, but that seems unlikely).
+
+86.<<<happymomof1>>>
+@PurpleTitan - Right now, the OP hopes that his son won’t have to return to Belarus.  However, he needs to think through a back-up plan in case that ends up being what happens.
+
+87.<<<eyemgh>>>
+
+[quote]
+the reality is that CS grads from Grinnell enter top American software companies.
+[/quote]
+
+This is true for nearly every school.
+I just did a LinkedIn search on Michigan Tech, certainly a school that would be on virtually no College Confidential poster’s radar. The top 5 employees for CS grads: IBM, Ford, Google, Amazon, Microsoft.
+The top 5 for Grinnell CS grads: Google, Microsoft, Amazon, Epic, Accenture.
+Getting WAY down the pecking order, Sonoma State: Keysight, Disney, Ciena, Google, FIS.
+Now lets go to the blue bloods. Caltech: Google, Facebook, Microsoft, Amazon, Intel. MIT: Google, Microsoft, Facebook, Apple, IBM.
+Finally, my son’s alma mater, Cal Poly, not mentioned once here, probably because they don’t offer doctoral degrees and as a result, aren’t ranked with them: Amazon, Google, Apple, Microsoft, Workday.
+
+88.<<<Alezzz>>>
+
+
+
+ happymomof1:
+[quote]
+@PurpleTitan - Right now, the OP hopes that his son won’t have to return to Belarus.  However, he needs to think through a back-up plan in case that ends up being what happens.
+[/quote]
+
+You don’t know much about my life. In my native Belarus last 26 years is dictatorship, misery and hopeless. My son was born 7 years after our dictator took power and he never seen anything except this in Belarus. Last 13 years I living abroad and building my life myself. Those from my countrymen who need warranties continue to live in Belarus with vegetable’s rights and vegetable’s future. They have warranties and can be confident in same life from here on out. I haven’t any warranties and in any situation can rely only on myself. But now I’m in doubts will my son study in top US LAC or in excellent Swiss university.
+Your post is right in part that any US or Swiss grade in Belarus is just expensive toilet paper. I take as it comes. Grass is green, sun is bright, nobody no where waiting for my son. That is life as it is.
+
+89.<<<PurpleTitan>>>
+@happymomof1: “Right now, the OP hopes that his son won’t have to return to Belarus. However, he needs to think through a back-up plan in case that ends up being what happens.”
+The OP says his son would already qualify for a visa in Canada.
+
+90.<<<Alezzz>>>
+
+
+
+ PurpleTitan:
+[quote]
+@happymomof1: “Right now, the OP hopes that his son won’t have to return to Belarus. However, he needs to think through a back-up plan in case that ends up being what happens.”
+The OP says his son would already qualify for a visa in Canada.
+[/quote]
+
+Not exactly already qualify. But as per their immigration points system maximum points coming to young people with grade from recognized university and good English. They definitely will recognize grade and from US, and from Swiss, for English my son will easy get max possible points, and he is young. Bingo.
+If he will wish immigrate to Canada, he will easy do it.
+
+91.<<<starjoy8>>>
+I would suggest Grinnell or Zurich. If you can afford it, as a student at Grinnell I think it is a welcoming atmosphere and would be a good place to grow as a student. I cannot speak to Zurich beyond my knowledge that it is a good school.
+
+92.<<<Alezzz>>>
+Have anybody idea how Trump’s order to halt immigration can affect OPT program and H1B visas?
+
+93.<<<Alezzz>>>
+
+
+
+ starjoy8:
+[quote]
+I would suggest Grinnell or Zurich. If you can afford it, as a student at Grinnell I think it is a welcoming atmosphere and would be a good place to grow as a student. I cannot speak to Zurich beyond my knowledge that it is a good school.
+[/quote]
+
+Thank you for your feedback. Do you American or international? Have you idea about CS internship and career abilities for Grinnellians?
+
+94.<<<MYOS1634>>>
+Trump’s order freezed green card applicants’ application only.
+My vote would be for Grinnell.
+During the coronavirus outbreak I saw how former international advisees were treated.
+Advisees at LACs were very well taken care of: offered apartments or plane tickets or kept on campus with full board.
+At large universities, they were supposed to figure it out and basically return home, although some things were set in place to help.
+That’s where endowment/budget and students knowing professors personnally comes into play. Traces of the former “in loco parentis” perhaps.
+Anyway, that’s why I’d pick Grinnell rather than UA, unless it’s cause unduly stress financially.
+Ask international student offices what’s happened to their international students in March.
+No matter what, ask what the universities’ plans for the Fall are.
+Internships: there are many internships set up even for freshmen through the alumni networkat all universities, contact the regular career center to see how supportive they are of internationals’ finding internships.
+I 100% understand why staying in Belarus is not possible. 
+Fingers crossed, he’s soon going to be able to escape. ??
+However your son will have to prepare for culture shock. I recommend reading The naked roommate. It’s a frank discussion or every challenge that a freshman may encounter and how to solve problems (whether caused by self or others).
+
+95.<<<MYOS1634>>>
+On another thread, a current Grinnell student wrote about life at Grinnell for a high school student who can’t visit. It’s just one perspective but it’s an insider’s.
+https://talk.collegeconfidential.com/discussion/comment/22753090/#Comment_22753090
+
+96.<<<Alezzz>>>
+@MYOS1634
+Big Thanks for your post!
+But unfortunately now Trump’s policy disturbing me more than coronavirus. Yes, I know that currently his order is about green cards only. But Trump declared very clearly that his target is to close US job market for internationals. And if he will be reelected he will have a lot of time to implement his goals.
+
+97.<<<MYOS1634>>>
+We can’t discuss politics on this board, but even imagining he’s re-elected (which is indeed not out of the realm of possibility), your son would graduate from a US college and could either attend a graduate school (he’d have to have sufficiently good grades to enter a funded PHD program) or find an OPT. If neither worked out, he could go to Canada and work there for 3 years before becoming a permanent resident. So, that really shouldn’t be your worry now.
+Also, remember that when your son graduates in 2025, no matter who is elected in November 2020, the president will be YET another person since there’d be another election in November 20204. (For the first time in his life, your son will live through a democratic election with lots of candidates, speeches, town halls, house parties…)
+If you’re really worried, you could choose to send him to Canada for his undergraduate degree but as you stated with STEM skills, excellent English, and a college degree, he’d have no problem being admitted for a long term visa then permanent residency.
+
+98.<<<starjoy8>>>
+@Alezzz for the sake of transparency, the link @MYOS1634  gave was actually to a post I made. I agree with them that Grinnell goes above and beyond for their international students. Many of my international friends were allowed to stay on campus through the outbreak and are fed and cared for. They moved them all so that they have their own bathrooms and there are only two people on each floor of each dorm. If international students wanted to go home and could not afford the flights, the college paid for them. Alumni played a big role in the care of the entire student body during this time as well.
+As to CS internships/careers, I believe this has been covered by other posters, but most/all top institutions regularly send students to Google/Amazon and the rest of Silicon Valley as well for internships and jobs. Here is the link for our general graduate outcomes page https://www.grinnell.edu/after-grinnell/graduate-outcomes-all-majors Click “See more” to see everywhere the last graduating class (2019) was employed.
+63% of students participate in internships in their time at Grinnell. I have had two already and am hoping for a third this summer (but up in the air).
+If you want more info about the Grinnell CS major, I’ll direct you to a CS professor’s blog where he has written an exhaustive resource on the topic. http://www.cs.grinnell.edu/~rebelsky/musings/index-prospective-students.html If you enjoy his writing, explore the rest of the blog for stuff all about Grinnell’s culture and just his random thoughts. He is a well respected and loved prof at Grinnell.
+
+99.<<<starjoy8>>>
+Oh! I am an American from New York State. I am a third year student at Grinnell.
+
+100.<<<Tigerle>>>
+You have said that the 12 k tuition at Grinnell (+ room and board) is not a drama for you). I’d choose Grinnell, then.
+Not for the LAC experience, which, frankly, at this point in history, for a kid from Belarus is a luxury he shouldn’t think about twice. Not because of the parties, the movies, the advising, whatever. He will make his way. He won’t expect anyone to wait for him. He’ll do.
+He should choose it for the connections, the alumni, the internships, the support he can expect when things go tits up again, as they very well may, off and on, the options his profs and the career center can help him with as far as grad school and jobs and visas are concerned. I do not think (correct me if I’m wrong) will get as much support at the U of A. He’ll definitely not get it at the U of Zurich. (And guys, the U of Zurich is definitely not the ETH. Nope, it’s NOT well known for STEM! That’s why everyone is getting it mixed up!)
+And Switzerland is not welcoming to immigrants in ways that midwestern LACs are. No one has an incentive to help you stay. Switzerland has a 25 percent immigrant workforce and they want fewer. They are just more polite about it.
+And Zurich is about the most expensive city to live in in the world. Please check the housing market before making any decision! The only reason it may end up being cheaper may be that it’s 3 years instead of 4.
+It’s all a roll of the dice. Agree that Belarus right now is not a good backup, and I hesitate to recommend German universities to anyone from the US, but if for some reason the US options don’t work out, Germany is still there and if he can wrangle a residence permit he’ll even get a bursary  - and depending on where he ends up studying I may be the person hitting you up for repayment! 
+
+101.<<<PurpleTitan>>>
+@Tigerle, why wouldn’t you recommend German unis?
+And yes, Zurich seems extremely expensive.
+
+102.<<<Tigerle>>>
+@PurpleTitan , not for American students because they are so radically different from what they expect, and the main attraction is usually that they’re cheap - not because the kid is actually interested in going to Germany and thrives on adventure and adversity.
+This is a kid who has been taught resilience. All he needs is a place that won’t kick him out again and he’ll be okay. Problem is, we don’t know whether the US or Switzerland will be that place. But if the US kicks him out, he can try Canada, if Canada kicks him out, I imagine he can still try Germany, because he then has CS + English + German language skills which might help.
+If Switzerland kicks him out, not sure whether Canada still is an option. Germany still might be.
+For Switzerland, I’d budget at least 20 000 CHF for the year, that’s  pretty much 20 000 USD, and it will be a hassle. But he’s got an uncle there, you said? Not close enough to rent out a room, I suppose?
+
+103.<<<Alezzz>>>
+@Tigerle
+I grateful for your opinion, but I have some objections. Please understand me correct. I  don’t want to argue with you. I want to explain why selection Grinnell / UZH is so hard dilemma.
+I definitely know that UZH is not ETH. But university where 12 Nobel Prize Laureates were graduated definitely can’t be estimated as something secondary. Specially for CS QS placing UZH in 100-150 best U of the world, THE to 83 place in the world. Not very top, but and not so bad. And ability to take classes in ETH also making big difference.
+I also know that Swiss is expensive. But cost of life is something that partly under your control as opposed to tuition fee. You can rent in suburb instead of main street and nobody can force you to visit restaurant daily. From my studying about Swiss I got that high cost of life is more relate to luxury segment and basic things price (food in supermarket, lunch in student canteen) not so dramatically different from other Europe.
+About “Switzerland is not welcoming to immigrants” - the same way as USA frankly saying  Honestly I don’t expect that any country in the world waiting for my son and will be welcome to him. For me his career after graduation is more about right usage of existing abilities rather than waiting for any help and support. USA giving some abilities without any warranties, Swiss giving some abilities without any warranties. Abilities that giving USA as per my opinion now essentially degrading.
+
+104.<<<Alezzz>>>
+
+
+
+ Tigerle:
+[quote]
+But he’s got an uncle there, you said? Not close enough to rent out a room, I suppose?
+[/quote]
+
+No, he living near Geneva, too far from Zurich. And I don’t want to ask him about any help except sharing his Swiss experience.
+About Canada I’m confident it will be option and after Swiss also. Their immigration system targeting to young people with grade from recognized university and good English. If they wouldn’t accept my son, whom they will accept at all? Olympic champions with MIT grade only? Now Canada is not breakpoint for our decision.
+
+105.<<<Tigerle>>>
+You’re right, I did not mean to talk down University of Zurich which is excellent in the life sciences and does very well in CS, too, just had a feeling too many posters still got it mixed up with ETH which is right up there with Stanford and MIT in CS and which UZH just isn’t. But who knows, the mix up might help him later in life!  )
+Agree that the Swiss option gives you a bit more cost control. There should an affordable health insurance option for students, find out, Try to get a room in a hall of residence., via the university housing office. Apply now. (Just withdraw, if you decide on Grinnell after all, European universities don’t care). Food in Swiss supermarkets is expensive too, that’s why the Swiss drive across the border to German, France and Italian supermarkets if they live close enough. Restaurant prices are outrageous. Maybe you can send cheap care packages with months worth of pasta!
+But everything is nice and clean and works and runs on time. Germany on steroids. That said, is your son sure he can follow classes in Swiss German? It’s a different language, almost as different from standard German as Dutch.
+You haven’t said where you, as a family, are living now - you’ve mentioned school in Dubai, study in Germany, a mother in Belarus, a cousin in Switzerland. Is there a country where you’d like your son end up in. to keep your family together? Flying, crossing borders, might be difficult for years. Having everyone in Europe at least might help a bit.
+
+106.<<<Alezzz>>>
+
+
+
+ Tigerle:
+[quote]
+You’re right, I did not mean to talk down University of Zurich which is excellent in the life sciences and does very well in CS, too, just had a feeling too many posters still got it mixed up with ETH which is right up there with Stanford and MIT in CS and which UZH just isn’t. But who knows, the mix up might help him later in life!  )
+[/quote]
+
+If he will select UZH, I hope he wouldn’t need this mix up. Because I’ll encourage him to make MS in ETH after BS in UZH. I’m confident he can do it.
+Right now doors of ETH closed in front of him for one stupid reason. In his IB DP he make English SL. From 6 subjects in diploma program 4 subjects he did at HL, but for English he select SL. That killed his ability to be admitted to ETH. It is out of my understanding but for 100% German language bachelor program ETH admitting only those who make English HL in IB DP. All other ETH entrance requirements my son did or exceeded, he got more IB points than ETH require (and that is with 4 HL instead of 3 HL). But due to English SL only failed. Sadly but true (((
+
+107.<<<Alezzz>>>
+
+
+
+ Tigerle:
+[quote]
+That said, is your son sure he can follow classes in Swiss German? It’s a different language, almost as different from standard German as Dutch.
+[/quote]
+
+@Tigerle
+I’m confident he will manage. When he started his study in UAE in grade 6, he almost can’t speak English. But in grade 9 he got High Distinction certificate for IBT English test, and in grade 11 his result in language part of SAT was 740/800.
+I’m confident he will manage and with Swiss German. This Jan after German exam his result was second from all students. He is from Belarus, and we are experts in survival and break through.
+
+108.<<<Alezzz>>>
+
+
+
+ Tigerle:
+[quote]
+You haven’t said where you, as a family, are living now - you’ve mentioned school in Dubai, study in Germany, a mother in Belarus, a cousin in Switzerland. Is there a country where you’d like your son end up in. to keep your family together? Flying, crossing borders, might be difficult for years. Having everyone in Europe at least might help a bit.
+[/quote]
+
+I live in Dubai with family. Living in Belarus not acceptable for me. For last 26 years we have dictatorship of real lout.
+In EU or USA I don’t living not because I don’t want ))). 10 years ago when I looked for the job abroad I got several calls for interview from USA and Europe. But in all cases first question was “Do you have work permit?”. And last question. After that several compliments how they impressed by my skills and background and invitation to immediately call AFTER I will get work permit. That way I appeared in UAE. Here get work permit for Belorussian is more easy.
+Absolute priority for me is best future for my son, to give him realize his outstanding abilities. Definitely I very want to keep all family together and to see him daily. But now that is secondary. I’m not god and I can’t make all and at once. I just doing my best.
+
+109.<<<MYOS1634>>>
+I really think the best for him is Grinnell, because he’ll be well taken care of from being part of a tight-knit community.
+It will be a culture shock but he’ll manage.
+He’ll work hard (even if he managed 4 HLs, it’ll still be difficult but my impression from what you say is that he has fortitude AND intelligence).
+He’ll be surrounded by people who have his best interests at heart (it’s hard to believe, perhaps, but it’s the culture there). He’ll learn a lot about democracy along the way (from living in the US; living in Iowa; and living on a college campus where participatory democracy is a big deal among students). He’ll be surrounded by friendly people. By working hard and learning, he’ll impress people who’ll offer him opportunities, especially alumni (who are a very loyal and influential group). He’ll grow into the person you know he can become, without fetters and with the peace of mind that everything is taken care of because he’s part of the Grinnell “family”.
+That in my opinion is the biggest difference between all his choices.
+
+110.<<<Tigerle>>>
+@Alezzz , I’m sure he can handle it as long as he’s prepared.
+The point is some people simply don’t know how different Swiss German actually is and think of it as an “accent” or a “dialect”, whereas in reality you need to consider it a different language.
+Have him watch examples on YouTube, and make him aware that there are actually different dialects of Swiss German all over Switzerland, one for each valley, in extreme cases one for each mountain village. And to not confuse it with Rumantsch, which is another language only spoken in various Swiss mountain valleys, not a dialect of Italian but a direct descendant of Latin and of which, again, various dialects exist for various valleys…again not to be confused with la Suisse romande which is where people speak French, which is actually just French with an accent.
+I know your son will be able to navigate all of this. He sounds like a survivor, just like you. Let him badger your cousin as much as possible ( though it sounds as if he’s living in the Suisse romande, which is, in some ways, a bit easier to navigate).
+If it now sounds as if I have done a total U turn and am now advocating the Swiss option over the US option, it’s because the news out of the US are beginning to sound even more erratic than usual, but I’m sure you are having your own thoughts about that. Maybe Switzerland is the more predictable option after all.
+I still think both could work. Your kid will be okay. Stay safe.
+
+111.<<<Mwfan1921>>>
+
+
+
+ Tigerle:
+[quote]
+@Alezzz , I’m sure he can handle it as long as he’s prepared.
+The point is some people simply don’t know how different Swiss German actually is and think of it as an “accent” or a “dialect”, whereas in reality you need to consider it a different language.
+Have him watch examples on YouTube, and make him aware that there are actually different dialects of Swiss German all over Switzerland, one for each valley, in extreme cases one for each mountain village. And to not confuse it with Rumantsch, which is another language only spoken in various Swiss mountain valleys, not a dialect of Italian but a direct descendant of Latin and of which, again, various dialects exist for various valleys…again not to be confused with la Suisse romande which is where people speak French, which is actually just French with an accent.
+I know your son will be able to navigate all of this. He sounds like a survivor, just like you. Let him badger your cousin as much as possible ( though it sounds as if he’s living in the Suisse romande, which is, in some ways, a bit easier to navigate).
+If it now sounds as if I have done a total U turn and am now advocating the Swiss option over the US option, it’s because the news out of the US are beginning to sound even more erratic than usual, but I’m sure you are having your own thoughts about that. Maybe Switzerland is the more predictable option after all.
+I still think both could work. Your kid will be okay. Stay safe.
+[/quote]
+
+Aren’t most bachelor’s level classes at UZH taught in Standard German?
+Outside of the University be it in Zurich or Geneva, the majority of people also speak English, at least based on my travels there.
+
+112.<<<Tigerle>>>
+I stand corrected, it is standard German (which in Switzerland will mean German with a very strong Swiss accent, unless the teacher is a non native, which is of course entirely possible).
+So, practice listening to German with a Swiss accent. Still very different from standard German, but much fewer vocabulary differences.
+
+113.<<<Tigerle>>>
+Health insurance for non EU/EFTA students would be offered for about 90 CHF per month.
+
+114.<<<Alezzz>>>
+
+
+
+ Mwfan1921:
+[quote]
+Aren’t most bachelor’s level classes at UZH taught in Standard German?
+Outside of the University be it in Zurich or Geneva, the majority of people also speak English, at least based on my travels there.
+[/quote]
+
+I’m confident they can very good speak English and inside the University. Just because all CS master programs are in English. They teaching BS in German not because they don’t know English but to cut off majority of internationals from their close to free high quality education
+
+115.<<<Eeyore123>>>
+@Alezzz it looks like Grinnell is giving everyone an additional $2,500 one year grant for next year.
+
+116.<<<Alezzz>>>
+
+
+
+ Eeyore123:
+[quote]
+@Alezzz it looks like Grinnell is giving everyone an additional $2,500 one year grant for next year.
+[/quote]
+
+Yes, I know. It is true
+
+117.<<<Tigerle>>>
+Any news about your sons choice, OP?
+
+118.<<<Alezzz>>>
+
+
+
+ Tigerle:
+[quote]
+Any news about your sons choice, OP?
+[/quote]
+
+Hello
+I shared with him all information that I managed to collect, and my own opinion, and then told: “Now select yourself”. He selected Swiss.
+And honestly saying now I’m very happy with his decision.
+
+119.<<<warblersrule>>>
+^
+Undoubtedly the right decision, especially under the current circumstances. Congrats to him!
+
+120.<<<theloniusmonk>>>
+“You’re right, I did not mean to talk down University of Zurich which is excellent in the life sciences and does very well in CS”
+This is something I don’t understand - why do people that advocate for LACs talk down other universities, you should be able to point out the advantages of a LAC on its own, without talking down other universities the caliber of Zurich.
+
+121.<<<Tigerle>>>
+@theloniusmonk , did you read my post #99? I only pointed out advantages and disadvantages of each choice, Grinnell or Zurich, as they pertained to the son’s specific situation.
+As for what makes the LAC experience special for a kid that actually has the luxury of choosing a school for the experience, I am not really qualified to comment. I know a lot about how different higher education systems compare across countries and continents, but since I never was a student at a US LAC, only ever visited friends there, I wouldn’t want to comment specifically on how that experience might play out for the OP’s son.
+In any case, the OP made it clear that while he would love the pay for the best fit for his son, the overwhelming concern was which options a degree from each institution would give his son concerning his immigration status and work permit in various countries across the world.
+
+122.<<<Tigerle>>>
+
+
+
+ Alezzz:
+[quote]
+I take as it comes. Grass is green, sun is bright, nobody no where waiting for my son. That is life as it is.
+[/quote]
+
+@Alezzz, I hope you’ll stay around anyway. I love your pragmatic viewpoints and how you express them.
+

@@ -1,0 +1,253 @@
+1.<<<UChicago2016>>>
+The thread tile basically says it all, if you were offered admission to both universites at Carnegie Mellon School of Computer Science and MIT for Computer Science. Which one would you choose and why?
+
+2.<<<ielizabeth>>>
+I'm not a rank-lover.
+
+3.<<<ClassicRockerDad>>>
+These are somewhat different experiences, and nobody would fault you for either choice.
+
+As the Kia hamsters say
+
+<a href="http://www.youtube.com/watch?v=kfJnqbudMzs" rel="nofollow">YouTube - 2010 Kia Soul Hamster Commercial | Black Sheep Kia Hamsters Video</a>
+
+"The choice is yours: You can go with this, or you can go with that!".
+
+4.<<<MITChris>>>
+both are good. really depends on the culture / match / feel. i'd go to both accepted students weekends and see what i liked afterwards.
+
+5.<<<collegealum314>>>
+There's no EE core for CS majors at Carnegie Mellon for one (although you could major in math for comp. sci at MIT and avoid EE.)
+
+Carnegie Mellon's has a fine comp sci. program. That said, it's rare to turn down MIT for Carnegie Mellon, even in comp sci. I knew a MIT guy who interned in a company with a bunch of Carnegie Mellon people at a software company, and they said he treated him like dirt because he went to MIT. I personally worked with a Carnegie Mellon guy, who said they hate MIT. There seems to be some jealousy or at least resentment there. I don't know if that should impact your decision, except that you may have to ignore the "Hey, we aren't really second best" undercurrent if you go there.
+
+6.<<<mathboy98>>>
+In the world of undergrad (and perhaps grad too), MIT carries more 'overall' prestige, but there's the share of superstars, very interesting researchers, Turing Award winners, etc affiliated to both schools.
+
+Basically, if you really want to do computer science, you can do it at either school and it's about fit. But your high school friends will oooh and aaah more for MIT by far. So will most people in general. So it really depends if you care about their opinion (even if you disagree with it, it may be easier for you to get by if you go to MIT; or, perhaps in a different light, perhaps MIT attracts even more superstar undergrads, and maybe going to school with them would damage your self-esteem).
+
+Other than this, think about the following: what if you <i>do not go into computer science</i>? What will afford you the best options then? I realize this is not what the thread is officially about, but it naturally arises in conjunction.
+
+7.<<<mathboy98>>>
+[quote]I personally worked with a Carnegie Mellon guy, who said they hate MIT.[/quote]
+
+That's too bad. I think this sort of thing exists mainly between undergraduate students, and the faculty at top CS schools probably try to collaborate.
+
+8.<<<k4r3n2>>>
+I agree with MITChris that you should attend both admitted students' weekends - I was admitted to both CMU and MIT and visited both, but ultimately I felt that MIT was a better fit for me personality-wise than CMU. The MIT admissions officers definitely put a lot of effort into admitting students that they think would be good fits at MIT, which I'm not sure is the case at CMU, so this may also be a part of the reason that most students choose to matriculate at MIT when deciding between the two.
+
+9.<<<phantasmagoric>>>
+While I agree with the above advice, I'm surprised nobody has mentioned the difference in size. CMU has an entire school devoted to computer science, which means that it has 'room' for more diversity of CS subfields, as well as more interdisciplinary options. That's why CMU SCS has several departments in areas that most schools don't have an entire unit devoted to--machine learning, language technologies, robotics, HCI, etc. At MIT, on the other hand, CS is not even independent administratively; it's administered in the EECS department. The same sort of administrative combination is true of CSAIL--whereas CS and AI have separate labs at other schools (like Stanford, Berkeley, and CMU), the two fall under the same lab at MIT. This has both positives and negatives. The point is, because of its administrative divisions, CMU is probably able to achieve more depth across the breadth, as evidenced by the vast array of PhD, MS, and BS programs they offer. This is just guessing, but I'm willing to bet SCS has more faculty than CS at MIT, and offers more courses as well.
+
+MIT students on CC will bite my head off for saying this, but this greater depth/breadth might actually (gasp!) mean better opportunities for undergrads--more activities, forums, speakers, job advertisements (CMU SCS is a feast for recruiters, I would think), and above all research--more faculty means more graduate students, postdocs, and research associates, not to mention more CS undergrads. Of course, I have no idea what the headcount (esp. faculty) is for SCS and MIT CS--anyone have that data? The takeaway point is that while MIT is more prestigious, CMU has built a "mecca" of computer science and so might have a stronger, purer culture in CS.
+
+Not as helpful, but the SCS complex is some 217,000 sq ft, whereas CSAIL takes up a portion of the Stata Center, which is 720,000 sq ft. I can't decide which one is uglier.
+
+All that said, for those who want me excommunicated for not praising MIT properly, know I'm not some CMU ****, nor do I go to MIT. I'm applying to both for PhD, and if admitted, my personal preference is MIT (for various other reasons). But I do think people don't give CMU enough credit, and among the perennial top 5 CS schools, people are often tempted to shunt CMU to the side because the other 4 are big brand-name schools.
+
+10.<<<molliebatmit>>>
+I don't think anyone will go so far as to stone you -- we are actually pretty friendly here on the MIT board -- I wouldn't mind disagreeing, if possible.
+
+In my field, molecular/cellular biology, the same argument you made in favor of CMU over MIT could be made for Harvard over MIT. Harvard has several departments of biology on the main campus, as well as even more in a large program at the medical school, and overall has many more faculty in biology than MIT. There are even multiple degrees awarded at Harvard in specialized subfields, while MIT has only one department of biology.
+
+Having been a student at both schools, I don't think I would recommend Harvard over MIT for a biology-leaning undergrad based on that reason. While there are more professors at Harvard in biology, and therefore more potential research opportunities for Harvard students, there are more than enough opportunities available at MIT for MIT students, and no one goes wanting. Noteworthy speakers will always come to both places. Job and grad school offers will be plentiful in both places.
+
+In short, I think that for students, especially for undergrads, there is a saturation point beyond which additional academic activities can't fit into peoples' lives. It's a fantastic experience to be an undergraduate in a world-class department. I'm not sure it matters that the department is gigantic.
+
+(For what it's worth, I also think the same is true for graduate students. It's all well and good to go to a program with eight zillion world-famous PIs, but since you have to pick just one for a thesis lab, the others don't really matter for you that much.)
+
+11.<<<UChicago2016>>>
+Thanks Phanta, you helped in my decision to choose CMU over MIT. I was leaning toward CMU over MIT because at CMU there is alot more diversity in students, they have CFA and many other engineering schools. Everybody at MIT is a tech-ky.
+
+12.<<<CalAlum>>>
+@ UChicago,
+Good luck with your application to CMU. I can see that you stated on the CMU board your intent to apply ED to the school.
+
+13.<<<bookworm>>>
+I second what Mathboy said. My son was torn between CMU (SCS) and attending a tech school. He had an interest in exploring a scientific field as well as CS, so chose the latter.
+
+To the OP, I'm curious why you posted this question on so many boards, e.g. U Chicago?
+
+14.<<<molliebatmit>>>
+[quote]I was leaning toward CMU over MIT because at CMU there is alot more diversity in students, they have CFA and many other engineering schools. Everybody at MIT is a tech-ky.[/quote]
+Diversity in majors =/= diversity in students.
+
+15.<<<MITChris>>>
+[quote]UChicago2016[/quote]
+[quote]my decision to choose CMU over MIT[/quote]
+
+one of these things is not like the other
+
+16.<<<mathboy98>>>
+[quote]In short, I think that for students, especially for undergrads, there is a saturation point beyond which additional academic activities can't fit into peoples' lives. It's a fantastic experience to be an undergraduate in a world-class department. I'm not sure it matters that the department is gigantic.
+[/quote]
+
+What is the saturation point specifically? I've certainly heard of arguments in favor of, say, small LACs, stating that they provide what the 'undergrad' experience is meant to be. I've also seen Mollie post many senses in which undergrads and grads are not distinguished as much at a school such as MIT.
+
+To me, the breadth of offerings and resources (courses, professors in various fields) is invaluable for the undergrad years when one is least sure about what to do in the future. However, that betrays a bias in terms of aspiring to do graduate study. However, someone who is contrasting schools <i>based on the characteristics of the specific departments </i> is inherently displaying a degree of similar interest (if not in graduate study, then at least in the academics).
+
+I think representation of fields is important for undergrads, as the undergrad years probably influence how you develop your preferences (because you get time to sample) a lot. Not every top school does a good job of that representation, and department size can definitely be something of a hinderance.
+
+As for research, I'm pretty sure MIT students get enough opportunity from what the alumni/current students say. Another issue, though, is what one researches. If what you're researching and spending time on is important to you, it tends to be crucial to have a broad collection of research interests represented among the faculty.
+[quote]one of these things is not like the other[/quote]
+
+True, but (to me) one of the funniest things is that even if a thread begins as a **** one (oh, and I don't believe in assuming it is), there may be useful info communicated. Contrasting two top CS depts is pretty cool, no matter how much whoever intended to start an argument.
+
+17.<<<molliebatmit>>>
+[quote]I think representation of fields is important for undergrads, as the undergrad years probably influence how you develop your preferences (because you get time to sample) a lot. Not every top school does a good job of that representation, and department size can definitely be something of a hinderance.[/quote]
+But we're talking about two large departments that are world-class and top of their respective fields. I just don't think it would be an important criterion if, say, MIT had 122 CS professors and CMU had 124. I don't think that's the scale of breadth that matters for a student -- an undergrad or a grad student.
+
+I am coming at this from my own perspective, where I was an undergraduate at a legitimately smaller program at MIT vs. a much larger program at Harvard, which I do not feel harmed me in any way in terms of preparation for graduate school or intellectual growth. Perhaps I am being swayed by the fact that MIT's biology program, though much smaller than Harvard's, almost certainly has greater average professor quality (in terms of research production).
+
+At any rate, I do object to the idea that a department is automatically better if it is bigger, or if it nominally offers more different kinds of titles that go on a degree. There's only so much one is able to reasonably take advantage of in one's time as a student.
+
+18.<<<mathboy98>>>
+Yeah, I don't think phantasmagoric has shown CMU to be a better dept. I think you're right that both are large depts, and I would assume represent the areas of CS very well.
+
+My own input was that size can matter, because often it also implies better representation of the different subfields and offers an undergrad broader exposure. This becomes less important to a grad student who has narrow interests. Now again, a grad student with interests which migrate across many things will benefit from the breadth of representation.
+
+
+The titles under a degree need not matter, true.
+
+I was thinking more along the lines of small dept with fewer classes vs larger one with more classes. Professor quality may be better at small, but maybe still pretty good at the large. I would take the large one myself.
+
+19.<<<phantasmagoric>>>
+molliebatmit,
+[quote]I don't think anyone will go so far as to stone you -- we are actually pretty friendly here on the MIT board -- I wouldn't mind disagreeing, if possible.[/quote]
+
+Unfortunately, I've had quite the opposite experience on CC and on the MIT board, but I chalk that up to immature undergrads/hs students (much the culture on CC, perhaps). MIT is still my first choice for grad school, though. :)
+[quote]there are more than enough opportunities available at MIT for MIT students, and no one goes wanting. Noteworthy speakers will always come to both places. Job and grad school offers will be plentiful in both places.[/quote]
+
+I agree with that, but the point I'm trying to make is that given the larger size, there could be a greater <i>diversity</i> of opportunities, and so it's more likely that you'll find more things that are right in your interests. This is just guesswork. I agree, also, with the 'saturation point,' but you could also argue that while both 'saturate' their undergrads, you're more likely to be saturated in something that's exactly what you're interested in or researching or learning. This would go back to 'purer culture' point--here, that you're more 'purely' saturated. The intuition behind this idea is that, for example, having a machine learning department means more faculty and other academic staff who have varying interests within machine learning; more diverse research across the sub-areas of ML; more courses covering more topics in ML; and thus more students and faculty with interests in, say, semi-supervised learning for facial recognition. This greater audience might attract more speakers with talks specifically on ML and its sub-areas, more recruiters looking for people with specific training in ML, etc. I do think, though, that undergrads at either school are happily saturated.
+
+mathboy98 seems to have said this better. ;)
+
+edit/crosspost
+[quote]I just don't think it would be an important criterion if, say, MIT had 122 CS professors and CMU had 124.[/quote]
+
+Again I have no idea what the #s are, but I was thinking it'd be a much, much greater difference than 2.
+[quote]At any rate, I do object to the idea that a department is automatically better if it is bigger[/quote]
+
+I don't subscribe to that either, but I do think there's something to be said of a department that's larger. In the rankings, smaller departments are often penalized, and there are fair arguments for why this happens. But it's definitely not right to assume X is better than Y because X is larger. (Stanford CS, for example, is much smaller than MIT CS or CMU SCS, but it's solidly at #1 in all the rankings.)
+
+20.<<<collegealum314>>>
+#1 Speaking as someone who was in the department, I find it highly doubtful that CMU or any other school has significantly more faculty or course offerings than MIT in computer science. The school used to have about 2000 undergrad majors in EECS in the late 90's and their course offerings supported that. (Yes, I realize I included EE, but still that is quite a lot.) Over 60% of the undergrads used to major in course 6, and I'm sure they haven't culled the course offerings since then.
+
+#2 I don't know why anyone would apply binding early decision (ED) unless they were applying to a high reach dream school. If you are merely leaning to one school, you should apply to both.
+
+21.<<<mathboy98>>>
+[quote]where I was an undergraduate at a legitimately smaller program at MIT vs. a much larger program at Harvard, which I do not feel harmed me in any way in terms of preparation for graduate school or intellectual growth.[/quote]
+
+I suppose there are a lot of ways one can go through a strong program and 'not be harmed,' but there are always additional bonuses to certain programs. I was also hinting that <i>diversity</i> of offerings and / or faculty interests can lead to an enriching experience consisting of an opportunity to get exposed to many things from the experts themselves. I especially agree with the following:
+[quote]given the larger size, there could be a greater diversity of opportunities, and so it's more likely that you'll find more things that are right in your interests. This is just guesswork. I agree, also, with the 'saturation point,' but you could also[/quote]
+
+Now whether any of this is applicable to the MIT v. CMU debate depends on how different the MIT and CMU offerings / faculty are.
+
+
+I think a good example I keep in mind is the math dept of a school like Princeton is very different from that of, say MIT. One is significantly bigger, probably has a lot more professors, course offerings, etc. MIT's is a very well-rounded department in mathematics, although I daresay from actual insiders I know there may be a thing or two which they don't have covered, which actually matter. None of this is to say someone attending Princeton, loving it and succeeding in it will be anywhere close to <i>lacking</i> in mathematical training - they will be some of the best around. Also, if one really wants to do certain things (as a grad student), inevitably Princeton will be an almost sure choice. But to say to a math undergrad that MIT doesn't offer some benefits that Princeton may lack, and that (s)he should choose based on the student culture only would be misleading advice.
+
+Again, none of this may be applicable to our debate, but I do think for it to bear much fruit, one must research how applicable it really is.
+
+22.<<<k4r3n2>>>
+I think it also depends on the particular field of CS that you're going into - AI, for instance, is firmly stacked in MIT's favor (and has been for awhile). I've personally had the opportunity to work with 3 huge names in the field, and just skimming the list of current AAAI Fellows, the list is hugely weighted towards MIT professors. If you want to do AI research, MIT is the place to be.
+
+23.<<<vonlost>>>
+"<i>I don't know why anyone would apply binding early decision (ED) unless they were applying to a high reach dream school.</i>"
+
+They apply ED to <i>match</i> dream schools as well, both to increase chances when possible, and to get the stressful process over with sooner.
+
+24.<<<phantasmagoric>>>
+[quote]AI, for instance, is firmly stacked in MIT's favor (and has been for awhile).[/quote]
+
+I strongly disagree. The same argument I made before in favor of CMU could be made here. CMU has a machine learning department, plus a robotics institute, plus a language technologies institute (while MIT has researchers in NLP, it doesn't have an NLP group, and even far-lower ranked schools have an NLP group!), plus a center for computational biology (bioinformatics). I would say both are excellent for AI, but to say that it's firmly stacked in MIT's favor isn't true.
+[quote]just skimming the list of current AAAI Fellows, the list is hugely weighted towards MIT professors.[/quote]
+
+I think you saw MIT more because you wanted to see MIT more ;) If you search the list, CMU has 18, whereas MIT has 16 (if you count deceased recipients, it's 20-17). Also, most of MIT's seem to be from 1990, whereas CMU's have been spread out over the past several years.
+
+<a href="http://www.aaai.org/Awards/fellows-list.php" rel="nofollow">Elected AAAI Fellows</a>
+
+25.<<<vonlost>>>
+You guys are so silly. My school's better. No, my school's better. Hint: They're both top schools at what they do.
+
+26.<<<phantasmagoric>>>
+vossron, as I already said, I don't go to either school. I'm just attempting to quell the seemingly omnipresent (on CC, at least) MIT superiority complex, and giving credit where credit is due (here, CMU).
+
+27.<<<LongPrime>>>
+DS works in humanoid neurobotics, (CMU grad). He says that its not the mechanical or the software but the interface between man-machine and the human thinking conscious and autonomous, that are the challenges.
+
+28.<<<molliebatmit>>>
+[quote]I suppose there are a lot of ways one can go through a strong program and 'not be harmed,' but there are always additional bonuses to certain programs. I was also hinting that diversity of offerings and / or faculty interests can lead to an enriching experience consisting of an opportunity to get exposed to many things from the experts themselves.[/quote]
+Which I certainly agree with, but I don't think we're talking about a big enough difference between MIT and CMU in this regard (if it even exists; this has been discussed in the thread only in terms of speculation) to be a factor. We are not talking about a small backwater department vs. a big department -- we are talking about two world-class departments, one of which, it has been suggested, might be slightly larger than the other.
+
+At any rate, pretty soon datalook is going to pop in and inform us about how much better Stanford is than either CMU or MIT, based on the number of tiles on the sidewalk in front of each school's CS building, so I will echo k4r3n2's advice for students admitted to both CMU and MIT to visit each school and figure out where they will be happiest and most productive for their undergrad years.
+
+29.<<<vonlost>>>
+"My" school that I'm defending. ;) It's the same to us readers.
+
+30.<<<molliebatmit>>>
+^And how many tiles <i>are</i> there on the sidewalk outside Stanford's CS building? Can you elaborate on how they have enhanced your educational experience? ;)
+
+31.<<<mathboy98>>>
+[quote]we are talking about two world-class departments, one of which, it has been suggested, might be slightly larger than the other.[/quote]
+
+Well sure, like I said my experience talking to those who know about MIT math is that it has a large dept compared to many schools, and I bet given its reputation, MIT EECS is large too.
+
+But as you yourself said, size isn't even a positive in its own right. Rather, size <i>can indicate better representation</i> of different subfields, and that diversity can be beneficial in terms of resources. All I'm saying is I think taking a closer look at the two depts and seeing what is represented well where is worth it. (Karen seems to agree on this point that some schools are stronger in some areas.) Even if the two schools were identical in size, it's possible for one to offer more diversity in terms of faculty and other offerings. And when it comes to two <i>top notch computer science schools,</i> this kind of academic diversity can be extremely desirable (i.e. when I don't have to wonder if the faculty serving me are already immensely famous, I care more about how much there is out there for me to toy with and pick from and sample, audit, research, etc).
+
+There are many degrees of complexity all this can go to. For instance, Caltech has a very tiny math dept, but apparently some posters have claimed it to offer a lot more variety in classes than much bigger ones. On the other hand, the small faculty size leads to problems when one wants to get into specialized research and can't find someone to help. Replace 'math' with CS and 'Caltech' with one of the schools we're talking about, and maybe there are lots of variables to juggle to decide what one should really believe.
+
+I think one must analyze the specifics of: what classes are offered, what <i>kinds</i> of research are available (and on that note, what kinds of professors teach there), professor quality, ease of getting research, diversity of exposure to different academic disciplines, means of exposure.
+
+I also think to most undergrads, <i>this entire discussion might be overkill</i>, because maybe they really don't care and just want a good CS education. But for what it's worth, I think I would myself care about this kind of discussion. Maybe that's just strange, but then again, someone who wants to decide between two schools with potentially very different undergrad cultures largely based on the CS depts might fall in one of these strange categories.
+
+To fully decide our issue, I think someone who's really done the homework on what is and isn't offered by each school's department needs to speak.
+
+32.<<<phantasmagoric>>>
+mathboy98, you're right about all this being overkill for undergrads. I admit my contributions are a little self-serving here, because this discussion has actually helped me make my own decisions for grad school. (I'm not applying to Stanford for grad school, and while I'd love to go to Berkeley, I really need to get away from California, so CMU and MIT are the most logical choices. Oh how I'd love to be faced with that choice!) I guess I need to do my homework--which I will if I'm actually faced with the choice.
+
+33.<<<mathboy98>>>
+^ Self-serving is OK :) honestly I think this is the kind of discussion I wish were fleshed out more on CC. I still think it can be useful for a certain class of undergrads, especially since one does after all go to school to learn something; meaning, it's conceivable that the specifics of two departments may be very useful to know before committing to 4 or so years there.
+
+I myself think the undergrad years are a much nicer time to take advantage of academic diversity, because one can spend entire terms on certain kinds of topics, whereas after the first year or so of graduate study, often one gets very serious and has to spend tons of time learning stuff in one's field beyond the very basic stuff. I've heard of professors (and senior graduate students) cautioning other prospective graduate students about dabbling and not really getting anywhere, whereas this is perfectly acceptable as an undergraduate, nay perhaps helpful to decide future plans with sufficient exposure!
+
+34.<<<collegealum314>>>
+Turn down both MIT and Carnegie Mellon.
+
+Go to a state school, have a ton of time to play around with computers in your spare time, found a company, and become a billionaire.
+
+Honestly, the two guys who hit it big from my high school in software both went to state schools.
+
+35.<<<PiperXP>>>
+^ Confirmation bias.
+
+36.<<<collegealum314>>>
+^ Piper bias.
+
+37.<<<PiperXP>>>
+I think confirmation bias is actually recognized ;) While people can definitely go to state schools, play with computers, and end up billionaires, this is not a dependable route - just as dropping out of Harvard and founding the next Facebook is not a dependable route.
+
+Turning down great opportunities expecting to get lucky and hit it big is just not going to work out in most cases, and I don't see how it's wise to recommend that to anyone.
+
+38.<<<JBeak12345>>>
+[quote]Honestly, the two guys who hit it big from my high school in software both went to state schools.[/quote]
+
+CS =/= Software Engineering
+
+39.<<<datalook>>>
+[quote]And how many tiles are there on the sidewalk outside Stanford's CS building? Can you elaborate on how they have enhanced your educational experience?[/quote]
+
+Here is my proof. The tiles on the sidewalk outside Stanford's CS building were indeed dontated by Google and Yahoo's founders, and endorsed by Vinton Cerf (father of internet) and Ted Hoff (inventor of microprocessor). This adds 1.732% extra chrisma to that CS department, and 3.1415926% extra pride to Stanford CS students. Hence the proof. ;)
+
+40.<<<UChicago2016>>>
+^ Do you mean?
+
+
+3.1415926535897932384626433832795028841971693993751058209749445923078164
+0628620899862803482534211706798214808651328230664709384460955058223172
+5359408128481117450284102701938521105559644622948954930381964428810975
+6659334461284756482337867831652712019091456485669234603486104543266482
+1339360726024914127372458700660631558817488152092096282925409171536436
+7892590360011330530548820466521384146951941511609433057270365759591953
+0921861173819326117931051185480744623799627495673518857527248912279381
+8301194912
+

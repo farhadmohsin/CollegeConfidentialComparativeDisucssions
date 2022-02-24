@@ -1,0 +1,32 @@
+{
+    "entities": [
+        "Boston College",
+        "University of North Carolina",
+        "University of Southern California"
+    ],
+    "entity_values": {
+        "Boston College": {
+            "Location": "Chestnut Hill, Massachusetts",
+            "Undergraduate Size": "9100",
+            "Institution Type": "Private university, Research",
+            "Faculty size": "752"
+        },
+        "University of North Carolina": {
+            "Location": "Chapel Hill, North Carolina",
+            "Undergraduate Size": "176133",
+            "Institution Type": "Public university, University system",
+            "Faculty size": "13564"
+        },
+        "University of Southern California": {
+            "Location": "Los Angeles, California",
+            "Undergraduate Size": "18740",
+            "Institution Type": "USC Fisher Museum of Art, USC Shoah Foundation Institute for Visual History and Education",
+            "Faculty size": "3945"
+        }
+    },
+    "abbreviations": [
+        "BC",
+        "UNC",
+        "USC"
+    ]
+}

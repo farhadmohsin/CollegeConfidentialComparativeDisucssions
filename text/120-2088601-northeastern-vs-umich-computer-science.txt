@@ -1,0 +1,634 @@
+1.<<<Uzername>>>
+Hello Everyone! I am a senior from Massachusetts and I need help deciding between these colleges for Computer Science.
+I was accepted into:
+The Northeastern Honors program with a hefty (114k) scholarship.
+Boston University Honors College (KHS)
+Tufts
+UMass Amherst (2k a year scholarship)
+Georgia Tech
+UMich
+I think I’ve narrowed my options down to Northeastern and UMich and need help deciding between the two schools.
+If anyone has any insight into the computer science programs, dorms, social scene, food, culture, networking, etc. and would be willing to share I would greatly appreciate it.
+Thank you!
+
+2.<<<ucbalumnus>>>
+Net price and debt at each?
+Northeastern has a co-op focused curriculum.  For you, do you consider that a good or bad thing?
+Other colleges may have optional formalized co-ops, and some other colleges may have lenient withdrawal and readmission policies that can make it easier to do an informal co-op lasting longer than a summer.  But you need to check policies on each college individually.
+
+3.<<<ultimom>>>
+My son is at Northeastern studying EE and computer science.
+My son is enjoying the fundamentals of CS class and is taking other CS/engineering math classes. In the fundamentals of CS class, he works with a partner and has had at least two partners. NEU has a good proportion of women in both engineering and CS in comparison to some universities.
+Dorms - freshman dorms are usually pretty standard two to a room although my son had nice windows and a view. After first year there are many suite options with kitchens. With all the restaurants and other food options close by, many students go low on the cafeteria swipes and eat elsewhere. My son said dorm food is okay but gets boring. He happy to be in a suite with a kitchen next year.
+My son doesn’t likely share the full extent of his social life with me. He is active in a few clubs including Ultimate and chess . His friends are from both clubs and classes. The Ultimate team travels to tournaments and has social get togethers.
+
+4.<<<Uzername>>>
+@ucbalumnus
+Northeastern Honors: 43k
+BU Honors: 77k a year
+Tufts: 76k
+Georgia Tech: 49k
+UMich: 67k
+UMass Amherst: 28k
+For the schools that I didn’t receive any merit-based scholarships, my family will be paying full price.
+(All prices per 2 semesters)
+I really enjoy the idea of the co-op curriculum. I think it’s great to gain actual CS experience and earn some money to pay off the debt. However, I also see the benefits of having a curriculum not focused on co-op. I can see benefits in both, and one style experience does not really stand out as “superior.” I certainly like that according to a lot of rankings, Northeastern has the #1 co-op in the country. I think that must carry some weight in the way the university builds connections with co-op partners.
+The only other school on my list with Co-op is GT. The others have summer internship opportunities outside of school.
+
+5.<<<Uzername>>>
+@ultimom
+Thank you for sharing!
+Did your son have any kind of CS experience before going to NEU? If not, has he shared if the curriculum helped him start from the ground up and learn?
+
+6.<<<PengsPhils>>>
+@Uzername Northeastern’s CS program is specifically designed to focus on the ground up 
+https://felleisen.org/matthias/Thoughts/Developing_Developers.html
+For these schools, I’m surprised Michigan beat out GT as a finalist and a top CS program, arguably better than Michigan. I’m guessing UMass isn’t very enticing being from the state but it’s a quite solid CS program as well and is also a very good deal comparatively.
+At nearly 100K less I’d say Northeastern is a steal, as these are both very good CS programs quite close in rank (as is GT). Honestly I would be surprised to see significantly different outcomes for the 4 schools I highlighted in either direction.
+I guess my only question is what’s holding Michigan in contention given the price, as fit is also of course important and the situation would imply to me that it might be in play here.
+Based on CS + value alone, for me it would very much be this: UMass &gt; Northeastern &gt;= GT &gt; UMich. So I guess in order to really help it’d probably be good to understand how much cost is factoring in + how and what you’re looking for fitwise.
+
+7.<<<ultimom>>>
+My son did have 3 years of programming in high school including the AP class and the college credit intro class. Because of the double major, he is taking the first semester of the fundamentals class this spring.
+
+8.<<<Uzername>>>
+@PengsPhils
+Thank you for your feedback!
+For more insight, UMich beat out Georgia Tech because I have only had limited Computer Science experience through my school. I really enjoyed every experience I have had with basic CS and want to pursue it more. However, as a student, I am all over the place when it comes to academic interests and I didn’t think I could see myself at a “Tech” school. Whereas the culture and well-rounded academics of UMich really appealed to me. I also love theatre and want to pursue it at the school I attend, and I saw that UMich had a relative abundance compared to Tech.
+UMich is still in contention due to the fact that attending the school is still financially possible for me, even with the massive price difference. In a vacuum, I would choose UMich, because I feel as if it is academically and socially a tier above Neu for me in the opportunities that are available. (Although Neu is still fantastic).
+For example, UM, with its 30,000 undergrads is housing so many resources of a top research university. Northeastern is also a research university, but from your knowledge, does it compare?
+UMich was one of my favorite schools when I was applying, through, it would seem almost wrong to turn down such an amazing scholarship at a school so close to home!
+
+9.<<<coolguy40>>>
+Programmer here…With CS, it literally makes no difference where you go to school.  And it’s just not worth the money going to an exotic private or OOS university. After 3 years of experience, employers won’t give a rats butt as long as you’re a qualified candidate. Just choose a decent school and get your degree. 99% of what you learn will be on the job. BTW, a $114k scholarship at Northeastern still sucks. You still have $200k left to pay for, which still comes out to be more than an OOS school.  I vote for Amherst.
+
+10.<<<PengsPhils>>>
+
+[quote]
+I didn’t think I could see myself at a “Tech” school.
+[/quote]
+
+Makes sense, that’s a solid fit reason. So that’d narrow it to UMichigan, Northeastern, or UMass Amherst.
+
+[quote]
+For example, UM, with its 30,000 undergrads is housing so many resources of a top research university. Northeastern is also a research university, but from your knowledge, does it compare?
+[/quote]
+
+Look at the CS research output (the only thing this ranking shows, it doesn’t inherently correlate with CS strength) for all of these schools in play here. It’s quite close. I think you’re imagining this difference a bit here when it comes to research.
+http://csrankings.org/
+Beyond that, are you actually planning to do research in CS? If not it’s unlikely you’ll even notice this difference as class offerings will be similar at all three.
+
+[quote]
+I would choose UMich, because I feel as if it is academically and socially a tier above Neu for me in the opportunities that are available.
+[/quote]
+
+Academically I don’t think that’s true, but socially is something to dig into. What are you looking for socially that UMich offers, but not Northeastern or UMass Amherst?
+
+[quote]
+Programmer here…With CS, it literally makes no difference where you go to school.
+[/quote]
+
+I would disagree with this strongly as a software developer as well. While there is general truth that it’s not quite as important where you go to school and that the name of your degree won’t mean anything, the level of work, the level of peers around you, and initial companies recruiting you does change with significant differences in CS programs. The reason school name doesn’t matter is because experience is the #1 factor. That’s partially affected by where you go to school. I think there’s an argument to be made that the student has more to do with it than the school, and top students tend to go to top schools. But that doesn’t discount the effect of the school you go to entirely IMO.
+It’s certainly too highly focused on generally though, and a difference between the #10 and #30 CS school is negligible at best. But if you’re looking at #15 vs #100/#150/#200, yeah there’s a difference, though not night and day. But for the 3 highlighted schools, as mentioned, there will be virtually no differences.
+
+11.<<<sushiritto>>>
+
+[quote]
+I would choose UMich, because I feel as if it is academically and socially a tier above Neu for me in the opportunities that are available.
+[/quote]
+
+
+[quote]
+Academically I don’t think that’s true, but socially is something to dig into. What are you looking for socially that UMich offers, but not Northeastern or UMass Amherst?
+[/quote]
+
+Out here in Silicon Valley, IMO, Michigan is considered tier above academically. Also, here’s an 2017 article about Silicon Valley companies and what colleges they’re hiring from:
+https://qz.com/967985/silicon-valley-companies-like-apple-aapl-hires-the-most-alumni-of-these-10-universities-and-none-of-them-are-in-the-ivy-league/
+Northeastern doesn’t make the list of the Top 25. And if you switch majors, which many do, then the breath and depth of Michigan’s offerings in almost every department is far better, since 40-50 of their programs are in the Top 10 in the US.
+
+12.<<<Uzername>>>
+@PengsPhils
+Socially, the culture at UMich that revolves around their excellence at football and academics is great. They seem to work hard and play hard there more than any other school. However, is the addition of this great culture worth the extra 100k? Also, are you familiar with the role of how the co-op program and the time spent away from campus affects overall culture and the feeling of community?
+As part of the Honors program at Northeastern I would be able to easily take part in research or start my own projects. Both of which I am actively looking to do. I am not sure how easy this would be at UMich.
+
+13.<<<PengsPhils>>>
+@sushiritto If you actually look at the study, Northeastern is #21 for new grads being hired there. Also, that study doesn’t account for volume (UM produces quite a few CS grads each year), and of course is focusing on just one region of the US. I would suspect a higher percentage of UM grads choose Silicon Valley since Northeastern grads are probably more likely to stay in Boston or go to NYC for example, simply based on locality of the schools. Still, quite a few friends of mine are out in the bay working in the CS world.
+That’s not to say UM isn’t greatly respected in SV, but I don’t think there’s a massive night and day. Especially not one worth paying 160K more for over UMass Amherst or 100K for over Northeastern on CS reputation alone.
+It’s behind a paywall now that wasn’t there a year or two ago, but here’s the data:
+The 25 Most Wanted New-Grad Alumni in 2017 Tech
+“Top alma maters were determined by volume of hires made by the top 25 Silicon Valley companies in the past year.”
+
+UCB
+Stanford
+CMU
+GT
+USC
+SJSU
+Waterloo
+UT-Austin
+UIUC
+UCSD
+Cornell
+ASU
+NCSU
+Cal Poly SLO
+MIT
+Purdue
+Michigan
+Texas A&M
+UCLA
+Washington
+Northeastern
+Santa Clara
+RIT
+UCF
+UT-Dallas
+
+Again, 17 vs 21 is not a significant difference, especially again considering size/locality factors. The presence of other schools highlight those flaws in the survey as well (ASU, UCF, NCSU on program size, SJSU on locality)
+
+14.<<<sushiritto>>>
+@PengsPhils That’s why I said “Out here in Silicon Valley.” I’ve lived in this region all my life and before joining this website, I literally never even heard of Northeastern, nor have I run into one grad here. It’s a limited subset and anecdotal, for sure.
+OTOH, I won’t say the numbers are anywhere near approaching Stanford or Cal alums, but there are a whole lot of Michigan alums out here. Just a quick example, I went to the track yesterday to work out in this period of shelter-in-place and someone yelled “Go Blue” to my D. They were both wearing Michigan garb, of course.
+OP said:
+
+[quote]
+I think I’ve narrowed my options down to Northeastern and UMich and need help deciding between the two schools.
+[/quote]
+
+I’m just taking the OP at their word. The OP stated Michigan is a tier above NEU academically and socially. I just agree. Value to me is in the eye of the beholder.
+
+15.<<<PengsPhils>>>
+
+[quote]
+As part of the Honors program at Northeastern I would be able to easily take part in research or start my own projects. Both of which I am actively looking to do. I am not sure how easy this would be at UMich.
+[/quote]
+
+You should be able to get plenty of research opportunities at both, I wouldn’t be weighing that heavily. Northeastern Honors won’t make professors magically want to work with you more, it will be reaching out to people via classes/connections at both schools to get involved with research.
+
+[quote]
+Socially, the culture at UMich that revolves around their excellence at football and academics is great. They seem to work hard and play hard there more than any other school. However, is the addition of this great culture worth the extra 100k? Also, are you familiar with the role of how the co-op program and the time spent away from campus affects overall culture and the feeling of community?
+[/quote]
+
+I think you’ve got your question highlighted there, though I think only you and your family can answer that.
+As far as Northeastern culture, it’s certainly different from Michigan. It’s very much a nontraditional college experience, for better or worse depending on your preferences. I personally liked it for it not being focused on sports or greek life (only 10% of the student population) and loved having Boston around to explore over a college town feel that Ann Arbor has (one of the best of that type of course though). So again it really just depends what you want.
+Specifically with co-op everyone is on campus for the first 3 semesters and many stay in Boston, especially for their first co-op. Those first 3-5+ semesters lay the social groundwork and people understand that you go on co-op and all, and often people make more of an effort to stay in touch as a result. I think in that way friendships at Northeastern do sometimes require more effort but more closely resemble how socializing works in your mid 20’s where you make the effort for the people who matter to you. Happy to elaborate more as needed!
+
+16.<<<PengsPhils>>>
+@sushiritto
+
+[quote]
+I’m just taking the OP at their word. The OP stated Michigan is a tier above NEU academically and socially. I just agree. Value to me is in the eye of the beholder.
+[/quote]
+
+Of course you can do that. I’m just highlighting that the study you linked to doesn’t show what you’re claiming. I do suspect the number of Northeastern grads has increased over time though, as #9 vs unranked for the total population compared to #17 vs #21 for new grads implies that the increase in Northeastern grads in the bay is recent, which makes sense to me as Northeastern’s CS program underwent a big transformation starting in the early 2000’s. If you’ve been there a significant portion of time, that would track with your anecdotal experience as well.
+
+17.<<<Uzername>>>
+@sushiritto
+I mentioned earlier that my CS experience is very limited. Aside from the ability to switch majors, is the Michigan CS program tailored for students to learn from the ground up. It seems that NEU has a program in place that helps with that. Additionally, what is it, in your opinion that allows Michigan to be so high in the ranks?  What is it that Michigan is doing different from other schools that makes them such a “name brand” especially in CS. (to the best of your knowledge of course)
+
+18.<<<sushiritto>>>
+
+
+
+ PengsPhils:
+[quote]
+@sushiritto
+
+[quote]
+I’m just taking the OP at their word. The OP stated Michigan is a tier above NEU academically and socially. I just agree. Value to me is in the eye of the beholder.
+[/quote]
+
+Of course you can do that. I’m just highlighting that the study you linked to doesn’t show what you’re claiming. I do suspect the number of Northeastern grads has increased over time though, as #9 vs unranked for the total population compared to #17 vs #21 for new grads implies that the increase in Northeastern grads in the bay is recent, which makes sense to me as Northeastern’s CS program underwent a big transformation starting in the early 2000’s. If you’ve been there a significant portion of time, that would track with your anecdotal experience as well.
+[/quote]
+
+1 University of California, Berkeley
+2 Stanford University
+3 Carnegie Mellon University
+4 University of Southern California
+5 The University of Texas at Austin
+6 Georgia Institute of Technology
+7 University of Illinois at Urbana-Champaign
+8 San Jose State University
+9 University of California, San Diego
+10 Arizona State University
+11 University of Michigan
+12 University of California, Los Angeles
+13 North Carolina State University
+14 California Polytechnic State University-San Luis Obispo
+15 Cornell University
+16 University of Waterloo (Canada)
+17 Texas A&M University
+18 University of Washington
+19 Purdue University
+20 Massachusetts Institute of Technology
+21 Santa Clara University
+22 University of Phoenix
+23 University of California, Santa Barbara
+24 University of California, Davis
+25 Penn State University
+Do you see NEU here? I don’t.
+So, yes, what I claim is true. Please don’t infer I’m lying. NEU is NOT in the top 25. You’re arguing about and highlighting “new hires” in one year time frame or “the past year.” I’m highlighting the main article. Maybe the past year was some sort of anomaly of NEU grads. Who knows?
+Transformation in the early 2000’s? Great, that’s almost 20 years now.
+I made my point and moving on.
+
+19.<<<PengsPhils>>>
+
+[quote]
+Please don’t infer I’m lying.
+[/quote]
+
+I directly mentioned that list in my post, I didn’t infer you were lying. The “main article” you’re referencing is simply a summary of a full report. The list I quoted is the exact same source and based on the same data, just looking at a more recent scope. Neither is listed as a more impactful or important in the study, that first list is just the one that QZ picked. They are listed side by side in the full study.
+
+20.<<<Uzername>>>
+@PengsPhils
+I did actually have a bunch of questions about Neu’s co-op.
+Are most co-ops found right in Boston? If so, can you commute straight from campus?
+Additionally, for co-ops that are across the United States, how are students expected to find housing?
+I’m assuming 2 co-ops takes 1 year complete. Does that mean that we’re only in class for 3 years?
+
+21.<<<sushiritto>>>
+
+
+
+ Uzername:
+[quote]
+@sushiritto
+I mentioned earlier that my CS experience is very limited. Aside from the ability to switch majors, is the Michigan CS program tailored for students to learn from the ground up. It seems that NEU has a program in place that helps with that. Additionally, what is it, in your opinion that allows Michigan to be so high in the ranks?  What is it that Michigan is doing different from other schools that makes them such a “name brand” especially in CS. (to the best of your knowledge of course)
+[/quote]
+
+My D is studying STEM in LSA. She has a major and two minors. At Michigan, you can earn your CS degree in LSA or the CoE, which you may know already. If you decide to switch majors, or double major, or add minors, which many, many students do, Michigan has many, many top 10 or 15 programs. Here’s a 2017 article:
+https://lsa.umich.edu/lsa/news-events/all-news/lsa-in-the-news/forty-lsa-programs-in-the-top-ten–says-new-u-s–news-rankings.html
+Of course, that doesn’t take into account the CoE, Nursing, Kinesiology, SMTD, etc. You just won’t get that kind of breath and depth of programs at NEU that you would at Michigan, which is why Michigan is a tier above NEU academically.
+
+22.<<<Uzername>>>
+@sushiritto
+I want to study CS through LSA. I’m just curious as to what benefits I would be getting by going to such a highly ranked CS program. Is the way UMich does CS completely different in the way a slightly lesser ranked NEU would do it?
+The breadth and depth of UMich is certainly unparalleled!
+
+23.<<<PengsPhils>>>
+
+[quote]
+Are most co-ops found right in Boston? If so, can you commute straight from campus? Additionally, for co-ops that are across the United States, how are students expected to find housing?
+[/quote]
+
+A good deal are found in Boston and you can stay in campus housing if you get one there! That said there are plenty of co-op’s in most major cities in the US (and some abroad as well). Northeastern actually has some housing in some of the areas (SF, Chicago, NYC, DC I believe) and for everywhere else you typically find your own housing, typically with other co-op’s in the area and facilitated sometimes by Northeastern itself. Sometimes companies provide housing as well.
+
+[quote]
+I’m assuming 2 co-ops takes 1 year complete. Does that mean that we’re only in class for 3 years?
+[/quote]
+
+You’re still in classes for the same time as any other school (8 semesters minus incoming credit etc). The academic calendar is divided differently to make use of that, mainly through half semester summer semesters (Northeastern is a year round campus). While any major can be done in 4 years with 2 co-op’s, most opt for 5 years and 3 co-ops unless they are planning to go to grad school, in which case the extra year matters more. How quickly you graduate is basically up to you and how busy you want to be.
+There’s a good explanation here (and other good info) in the schedule section here:
+https://talk.collegeconfidential.com/northeastern-university/2122590-co-op-information-and-faq.html
+
+24.<<<sushiritto>>>
+As I said, my kid is not studying CS, but there’s another CC member who has a kid (junior) in the CoE, though not CS.
+@Knowsstuff Can you add anything to help the OP with CS?
+
+25.<<<Sunny66>>>
+I’d go to GA Tech. A top CS program, affordable (much cheaper than Michigan), and if you do not major in CS, you can major in math, physics, engineering, business, and many other things. Big-time ACC sports too (though football team is rebuilding) and great city with warmer weather. GA Tech also has co-op program.
+Otherwise, if your family can afford it without taking out big loans or otherwise hurting too much, go to Michigan.
+
+26.<<<Uzername>>>
+@PengsPhils
+Oh wow, that’s a very helpful thread thank you very much. I was not aware NEU had housing in SF and NYC etc.
+
+27.<<<ucbalumnus>>>
+
+
+
+ Uzername:
+[quote]
+is the Michigan CS program tailored for students to learn from the ground up. It seems that NEU has a program in place that helps with that.
+[/quote]
+
+Colleges where CS is offered generally do have an entry point in the CS course work suitable for students with no prior computing experience (they often also have alternate entry points for students with substantial prior computing experience).
+For Michigan, it appears that the “no experience” entry point is EECS 183, while the “with experience or AP CS or transfer credit” entry point is EECS 280.
+https://bulletin.engin.umich.edu/courses/eecs/
+
+28.<<<PengsPhils>>>
+@Uzername Yep it’s pretty cool! I think it’s only 20 or so in the housing per region, far less than the number of co-op’s in each (I think usually 250 or so per cycle in the bay) but typically most people find apartments together outside of it. The school housing is typically a bit more expensive but “batteries included” so it’s a tradeoff people usually decide on case by case.
+
+29.<<<Uzername>>>
+@Sunny66
+I wouldn’t consider myself a purely math/engineering based person (although I do love both). From your understanding of Georgia Tech, does GTech have breadth in topics to study alongside CS?
+
+30.<<<Sunny66>>>
+Yes, though Michigan would have a wider variety and give you more flexibility. I know of kids who have majored in a wide variety of subjects at GA Tech. NEU is a great school too, but really tough to turn down GA Tech for not much more $ if interested in CS. Michigan is so much more $, but if you can afford it that’s great.
+Their web site says “Georgia Tech has six colleges and 28 schools focusing on Business, Computing, Design, Engineering, Liberal Arts, and Sciences.” They have “37 undergraduate majors and 46 minors.” These are all their programs:
+Aerospace Engineering. Minor, BS, MS, PhD
+Algorithms, Combinatorics, and Optimization. PhD
+Analytics. MS
+Applied Languages and Intercultural Studies. BS, MS
+Applied Physics. BS
+Applied Physiology. PhD
+Applied Systems Engineering. PMASE
+Architecture. Minor, BS, M.Arch, MS, PhD
+Biochemistry. BS
+Bioengineering. MS, PhD
+Bioinformatics. MS, PhD
+Biology. Minor, BS, MS, PhD
+Biomedical Engineering. Minor, BS, MS, PhD
+Biomedical Innovation and Development. MBID
+Building Construction. PhD
+Building Construction and Facility Managment. MS
+Business Administration. BS, MBA.
+Business Administration - Global Business. MBA.
+Business Administration - Management of Technology. MBA.
+Chemical and Biomolecular Engineering. BS
+Chemical Engineering. MS, PhD
+Chemistry. BS, MS, PhD
+Chemistry and Biochemistry. Minor
+Chinese. Minor
+City and Regional Planning. MCRP, PhD
+City and Regional Planning & Architecture. M.Arch/MCRP
+City and Regional Planning & Civil Engineering. MCRP/MSCE
+City and Regional Planning & Public Policy. MCRP/MSPP
+City and Regional Planning & Law. MCRP/JD
+Civil Engineering. BS, MS, PhD
+Computational Data Analysis. Minor
+Computational Media. BS
+Computational Science and Engineering. MS, PhD
+Computer Engineering. BS
+Computer Science. BS, MS, PhD
+Computing and Business. Minor
+Computing and Devices. Minor
+Computing and Information Internetworks. Minor
+Computing and Intelligence. Minor
+Computing and Media. Minor
+Computing and People. Minor
+Computing and Systems and Architecture. Minor
+Computing and Theory. Minor
+Cybersecurity. MS
+Digital Media. MS, PhD
+Earth and Atmospheric Sciences. Minor, BS, MS, PhD
+East Asian Studies. Minor
+Economics. Minor, BS, MS, PhD
+Economics and International Affairs. BS
+Electrical Engineering. BS
+Electrical and Computer Engineering. MS, PhD
+Energy Systems. Minor
+Engineering and Business. Minor
+Engineering Science and Mechanics. MS, PhD
+Environmental Engineering. BS, MS, PhD
+European Studies. Minor
+Film and Media Studies. Minor
+French. Minor
+Geographic Information Science and Technology. MS
+German. Minor
+Global Development. Minor
+Global Economics and Modern Languages. BS
+Global Media and Cultures. MS
+Health and Medical Sciences. Minor
+Health, Medicine, and Society. Minor
+Health Systems. MS
+History. Minor
+History, Technology, and Society. BS
+History and Sociology of Technology and Science. MS, PhD
+Human-Computer Interaction. MS
+Human-Centered Computing. PhD
+Industrial Design. Minor, BS, M.ID
+Industrial Engineering. BS, MS, PhD
+International Affairs. Minor, BS, MS
+International Affairs and Modern Language. BS
+International Affairs, Science, and Technology. PhD
+International Business, Language, and Culture. Minor
+International Logistics. MS
+Japanese. Minor
+Korean. Minor
+Law, Science, and Technology. Minor
+Leadership Studies. Minor
+Linguistics. Minor
+Literature, Media, and Communication. BS
+Machine Learning. PhD
+Management. MS, PhD.
+Materials Science and Engineering. Minor, BS, MS, PhD
+Mathematics. Minor, BS, MS, PhD
+Mechanical Engineering. BS, MS, PhD
+Medical Physics. MS
+Manufacturing Leadership. PMML
+Middle Eastern and North African Studies. Minor
+Music. Minor
+Music Technology. Minor, BS, MS, PhD
+Naval Science. Minor
+Nuclear Engineering. MS, PhD
+Nuclear and Radiological Engineering. Minor, BS
+Neuroscience. BS
+Ocean Science and Engineering. PhD
+Operations Research. MS, PhD
+Occupational Safety and Health. PMOSH
+Philosophy. Minor
+Physics. Minor, BS, MS, PhD
+Physiology. Minor
+Political Science. Minor
+Psychology. Minor, BS, MS, PhD
+Public Policy. Minor, BS, MS, PhD
+Public Policy Joint Degree with Georgia State University. PhD
+Quantitative Biosciences. PhD
+Quantitative and Computational Finance. MS
+Real Estate Development. MRED
+Robotics. Minor, PhD
+Russian. Minor
+Science, Technology, and Society. Minor
+Science Fiction Studies. Minor
+Scientific and Engineering Computing. Minor
+Social Justice. Minor
+Sociology. Minor
+Spanish. Minor
+Sports, Society, and Technology. Minor
+Statistics. MS
+Supply Chain Engineering. MS
+Sustainable Cities. Minor
+Sustainable Electrical Energy. PMSEE
+Sustainable Energy and Environmental Management. MSEEM
+Technology and Business. Minor
+Urban Design. MS
+Women, Science, and Technology. Minor
+*Just looking at majors, they are below:
+Aerospace Engineering. BS
+Applied Languages & Intercultural Studies. BS
+Applied Physics. BS
+Architecture. BS
+Biochemistry. BS
+Biology. BS
+Biomedical Engineering. BS
+Business Administration. BS
+Chemistry. BS
+Chemical and Biomolecular Engineering. BS
+Civil Engineering. BS
+Computational Media. BS
+Computer Engineering. BS
+Computer Science. BS
+Earth and Atmospheric Sciences. BS
+Economics. BS
+Economics and International Affairs. BS
+Electrical Engineering. BS
+Environmental Engineering. BS
+Global Economics and Modern Languages. BS
+History, Technology, and Society. BS
+Industrial Design. BS
+Industrial Engineering. BS
+International Affairs. BS
+International Affairs and Modern Language. BS
+Literature, Media, and Communication. BS
+Mathematics. BS
+Materials Science and Engineering. BS
+Mechanical Engineering. BS
+Music Technology. BS
+Neuroscience. BS
+Nuclear and Radiological Engineering. BS
+Physics. BS
+Psychology. BS
+Public Policy. BS
+
+31.<<<Uzername>>>
+@Sunny66
+How has GTech being top ranked in CS affected kids coming out with an undergraduate degree? It seems that they do have a decent amount of breadth (though not at the scale of UMich). How would the post-undergrad opportunities differ from a school lower in the ranks?
+
+32.<<<Sunny66>>>
+I’m sure it’s been great for their CS grads – it’s one of the top programs in the country. I will let others in the CS industry chime in. I did not attend any of the schools under consideration.
+
+33.<<<Greymeer>>>
+If UMass Amherst and “Amherst” are the same thing. Go with Amherst.
+My opinion:
+
+UMass Amherst: 28k cost
+Georgia Tech: 49k cost, co-op, prestige
+Northeastern Honors: 43k cost, co-op
+
+Cut:
+4. UMich: 67k too expensive
+BU Honors: 77k a year too expensive
+Tufts: 76k too expensive
+
+34.<<<suzyQ7>>>
+You are really focusing on the difference between the quality of these CS programs, but as mentioned, those differences are minimal. What you should focus on is FIT and cost. Is full pay at UMichigan really affordable for your parents? Even after this stock market crash? I’d look into it carefully.
+As to culture and fit - they are very different. Northeastern is a more non-traditional college experience in a cosmopolitan city. UMichigan is a tradition football experience in the midwest. What do you prefer? You are from Mass - do you like Mass and professional New England sports that are the focus in Boston?  Do you want your college experience to be somewhere totally different than where you grew up? That’s what you should think about.
+
+35.<<<Knowsstuff>>>
+@sushiritto. I will do my best.
+First thing is can your parents “cleanly” pay the fees for college for any of your choices. Don’t assume. Sit down and ask. My first look quickly at this was GT was a great combination. All the schools have co-op even Michigan. But at Michigan coops aren’t that big of a thing internships are. You can start at the lowest level at any of these schools and work your way up. Keep something in mind. GT and Michigan are very, very tough schools even for the best students. Read that sentence again!
+Michigan is very, very lenient on switching majors or between schools. Not all schools are. You can do any combination of just about anything you can figure out.
+As far as doing your own thing my son in engineering has about $15,000" grants for a student org he started , put on a complete conference last year and since canceled it is going online next Sunday for free on Augmented Reality and Mixed Reality and it’s real word uses. (PM me if you want a link. Microsoft, Ford etc are talking and doing demo’s).
+His friends on his board for the student org are basically all CS students. Their internships last year were Microsoft, NASA , Amazon, and some tech company in Silicon Valley. 4/4 on this board. Not horrible.
+You are right. The culture at Michigan is different compared to these other schools. No question about it. Rare to have a large Public school that the LSA student body is 3.9 unweighted with 32-35 Act. That’s most schools engineering students. It’s a very academic school. This gets overlooked.
+They also will support anything you want to do. They have the money to spend on their kids. My son is a living example. Need more information PM me.
+Name brand, no question. GT and Michigan have that in spades and also their alumni are powerful.
+But for CS it’s such in high demand that you could go to Pundunk University and get a job.
+So it’s comes down to what your parents can truly afford and what you want your 4 years to look /feel like.
+NE is an excellent school. It’s just a different campus then Michigan’s. Very few schools have 115,000 at football games. Both schools will give you a different 4 year experience. Didn’t say one is better but just different.
+Look up things like clubs and student organizations in your interest to compare between schools.
+So my son doesn’t like coding. But in his 3 years has taken Java, C plus plus, Python , R, Sql, something else. I can tell you of a 2 day, 13 hours CS assignment in in the beginning CS mentioned. 1 problem took that long to figure it out correctly!! Lol. (the usual problems don’t take that long…lol.
+
+36.<<<Uzername>>>
+@suzyQ7
+You make an excellent point. Northeastern provides a great fit for me as it is in the city ,close to home, at a very reasonable price. However, it hurts to overlook the brand name of schools like UM or GT after working hard in high school.
+
+37.<<<Uzername>>>
+@Knowsstuff Thank you for your very thorough reply!
+Obviously, paying close to 40k- 70k a year for tuition is rarely going to be clean for anyone. However I am fortunate that all of these schools are legitimate options for me.
+One thing that especially drew me in was your son’s and his friend’s summer internships. They certainly were not too shabby! Obviously all of them must have been very smart, but in your opinion, would acquiring such amazing opportunities just be easier at UMich compared to the other schools on my list. (Mainly NEU).
+
+38.<<<PengsPhils>>>
+If it’s comparing CS internships from all of these, you can find a list of co-op employers at Northeastern here featuring a very similar set of names:
+https://www.khoury.northeastern.edu/experiential-learning/undergraduate/co-op-overview/
+Anecdotally I know Northeastern people in the bay from my time at Apple, Reddit, Tesla, Yelp, and Lyft.
+
+39.<<<Knowsstuff>>>
+@Uzername. Those were just the example of the random students on the board of the student org he co-founded. Keep in mind. You don’t go to any school and just get these internships. These kids are workers and leaders in other avenues at Michigan also
+They have all made a name for themselves in one way or another. Companies want to see you engaged in the college community. The school didn’t get them anything. The students did. The one with Nasa also won the MIT hackathon last year…all these kids are smart. You have to be to go here or actually any of your choices.
+For my sons group,the actual day they registered with the university several Alumni reached out to them. Some from Silicon Valley. He still has no clue how they actually knew.
+Can’t think he just got lucky. The university has bent over backwards to help him/their group. Professors have become mentors and approached them since they all had similar interests. I have heard this from other parents also.
+
+40.<<<DadTwoGirls>>>
+“You are really focusing on the difference between the quality of these CS programs, but as mentioned, those differences are minimal. What you should focus on is FIT and cost.”
+This is what I think also. I have worked with great software engineers from MIT, Michigan, and U.Mass. You can get a great education at any of these schools.
+I would save my money and get a great education at U.Mass.
+Your hard work in high school will make you substantially better prepared to do well at whichever of these schools you attend.
+
+41.<<<suzyQ7>>>
+
+
+
+ Uzername:
+[quote]
+@suzyQ7
+You make an excellent point. Northeastern provides a great fit for me as it is in the city ,close to home, at a very reasonable price. However, it hurts to overlook the brand name of schools like UM or GT after working hard in high school.
+[/quote]
+
+Do you want to get out of the Northeast or not? that’s what its going to come down to. Forget about the brand names. Do you like the New England vibe or do you want to try something different (not necessarily better, just different)? Do want to do Big Football and Midwestern charm - is that a draw? Or do you want to hang out in Boston with the professional sports vibe, diverse population, but expensive cost of living?  Northeastern is not a traditional college experience -and you have to really want that to love it there. The kids that go there wanting that and knowing that - love it. The kids that don’t, look to transfer because there are not huge frat organized sports events every weekend (obviously, they didn’t do their research). If you want the big college campus and sports scene - I would go with UMichigan (if your parents have the extra $100k), and not UMass because with UMichigan you will get the full ‘different’ experience of moving of out New England.
+
+42.<<<sushiritto>>>
+LSA at Michigan has UROP, the Undergraduate Research Opportunity Program, which was started in 1988:
+https://lsa.umich.edu/urop/about-us.html
+Michigan has a $12 Billion endowment. NEU’s endowment is $1 Billion. And Michigan has the 2nd largest research and development budget:
+https://ncsesdata.nsf.gov/profiles/site?method=rankingBySource&ds=herd
+
+43.<<<Uzername>>>
+@suzyQ7
+I live very close to NEU. A quick train ride from my home brings me to the campus. As for the campus, the co-op centered focus, and the social life on campus are all things that I like. I love the city is Boston as it has been my city for my entire life and I can’t really imagine living anywhere else. (not to say that I woudn’t love it anywhere else). As for UMichigan, from reading peoples personal anecdotes and all the resources UM has online, the hard working academic and very fun social scenes are perfect for me. But I’ve never visited the campus, and can’t say that I will be able to because of COVID. Moving out to Ann Arbor without having steps onto campus will be a bigger shock compared to staying on campus close to my family.
+In summary, I love my city and the vibe of Boston. But, I’m not afraid of the new culture of a big state school. Because of the current pandemic, there is no way of surely knowing what I’m getting into.
+
+44.<<<Uzername>>>
+@Knowsstuff
+I’m sure all those kids were brilliant hard workers seeing as they got such amazing opportunities. Absolutely no discounting that fact. I guess what I wanted to say was, do you think those same kids would have had the same opportunities if they had shown the same work-ethic and smarts at a school like Northeastern?
+
+45.<<<Uzername>>>
+@sushiritto
+Has your kid had any (positive/negative) experience with the UROP program?
+Also that is a considerable difference in endowment money for sure.
+
+46.<<<Knowsstuff>>>
+I don’t know what companies NE attracts but an email to the CS admissions, I am sure they can give you numbers. Or their website.
+Again, if you are active and involved YOU will attract the companies. It’s also kinda luck of the draw. Ask on the NE threads or reddit.
+NE is a great school. You can be successful going there. No question about it.
+
+47.<<<sushiritto>>>
+
+
+
+ Uzername:
+[quote]
+@sushiritto
+Has your kid had any (positive/negative) experience with the UROP program?
+Also that is a considerable difference in endowment money for sure.
+[/quote]
+
+She has not sought an internship yet thru UROP. She had a job lined up for last summer here in CA and soon will try to line another up back here again. However, we’re not sure what the effects and what to expect in our new reality in the US.
+
+48.<<<suzyQ7>>>
+
+
+
+ Uzername:
+[quote]
+@suzyQ7
+I live very close to NEU. A quick train ride from my home brings me to the campus. As for the campus, the co-op centered focus, and the social life on campus are all things that I like. I love the city is Boston as it has been my city for my entire life and I can’t really imagine living anywhere else. (not to say that I woudn’t love it anywhere else). As for UMichigan, from reading peoples personal anecdotes and all the resources UM has online, the hard working academic and very fun social scenes are perfect for me. But I’ve never visited the campus, and can’t say that I will be able to because of COVID. Moving out to Ann Arbor without having steps onto campus will be a bigger shock compared to staying on campus close to my family.
+In summary, I love my city and the vibe of Boston. But, I’m not afraid of the new culture of a big state school. Because of the current pandemic, there is no way of surely knowing what I’m getting into.
+[/quote]
+
+Tough decision for you. Are you a risk taker? Does the idea of starting fresh appeal to you? I really wish you could have gone out there to visit. So unfortunate.
+
+49.<<<Uzername>>>
+@suzyQ7
+It is so hard to commit 4 years to a place you’ve never set foot on. I’m all for calculated risks, though without being on campus, not sure I want to take any risks worth 240k.
+
+50.<<<Uzername>>>
+@sushiritto
+Everything does seem to very uncertain right now. Thank you for your help!
+
+51.<<<Knowsstuff>>>
+Many students can afford to visit schools first like internationals but still do well on the campus of their choice. Fyi…sure you want to visit first. Do the online stuff tours, you tube people have tours etc to get a feel. Facebook groups can help and even connecting with students that were there this year can help. If close maybe you can do a drive through or something…but I don’t think your that close…hmmmm
+You really don’t have bad choices…that is what coins are for…LOL
+
+52.<<<Uzername>>>
+@Knowsstuff
+That is true! These decisions are tough but not impossible! I’ve looked at my fair share of campus tour videos but no way of getting a good feel for it. Although international kids pay pull price, commit, and are happy too without seeing the campus. So much to think about! Thank you so much for your help!
+
+53.<<<theloniusmonk>>>
+I don’t know if internationals are turning down merit money though, they’re all full pay and many, especially at a place like UM, come from serious wealth.
+OP, this is a real tough decision because you haven’t visited and the costs are different.  I will say from undergrad UM alums I meet in silicon valley, they’re generally pretty happy with their experience.  good luck!
+
+54.<<<archimedes17>>>
+Hi OP, thanks so much for starting this thread. Congrats on your acceptances!! I’m a senior from NJ who got into the CS programs at LSA and Khoury, at UMich and Northeastern respectively, along with a few other schools. Are you part of the FB groups? Perhaps we could chat and be of help to each other. LMK!
+

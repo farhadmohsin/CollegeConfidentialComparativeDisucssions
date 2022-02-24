@@ -1,0 +1,611 @@
+{
+    "Wesleyan University": {
+        "dbo:abstract": "Wesleyan University (/\u02c8w\u025bzli\u1d7bn/ WEZ-lee-in or /\u02c8w\u025bsli\u1d7bn/ WES-lee-in) is a leading private liberal arts college in Middletown, Connecticut, founded in 1831. Wesleyan is a Baccalaureate College that emphasizes undergraduate instruction in the arts and sciences, grants research master's degrees in many academic disciplines, and grants PhD degrees in biology, chemistry, mathematics and computer science, molecular biology and biochemistry, music, and physics. Founded under the auspices of the Methodist Episcopal Church and with the support of prominent residents of Middletown, the now secular university was the first institution of higher education to be named after John Wesley, the founder of Methodism. About 20 unrelated colleges and universities were subsequently named after Wesley. Wesleyan, along with Amherst College and Williams College, is a member of the Little Three colleges, an unofficial athletic conference of liberal arts colleges, and is considered a \"Little Ivy\".",
+        "dbo:affiliation": [
+            "dbr:568_Group",
+            "dbr:Consortium_on_Financing_Higher_Education",
+            "dbr:National_Association_of_Independent_Colleges_and_Universities",
+            "dbr:Oberlin_Group",
+            "dbr:Consortium_of_Liberal_Arts_Colleges",
+            "dbr:Annapolis_Group"
+        ],
+        "dbp:usnwrNu": [
+            20
+        ],
+        "dbo:athletics": [
+            "dbr:New_England_Small_College_Athletic_Conference",
+            "dbr:National_Collegiate_Athletics_Association"
+        ],
+        "dbo:city": [
+            "dbr:Middletown,_Connecticut"
+        ],
+        "dbo:endowment": [
+            "8.38E8"
+        ],
+        "dbo:facultySize": [
+            445
+        ],
+        "dbo:numberOfPostgraduateStudents": [
+            241
+        ],
+        "dbo:numberOfStudents": [
+            3138
+        ],
+        "dbo:numberOfUndergraduateStudents": [
+            2897
+        ],
+        "dbo:officialSchoolColour": [
+            "Cardinal and Black"
+        ],
+        "dbo:president": [
+            "dbr:Michael_S._Roth"
+        ],
+        "dbo:provost": [
+            "dbr:Joyce_Jacobsen"
+        ],
+        "dbo:state": [
+            "dbr:Connecticut"
+        ],
+        "dbo:thumbnail": [
+            "wiki-commons:Special:FilePath/Wesleyan_University.svg?width=300"
+        ],
+        "dbo:type": [
+            "dbr:Private_university"
+        ],
+        "dbo:wikiPageExternalLink": [
+            "http://www.wesleyan.edu/",
+            "http://www.wesleying.org/",
+            "https://www.facebook.com/video.php?v=836247386442364",
+            "http://www.wesleyan.edu"
+        ],
+        "dbo:wikiPageID": [
+            241865
+        ],
+        "dbo:wikiPageRevisionID": [
+            745073014
+        ],
+        "dbp:campus": [
+            "Small city,"
+        ],
+        "dbp:country": [
+            "U.S."
+        ],
+        "dbp:date": [
+            "February 2012"
+        ],
+        "dbp:established": [
+            1831
+        ],
+        "dbp:forbes": [
+            9
+        ],
+        "dbp:imageName": [
+            "Wesleyan University Shield.svg"
+        ],
+        "dbp:imageSize": [
+            140
+        ],
+        "dbp:logo": [
+            "dbr:File:Wesleyan_University.svg"
+        ],
+        "dbp:reason": [
+            "does these high jinks still go on?"
+        ],
+        "dbp:sports": [
+            16,
+            29
+        ],
+        "dbp:usnwrLa": [
+            14
+        ],
+        "dbp:wamoLa": [
+            11
+        ],
+        "dbp:wordnet_type": [
+            "http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"
+        ],
+        "dct:subject": [
+            "dbc:New_England_Small_College_Athletic_Conference",
+            "dbc:Members_of_the_Annapolis_Group",
+            "dbc:Members_of_the_Oberlin_Group",
+            "dbc:V-12_Navy_College_Training_Program",
+            "dbc:Buildings_and_structures_in_Middletown,_Connecticut",
+            "dbc:Liberal_arts_colleges_in_Connecticut",
+            "dbc:Universities_and_colleges_in_Middlesex_County,_Connecticut",
+            "dbc:Educational_institutions_established_in_1831",
+            "dbc:Wesleyan_University"
+        ],
+        "http://purl.org/linguistics/gold/hypernym": [
+            "dbr:College"
+        ],
+        "georss:point": [
+            "41.55562 -72.655844"
+        ],
+        "rdf:type": [
+            "owl:Thing",
+            "dul:Agent",
+            "dul:SocialPerson",
+            "wikidata:Q24229398",
+            "wikidata:Q3918",
+            "wikidata:Q43229",
+            "dbo:Agent",
+            "dbo:EducationalInstitution",
+            "dbo:Organisation",
+            "dbo:University",
+            "geo:SpatialThing",
+            "schema:CollegeOrUniversity",
+            "schema:EducationalOrganization",
+            "schema:Organization",
+            "yago:Abstraction100002137",
+            "yago:Artifact100021939",
+            "yago:Depository103177349",
+            "yago:EducationalInstitution108276342",
+            "yago:Facility103315023",
+            "yago:Group100031264",
+            "yago:Institution108053576",
+            "yago:Museum103800563",
+            "yago:Object100002684",
+            "yago:Organization108008335",
+            "yago:PhysicalEntity100001930",
+            "yago:SocialGroup107950920",
+            "yago:University108286569",
+            "yago:Whole100003553",
+            "yago:YagoGeoEntity",
+            "yago:YagoLegalActor",
+            "yago:YagoLegalActorGeo",
+            "yago:YagoPermanentlyLocatedEntity",
+            "yago:WikicatEducationalInstitutionsEstablishedIn1831",
+            "yago:WikicatArtMuseumsInConnecticut",
+            "yago:WikicatUniversitiesAndCollegesInConnecticut",
+            "yago:WikicatUniversitiesAndCollegesInMiddlesexCounty,Connecticut",
+            "yago:WikicatUniversityMuseumsInConnecticut",
+            "yago:WikicatMuseumsInMiddlesexCounty,Connecticut",
+            "yago:WikicatPrivateUniversitiesAndCollegesInTheUnitedStates"
+        ],
+        "rdfs:comment": "Wesleyan University (/\u02c8w\u025bzli\u1d7bn/ WEZ-lee-in or /\u02c8w\u025bsli\u1d7bn/ WES-lee-in) is a leading private liberal arts college in Middletown, Connecticut, founded in 1831. Wesleyan is a Baccalaureate College that emphasizes undergraduate instruction in the arts and sciences, grants research master's degrees in many academic disciplines, and grants PhD degrees in biology, chemistry, mathematics and computer science, molecular biology and biochemistry, music, and physics.",
+        "rdfs:label": "Wesleyan University",
+        "owl:sameAs": [
+            "dbpedia-de:Wesleyan University",
+            "dbpedia-es:Wesleyan University",
+            "dbpedia-fr:Wesleyan University",
+            "dbpedia-id:Wesleyan University",
+            "dbpedia-it:Wesleyan University",
+            "dbpedia-ja:Wesleyan University",
+            "dbpedia-ko:Wesleyan University",
+            "dbpedia-pt:Wesleyan University",
+            "dbpedia-wikidata:Wesleyan University",
+            "wikidata:Wesleyan University",
+            "nyt:Wesleyan University",
+            "geodata:Wesleyan University",
+            "http://sw.cyc.com/concept/Mx4rwBnnzJwpEbGdrcN5Y29ycA",
+            "yago-res:Wesleyan University",
+            "freebase:Wesleyan University",
+            "yago-res:Wesleyan University",
+            "http://d-nb.info/gnd/4027303-9"
+        ],
+        "geo:geometry": [
+            "POINT(-72.65584564209 41.555618286133)"
+        ],
+        "geo:lat": [
+            41.555618
+        ],
+        "geo:long": [
+            -72.655846
+        ],
+        "prov:wasDerivedFrom": [
+            "wikipedia-en:Wesleyan_University?oldid=745073014"
+        ],
+        "foaf:depiction": [
+            "wiki-commons:Special:FilePath/Wesleyan_University.svg"
+        ],
+        "foaf:homepage": [
+            "http://www.wesleyan.edu/"
+        ],
+        "foaf:isPrimaryTopicOf": [
+            "wikipedia-en:Wesleyan_University"
+        ],
+        "foaf:name": [
+            "Wesleyan University (en)"
+        ],
+        "foaf:nick": [
+            "Cardinals (en)"
+        ],
+        "dbo:almaMater": [
+            "dbr:Robert_Ludlum",
+            "dbr:Michael_Bennet",
+            "dbr:Alberto_Ibarg\u00fcen",
+            "dbr:Elisabeth_Harnois",
+            "dbr:John_Henry_Coatsworth",
+            "dbr:Stephen_May_(politician)",
+            "dbr:Stephen_S._Trott",
+            "dbr:George_Edwin_King",
+            "dbr:Steve_Spinner",
+            "dbr:Matthew_Penn",
+            "dbr:John_D._Bates",
+            "dbr:Clarence_E._Hancock",
+            "dbr:Gerald_Holton",
+            "dbr:Joseph_Poindexter",
+            "dbr:David_Josiah_Brewer",
+            "dbr:Elizabeth_Graver",
+            "dbr:Joseph_Cummings",
+            "dbr:Cyrus_David_Foss",
+            "dbr:Katherine_B._Forrest",
+            "dbr:Denise_J._Casper",
+            "dbr:Ernest_A._Inglis",
+            "dbr:Jacob_Walles",
+            "dbr:Edward_Suslovic",
+            "dbr:Paul_Weitz_(filmmaker)",
+            "dbr:Anna_Dewdney",
+            "dbr:Henry_Sanborn_Noyes",
+            "dbr:Herb_Kelleher",
+            "dbr:John_Lipsky",
+            "dbr:Zack_Whedon",
+            "dbr:Kevin_Prufer",
+            "dbr:Emilio_Q._Daddario",
+            "dbr:Richard_Alfred_Rossiter",
+            "dbr:Harry_Tiebout",
+            "dbr:Matthew_Senreich",
+            "dbr:Peter_Pezzelli",
+            "dbr:S._A._K._Durga",
+            "dbr:James_Strong_(theologian)",
+            "dbr:Ashenafi_Kebede",
+            "dbr:Dana_Delany",
+            "dbr:John_S._Wilson_(music_critic)",
+            "dbr:Norris_Cotton",
+            "dbr:Nicholas_Turro",
+            "dbr:David_T._Killion",
+            "dbr:Leonard_Burman",
+            "dbr:Jeffrey_R._Cellars",
+            "dbr:Judith_Newman",
+            "dbr:William_R._Spencer",
+            "dbr:Charles_Francis_Rice",
+            "dbr:Larry_Duberstein",
+            "dbr:Raymond_Bateman",
+            "dbr:Martin_Augustine_Knapp",
+            "dbr:Nicholas_Dirks",
+            "dbr:Michael_S._Roth",
+            "dbr:Jason_Pinter",
+            "dbr:Catie_Lazarus",
+            "dbr:Jessica_Rosenworcel",
+            "dbr:William_G._Howell",
+            "dbr:Edward_G._Biester_Jr.",
+            "dbr:Jan_Eliasberg",
+            "dbr:John_Levi_Martin",
+            "dbr:Kenneth_Lonergan",
+            "dbr:Miles_T._Granger",
+            "dbr:John_B._Frank",
+            "dbr:Bill_Greiner",
+            "dbr:John_Hanson_Twombly",
+            "dbr:Barton_MacLane",
+            "dbr:Bradley_Whitford",
+            "dbr:Josiah_O._Wolcott",
+            "dbr:Charles_Brenner",
+            "dbr:Eliot_Glassheim",
+            "dbr:Michael_E._Greenberg",
+            "dbr:Peter_Shumlin",
+            "dbr:Ward_Farnsworth",
+            "dbr:Jennifer_Tour_Chayes",
+            "dbr:Francis_S._Hoyt",
+            "dbr:Kenneth_D._West",
+            "dbr:Alonzo_J._Edgerton",
+            "dbr:Pagan_Kennedy",
+            "dbr:Gary_Loveman",
+            "dbr:Henry_Wriston",
+            "dbr:Nobutaka_Machimura",
+            "dbr:Walter_Wriston",
+            "dbr:KC_Chan",
+            "dbr:Walter_L._Cutler",
+            "dbr:Michael_Bay",
+            "dbr:John_Hickenlooper",
+            "dbr:Sebastian_Junger",
+            "dbr:Joss_Whedon",
+            "dbr:David_Jay",
+            "dbr:PJ_Manney",
+            "dbr:Maya_Kazan",
+            "dbr:A._LeRoy_Greason",
+            "dbr:Charles_Manning_Child",
+            "dbr:Alex_Knopp",
+            "dbr:Benjamin_T._Biggs",
+            "dbr:Beverly_Daniel_Tatum",
+            "dbr:Douglas_J._Bennet",
+            "dbr:Eddie_Jordan_(attorney)",
+            "dbr:Rick_Tuttle",
+            "dbr:William_North_Rice",
+            "dbr:Charles_Tiebout",
+            "dbr:Raymond_E._Baldwin",
+            "dbr:Charles_Alan_Wright",
+            "dbr:Stanley_Woodward_Davenport",
+            "dbr:Allan_Hobson",
+            "dbr:Hal_Hackady",
+            "dbr:John_A._Randall",
+            "dbr:Mark_R._Kravitz",
+            "dbr:Edward_T._Lewis",
+            "dbr:William_A._Tateum",
+            "dbr:Charles_Rhodes_Pomeroy",
+            "dbr:Edmund_Sonnenblick",
+            "dbr:Jonathan_Soros",
+            "dbr:Kate_Wetherhead",
+            "dbr:Theodore_Shapiro_(psychiatrist)",
+            "dbr:Henry_Gordon_Wells",
+            "dbr:Jed_Hoyer",
+            "dbr:Dan_Wolf",
+            "dbr:Jaclyn_Friedman",
+            "dbr:Kathleen_Clyde",
+            "dbr:Gerald_L._Baliles",
+            "dbr:Benson_K._Buffham",
+            "dbr:Edward_Loranus_Rice",
+            "dbr:Robert_Allbritton",
+            "dbr:Blake_Nelson",
+            "dbr:Charles_Douglas_III",
+            "dbr:Christian_K._Wedemeyer",
+            "dbr:Chuck_Pagano_(ESPN)",
+            "dbr:Jennifer_Finney_Boylan",
+            "dbr:John_Emory_Andrus",
+            "dbr:Elliot_Aronson",
+            "dbr:George_Whitaker_(Oregon_educator)",
+            "dbr:James_Loy",
+            "dbr:Naomi_Mezey",
+            "dbr:James_Pike_(politician)",
+            "dbr:David_Kohan",
+            "dbr:Anthony_Joseph_Scirica",
+            "dbr:David_P._Anderson",
+            "dbr:Mitchell_Jenkins",
+            "dbr:H._Eugene_Stanley",
+            "dbr:Lael_Brainard",
+            "dbr:Lewis_B._Stillwell",
+            "dbr:Christopher_Weaver",
+            "dbr:Jeannie_Baliles",
+            "dbr:Susan_B._Horwitz",
+            "dbr:Andrew_Kleinfeld",
+            "dbr:Erastus_Otis_Haven",
+            "dbr:Mallory_Factor",
+            "dbr:Matt_Lesser",
+            "dbr:Jeff_Galloway",
+            "dbr:Ruth_Behar",
+            "dbr:Christopher_Ottiano",
+            "dbr:Anya_Fernald",
+            "dbr:Erika_Cosby",
+            "dbr:Edward_M._Kennedy_Jr.",
+            "dbr:Horst_Siebert",
+            "dbr:Mark_Bomback",
+            "dbr:Brian_E._Frosh",
+            "dbr:Clark_T._Hinman",
+            "dbr:Shari_Springer_Berman_and_Robert_Pulcini",
+            "dbr:Diana_Farrell",
+            "dbr:Dominic_J._Squatrito",
+            "dbr:Gordon_P._Eaton",
+            "dbr:J._Frederick_Motz",
+            "dbr:Patricia_Head_Minaldi",
+            "dbr:Ron_Bloom",
+            "dbr:Ronald_M._Whyte",
+            "dbr:Terry_J._Hatter_Jr.",
+            "dbr:Sanford_L._Segal",
+            "dbr:Tom_Matlack",
+            "dbr:Michael_Fries",
+            "dbr:Ron_Daniel",
+            "dbr:Steven_Walsh",
+            "dbr:Jeongdo_Hong",
+            "dbr:Karen_Donfried",
+            "dbr:Gregory_Mandel"
+        ],
+        "dbo:award": [
+            "dbr:William_Healey_Dall"
+        ],
+        "dbo:education": [
+            "dbr:Majora_Carter",
+            "dbr:Stephen_Metcalf_(writer)",
+            "dbr:Michael_Palmer_(novelist)",
+            "dbr:Kim_Wayans",
+            "dbr:Hunter_Carson",
+            "dbr:Gerald_Tsai",
+            "dbr:Ayelet_Waldman",
+            "dbr:J._Kates",
+            "dbr:Rich_Benjamin",
+            "dbr:Edward_Thorndike",
+            "dbr:Marysol_Castro",
+            "dbr:Orange_Judd",
+            "dbr:David_Brancaccio",
+            "dbr:Jonathan_I._Schwartz",
+            "dbr:Kaylie_Jones",
+            "dbr:Fremont_Rider",
+            "dbr:Jordan_Goldman",
+            "dbr:Arthur_W._Chickering",
+            "dbr:Theodore_E._Hancock",
+            "dbr:Sasha_Chanoff",
+            "dbr:Andrew_Berman",
+            "dbr:Gail_O'Neill",
+            "dbr:Halley_Feiffer",
+            "dbr:Wells_Tower"
+        ],
+        "dbo:employer": [
+            "dbr:Stanley_Lebergott",
+            "dbr:Jan_Willis"
+        ],
+        "dbo:institution": [
+            "dbr:Francisco_Rodr\u00edguez_(economist)",
+            "dbr:Gary_Yohe"
+        ],
+        "dbo:owner": [
+            "dbr:WESU"
+        ],
+        "dbo:parentCompany": [
+            "dbr:Wesleyan_University_Press"
+        ],
+        "dbo:team": [
+            "dbr:Amos_Magee",
+            "dbr:Amos_Magee__1"
+        ],
+        "dbo:training": [
+            "dbr:Momodou_Ceesay_(artist)",
+            "dbr:Lyle_Ashton_Harris",
+            "dbr:Glenn_Ligon",
+            "dbr:David_Karp_(pomologist)",
+            "dbr:Jody_Zellen",
+            "dbr:Aki_Sasamoto"
+        ],
+        "dbo:wikiPageDisambiguates": [
+            "dbr:Wesleyan_(disambiguation)"
+        ],
+        "dbo:wikiPageRedirects": [
+            "dbr:Wesleyan_university",
+            "dbr:Para_La_Familia",
+            "dbr:Olin_memorial_library",
+            "dbr:College_of_Social_Studies",
+            "dbr:Wesleyan_Cardinals",
+            "dbr:Silloway_Gymnasium",
+            "dbr:Wesleyan_University_(Connecticut)",
+            "dbr:Wesleyan_U",
+            "dbr:Weselyan",
+            "dbr:Wesleyan_(CT)_Cardinals",
+            "dbr:Wesleyan_(Conn.)_Cardinals",
+            "dbr:Wesleyan_(Connecticut)_Cardinals",
+            "dbr:Davison_Art_Center",
+            "dbr:Bradford_P._Raymond",
+            "dbr:John_W._Beach",
+            "dbr:Wesleyen_University",
+            "dbr:Wesleyan_Cardinals_baseball",
+            "dbr:Rho_Epsilon_Pi",
+            "dbr:Olin_Memorial_Library",
+            "dbr:The_Wesleyan_Argus"
+        ],
+        "dbp:almaMater": [
+            "dbr:William_Rice_(Methodist_minister)",
+            "dbr:Ethan_Bronner",
+            "dbr:Paul_North_Rice",
+            "dbr:Brooke_Singer",
+            "dbr:Debra_Haffner",
+            "dbr:Lin-Manuel_Miranda",
+            "dbr:DJ_Reach",
+            "dbr:Abshalom_Jac_Lahav",
+            "dbr:Willie_Garson",
+            "dbr:Peter_Lipton",
+            "dbr:Jordan_C._Wells",
+            "dbr:Donald_Zilkha",
+            "dbr:Adam_Hann-Byrd",
+            "dbr:Jonas_Carpignano"
+        ],
+        "dbp:birthplace": [
+            "dbr:Commons_club"
+        ],
+        "dbp:coachTeam": [
+            "dbr:Steve_Pikiell",
+            "dbr:Jack_Blott",
+            "dbr:David_McLaughlin_(basketball)"
+        ],
+        "dbp:college": [
+            "dbr:Jeff_Wilner",
+            "dbr:Eric_Mangini",
+            "dbr:Bill_Belichick"
+        ],
+        "dbp:currentTeam": [
+            "dbr:Jack_Siedlecki"
+        ],
+        "dbp:education": [
+            "dbr:Gregory_Rogove",
+            "dbr:Hari_Kondabolu",
+            "dbr:William_L._Lane"
+        ],
+        "dbp:institution": [
+            "dbr:Wesleyan_Student_Assembly"
+        ],
+        "dbp:institutions": [
+            "dbr:Joyce_P._Jacobsen",
+            "dbr:Michael_C._Lovell",
+            "dbr:Elizabeth_Willis"
+        ],
+        "dbp:name": [
+            "dbr:Norm_Daniels_(American_football)",
+            "dbr:Steve_Pikiell"
+        ],
+        "dbp:occupation": [
+            "dbr:Maddie_Coleman"
+        ],
+        "dbp:opponent": [
+            "dbr:1905\u201306_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1915\u201316_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1916\u201317_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1917\u201318_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1919\u201320_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1920\u201321_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1921\u201322_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1922\u201323_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1923\u201324_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1924\u201325_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1925\u201326_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1926\u201327_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1928\u201329_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1929\u201330_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1930\u201331_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1931\u201332_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1932\u201333_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1933\u201334_Connecticut_Aggies_men's_basketball_team",
+            "dbr:1934\u201335_Connecticut_State_Huskies_men's_basketball_team",
+            "dbr:1935\u201336_Connecticut_State_Huskies_men's_basketball_team",
+            "dbr:1936\u201337_Connecticut_State_Huskies_men's_basketball_team",
+            "dbr:1937\u201338_Connecticut_State_Huskies_men's_basketball_team",
+            "dbr:1938\u201339_Connecticut_State_Huskies_men's_basketball_team",
+            "dbr:1939\u201340_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1940\u201341_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1941\u201342_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1942\u201343_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1943\u201344_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1944\u201345_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1945\u201346_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1946\u201347_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1947\u201348_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1948\u201349_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1949\u201350_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1950\u201351_Connecticut_Huskies_men's_basketball_team",
+            "dbr:1951\u201352_Connecticut_Huskies_men's_basketball_team"
+        ],
+        "dbp:organization": [
+            "dbr:Van_Vleck_Observatory"
+        ],
+        "dbp:playerTeam": [
+            "dbr:Harry_Van_Surdam"
+        ],
+        "dbp:playerTeams": [
+            "dbr:Willard_Gildersleeve"
+        ],
+        "dbp:school": [
+            "dbr:List_of_Phi_Beta_Sigma_chapters",
+            "dbr:List_of_Alpha_Epsilon_Pi_chapters",
+            "dbr:List_of_Phi_Sigma_Kappa_chapters"
+        ],
+        "dbp:workInstitution": [
+            "dbr:William_North_Rice",
+            "dbr:C._H._Waddington"
+        ],
+        "dbp:workInstitutions": [
+            "dbr:George_Humphrey_(psychologist)"
+        ],
+        "dbp:workplaces": [
+            "dbr:Max_Tishler",
+            "dbr:David_P._McAllester",
+            "dbr:Satoshi_\u014cmura",
+            "dbr:Elmer_Eric_Schattschneider",
+            "dbr:Arno_J._Mayer",
+            "dbr:Scott_Plous",
+            "dbr:Martin_Ostwald",
+            "dbr:John_Alexander_McGeoch"
+        ],
+        "foaf:primaryTopic": [
+            "wikipedia-en:Wesleyan_University"
+        ]
+    },
+    "College of William & Mary": {
+        "dbo:city": [
+            "Williamsburg, Virginia"
+        ],
+        "dbo:numberOfUndergraduateStudents": [
+            "6377"
+        ],
+        "dbo:type": [
+            "Public University",
+            "Research University"
+        ],
+        "dbo:facultySize": [
+            "738"
+        ]
+    }
+}
