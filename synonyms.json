@@ -1,0 +1,549 @@
+{
+    "Allegheny College": [
+        "Allegheny"
+    ],
+    "Amherst College": [
+        "Amherst",
+        "AC"
+    ],
+    "Bard College": [
+        "Bard"
+    ],
+    "Barnard College": [
+        "Barnard"
+    ],
+    "Bates College": [
+        "Bates"
+    ],
+    "Binghamton University": [
+        "Binghamton",
+        "Bing"
+    ],
+    "Boston College": [
+        "BC"
+    ],
+    "Boston University": [
+        "BU"
+    ],
+    "Bowdoin College": [
+        "Bowdoin"
+    ],
+    "Brown University": [
+        "Brown"
+    ],
+    "Bryn Mawr College": [
+        "Bryn Mawr",
+        "BMC"
+    ],
+    "California Institute of Technology": [
+        "Caltech"
+    ],
+    "Cambridge University": [
+        "Cambridge U",
+        "Cambridge"
+    ],
+    "Carleton College": [
+        "Carleton"
+    ],
+    "Carnegie Mellon University": [
+        "CMU",
+        "Carnegie Mellon"
+    ],
+    "Case Western University": [
+        "CWRU",
+        "Case Western Reserve",
+        "Case",
+        "Case Western Reserve University"
+    ],
+    "Cabrini University": [
+        "Cabrini",
+        "Cabrini U"
+    ],
+    "Central Michigan University": [
+        "Central Michigan",
+        "CMU"
+    ],
+    "Clemson University": [
+        "Clemson"
+    ],
+    "Colby College": [
+        "Colby"
+    ],
+    "Colgate University": [
+        "Colgate"
+    ],
+    "College of William & Mary": [
+        "W&M",
+        "William and Mary",
+        "William & Mary",
+        "WM"
+    ],
+    "Columbia University": [
+        "Columbia",
+        "Columbia College",
+        "CC"
+    ],
+    "Cornell University": [
+        "Cornell"
+    ],
+    "Dartmouth College": [
+        "Dartmouth"
+    ],
+    "Davidson College": [
+        "Davidson"
+    ],
+    "Dickinson College": [
+        "Dickinson"
+    ],
+    "Drexel University": [
+        "Drexel"
+    ],
+    "Duke University": [
+        "Duke"
+    ],
+    "Emory University": [
+        "Emory",
+        "Emory Uni"
+    ],
+    "Florida State University": [
+        "FSU",
+        "Florida State"
+    ],
+    "Fordham University": [
+        "Fordham"
+    ],
+    "Franklin & Marshall College": [
+        "Franklin & Marshall",
+        "F & M",
+        "F&M",
+        "Franklin and Marshall"
+    ],
+    "Franklin W. Olin College of Engineering": [
+        "Olin College",
+        "Olin"
+    ],
+    "Georgetown University": [
+        "Georgetown",
+        "GU",
+        "Gtown"
+    ],
+    "Georgia Institute of Technology": [
+        "Georgia Tech",
+        "GT",
+        "GTech",
+        "GATech",
+        "GA Tech",
+        "GA",
+        "Georgia",
+        "GeorgeTech"
+    ],
+    "Grinnell College": [
+        "Grinnell"
+    ],
+    "Hamilton College": [
+        "Hamilton"
+    ],
+    "Harvard University": [
+        "Harvard"
+    ],
+    "Harvey Mudd College": [
+        "Harvey Mudd",
+        "HMC",
+        "Mudd"
+    ],
+    "Haverford College": [
+        "Haverford"
+    ],
+    "Imperial College London": [
+        "ICL",
+        "Imperial",
+        "Imperial London",
+        "Imperial College"
+    ],
+    "Indiana University": [
+        "IU",
+        "Indiana"
+    ],
+    "Johns Hopkins University": [
+        "JHU",
+        "Johns Hopkins",
+        "John's Hopkins"
+    ],
+    "Kenyon College": [
+        "Kenyon"
+    ],
+    "Knox College": [
+        "Knox"
+    ],
+    "Louisiana State University": [
+        "LSU"
+    ],
+    "Marist College": [
+        "Marist"
+    ],
+    "Massachusetts Institute of Technology": [
+        "MIT"
+    ],
+    "McGill University": [
+        "McGill"
+    ],
+    "Michigan State University": [
+        "Michigan State",
+        "MSU"
+    ],
+    "Middlebury College": [
+        "Middlebury",
+        "Midd"
+    ],
+    "Mount Holyoke College": [
+        "MHC",
+        "Mount Holyoke"
+    ],
+    "New York Institute of Technology": [
+        "NYIT"
+    ],
+    "New York University": [
+        "NYU"
+    ],
+    "North Carolina State University": [
+        "NCSU",
+        "NC State",
+        "NC State Unversity"
+    ],
+    "Northeastern University": [
+        "Northeastern",
+        "NEU",
+        "Northeastern U"
+    ],
+    "Northwestern University": [
+        "Northwestern",
+        "NU"
+    ],
+    "Oberlin College": [
+        "Oberlin"
+    ],
+    "Ohio State University": [
+        "OSU",
+        "Ohio State"
+    ],
+    "Oxford University": [
+        "Oxford"
+    ],
+    "Pace University": [
+        "Pace"
+    ],
+    "Pennsylvania State University": [
+        "Penn State",
+        "PSU",
+        "PennState",
+        "Penn St"
+    ],
+    "Pomona College": [
+        "Pomona"
+    ],
+    "Princeton University": [
+        "Princeton"
+    ],
+    "Purdue University": [
+        "Purdue"
+    ],
+    "Rensselaer Polytechnic Institute": [
+        "RPI"
+    ],
+    "Rice University": [
+        "Rice"
+    ],
+    "Rochester Institute of Technology": [
+        "RIT"
+    ],
+    "Rose-Hulman Institute of Technology": [
+        "Rose-Hulman",
+        "Rose Hulman",
+        "Rose",
+        "RHIT"
+    ],
+    "Rutgers University": [
+        "Rutgers",
+        "RU"
+    ],
+    "Saint Louis University": [
+        "SLU"
+    ],
+    "Scripps College": [
+        "Scripps"
+    ],
+    "Skidmore College": [
+        "Skidmore"
+    ],
+    "Smith College": [
+        "Smith"
+    ],
+    "Southern Methodist University": [
+        "SMU"
+    ],
+    "Stanford University": [
+        "Stanford"
+    ],
+    "Swarthmore College": [
+        "Swarthmore"
+    ],
+    "Syracuse University": [
+        "Syracuse"
+    ],
+    "Temple University": [
+        "Temple"
+    ],
+    "Tulane University": [
+        "Tulane"
+    ],
+    "United States Naval Academy": [
+        "USNA"
+    ],
+    "University of Alabama": [
+        "Alabama",
+        "UA"
+    ],
+    "University of Arizona": [
+        "U of Arizona",
+        "Arizona",
+        "UArizona",
+        "U of A"
+    ],
+    "University of California, Berkeley": [
+        "Cal Berkeley",
+        "Berkeley",
+        "UC Berkeley",
+        "UCB",
+        "Cal"
+    ],
+    "University of California, Irvine": [
+        "UC Irvine",
+        "UCI",
+        "Irvine"
+    ],
+    "University of California, Los Angeles": [
+        "UCLA"
+    ],
+    "University of California, Riverside": [
+        "UCR",
+        "Riverside",
+        "UC Riverside"
+    ],
+    "University of California, San Diego": [
+        "UC San Diego",
+        "UCSD",
+        "San Diego"
+    ],
+    "University of California, Santa Barbara": [
+        "UCSB",
+        "UC Santa Barbara",
+        "Santa Barbara"
+    ],
+    "University of Cambridge": [
+        "Cambridge University",
+        "Cambridge U",
+        "Cambridge",
+        "Cam"
+    ],
+    "University of Connecticut": [
+        "UConn"
+    ],
+    "University of Chicago": [
+        "UChicago",
+        "U of Chicago",
+        "Chicago",
+        "UChi"
+    ],
+    "University of Delaware": [
+        "U Delaware",
+        "UDel"
+    ],
+    "University of Florida": [
+        "UF"
+    ],
+    "University of Georgia": [
+        "UGA"
+    ],
+    "University of Illinois at Urbana-Champaign": [
+        "UIUC",
+        "University of Illinois Urbana-Champaign",
+        "U Illinois - Urbana Champaign"
+    ],
+    "University of Maryland": [
+        "UMD",
+        "Maryland",
+        "U Maryland",
+        "Univ of Maryland"
+    ],
+    "University of Massachusetts Amherst": [
+        "UMass Amherst",
+        "UMass A",
+        "UMass",
+        "UMass-Amherst",
+        "University of Massachusetts- Amherst"
+    ],
+    "University of Michigan": [
+        "UMich",
+        "Michigan",
+        "U of Michigan",
+        "U of MI",
+        "UMichigan",
+        "UM",
+        "U of M",
+        "U-M",
+        "UM",
+        "UofM",
+        "U Mich"
+    ],
+    "University of Minnesota": [
+        "U of Minnesota",
+        "UMN"
+    ],
+    "University of Nebraska-Lincoln": [
+        "Nebraska-Lincoln",
+        "UNL",
+        "Nebraska"
+    ],
+    "University of North Carolina": [
+        "UNC",
+        "Carolina"
+    ],
+    "University of North Carolina at Chapel Hill": [
+        "UNC"
+    ],
+    "University of Notre Dame": [
+        "Notre Dame",
+        "ND"
+    ],
+    "University of Pennsylvania": [
+        "UPenn",
+        "Penn",
+        "U of Pennsylvania"
+    ],
+    "University of Pittsburgh": [
+        "Pittsburgh",
+        "Pitt",
+        "UPitt"
+    ],
+    "University of Puget Sound": [
+        "Puget Sound",
+        "UPS"
+    ],
+    "University of Richmond": [
+        "Richmond",
+        "UR",
+        "URichmond"
+    ],
+    "University of Rochester": [
+        "URochester",
+        "Rochester",
+        "U of R",
+        "U of Rochester",
+        "UofR",
+        "URoch",
+        "U Roc",
+        "U Rochester"
+    ],
+    "University of South Carolina": [
+        "South Carolina",
+        "USC",
+        "SC"
+    ],
+    "University of Southern California": [
+        "USC"
+    ],
+    "University of Texas at Austin": [
+        "UT Austin",
+        "UT",
+        "Texas",
+        "UTAustin",
+        "UT-Austin"
+    ],
+    "University of Vermont": [
+        "UVM",
+        "Vermont"
+    ],
+    "University of Virginia": [
+        "UVA"
+    ],
+    "University of Washington": [
+        "UW"
+    ],
+    "University of Wisconsin-Madison": [
+        "Wisconsin",
+        "UWM",
+        "UW",
+        "U Wisconsin(Madison)",
+        "UW-Madison",
+        "UW Madison",
+        "UWisconsin Madison",
+        "U Wisconsin Madison",
+        "U Wisconsin",
+        "UWisconsin"
+    ],
+    "University of Zurich": [
+        "UZH",
+        "Zurich",
+        "U of Zurich"
+    ],
+    "Vanderbilt University": [
+        "Vanderbilt",
+        "Vandy"
+    ],
+    "Vassar College": [
+        "Vassar"
+    ],
+    "Virginia Polytechnic Institute": [
+        "Virginia Tech",
+        "VT",
+        "VPI"
+    ],
+    "Virginia Tech": [
+        "VT"
+    ],
+    "Wake Forest University": [
+        "Wake Forest",
+        "Wake",
+        "WFU"
+    ],
+    "Washington State University": [
+        "WSU"
+    ],
+    "Washington University in St. Louis": [
+        "WashU",
+        "WUSTL",
+        "Wash U"
+    ],
+    "Wellesley College": [
+        "Wellesley"
+    ],
+    "Wesleyan University": [
+        "Wesleyan",
+        "Wes"
+    ],
+    "West Chester University of Pennsylvania": [
+        "West Chester University",
+        "WCU",
+        "West Chester"
+    ],
+    "West Point": [
+        "WP",
+        "USMA"
+    ],
+    "Whitman College": [
+        "Whitman"
+    ],
+    "Williamette University": [
+        "Williamette",
+        "WU"
+    ],
+    "Williams College": [
+        "Williams"
+    ],
+    "Worcester Polytechnic Institute": [
+        "WPI"
+    ],
+    "Yale University": [
+        "Yale"
+    ]
+}

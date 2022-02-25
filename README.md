@@ -5,23 +5,22 @@ The discussions are usually in the format of a thread, first post asking for a c
 In total, we have 53 discussions and 2140 comments with annotations.
 
 The discussions were labeled through Amazon Mechanical Turk. 
-At most, each comment has 3 labels, but in some cases we faced ties in the labels. In total, we have 5860 labels for our dataset.
-
+We have 2864 annotations for each 
 The dataset was presented in **Making Group Decisions from Natural Language-Based Preferences** (*Farhad Mohsin, Lei Luo, Wufei Ma, Inwon Kang, Zhibing Zhao, Ao Liu, Rohit Vaish, Lirong Xia*)
 
 ### Files/Directories:
 
-- **[text](/text)**
+- **[Data file](/cc_raw_data.csv)**
 contains all the discussions in an unstructured format.
+**Columns:**
+  - Raw_text: contains unfiltered text
+  - Label: Aggregate label from Mturk
+  - Alt_a: Name of first alternative being compared
+  - Alt_b: Name of second alternative being compared
+  - n_colleges: Number of colleges being discussed in the original thread
+  - discussion_title: Title and unique identifier of College Confidential Dataset
+  - discussion_index: Index of the comment in the discussion
+  - processed_text: Processed version of the text.
 
-- **[json/entities](/json/entities)**
-contains the pre-defined entities for each discussion
-
-- **[json/comments](/json/comments)**
-contain the discussion in a json format
-<!-- * TODO: combined/ contains separate directory for each annotated discussion. But the file is incomplete, with the "comment" column empty. Need to fix this -->
-
-- **[all_annotations.csv](/all_annotations.csv)**
-has all annotations from all annotators. i.e., each pair of alternative will have multiple annotations (from different annotators) for each comment
-- **[/aggregate_labels.csv](/aggregate_labels.csv)** 
-has one annotation for each pair of alternative in each comment (the majority annotation)
+- **[synonyms.json](/synonyms.json)**
+Contains all synonyms that appear in the dataset for each alternative.
