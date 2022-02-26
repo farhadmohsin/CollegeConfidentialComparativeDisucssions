@@ -4,9 +4,10 @@ This repository contains the discussions scraped from [College Confidential Foru
 The discussions are usually in the format of a thread, first post asking for a comparison between multiple colleges, and the rest of the thread responding to the question.
 In total, we have 53 discussions and 2140 comments with annotations.
 
-The discussions were labeled through Amazon Mechanical Turk. 
-We have 2864 annotations for each 
-The dataset was presented in **Making Group Decisions from Natural Language-Based Preferences** (*Farhad Mohsin, Lei Luo, Wufei Ma, Inwon Kang, Zhibing Zhao, Ao Liu, Rohit Vaish, Lirong Xia*)
+The discussions were labeled through Amazon Mechanical Turk. The labels presented in the final file is the majority label from three labellers. 
+The dataset has 2864 pairwise comparisons in total.  
+
+Cite as Farhad Mohsin, Lei Luo, Wufei Ma, Inwon Kang, Zhibing Zhao, Ao Liu, Rohit Vaish, and Lirong Xia. Making group decisions from natural language-based preferences. In *The 8th International Workshop on Computational Social Choice (COMSOC-2021)*, 2021
 
 ### Files/Directories:
 
@@ -19,8 +20,7 @@ contains all the discussions in an unstructured format.
   - Alt_b: Name of second alternative being compared
   - n_colleges: Number of colleges being discussed in the original thread
   - discussion_title: Title and unique identifier of College Confidential Dataset
-  - discussion_index: Index of the comment in the discussion
-  - processed_text: Processed version of the text.
-
+  - comment_index: Index of the comment in the discussion
+  
 - **[synonyms.json](/synonyms.json)**
 Contains all synonyms that appear in the dataset for each alternative.
